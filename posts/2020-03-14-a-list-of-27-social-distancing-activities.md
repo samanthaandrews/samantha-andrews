@@ -26,7 +26,7 @@ As an introvert, social distancing isn’t out of my comfort zone. I find that b
 5. [Write a poem](https://thecreativeindependent.com/guides/how-to-write-a-poem/)
 6. Make a collage out of items from your recycle bin
 7. Make a "before I die" checklist
-8. Make a “things I’m scared of” checklist and commit to completing one of them in 2020
+8. Make a "things I’m scared of" checklist and commit to completing one of them in 2020
 9. [Make a DIY face mask](https://theeverygirl.com/diy-face-masks/) & have a spa day
 10. [Paint your nails](https://www.manrepeller.com/2020/01/how-to-perfect-manicure.html)
 11. Collect a series of inspirational images and set them to rotate on your desktop background
@@ -58,3 +58,7 @@ If you are healthy and fortunate enough to work from home and/or still collect a
 - Spread the word about services and resources that are being offered in your community
 
 Stay safe & take care of each other, friends!
+
+Here's a collage I made today as part of my social isolation. Featuring clippings from Oprah magazine.
+
+![Today I made a collage of myself as an artist, writer, programmer!]({{ '/img/posts/2020-03-14-social-distance-collage.jpg' | url }})
