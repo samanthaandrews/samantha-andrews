@@ -3,7 +3,7 @@ title: "Collecting Moments (I got engaged!)"
 description: What I learned about gratitude from paying extra close attention on the day of my proposal.
 date: 2020-03-14
 tags:
-  - paying attention
+  - the art of paying attention
   - growth
 layout: layouts/post.njk
 ---

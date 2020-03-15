@@ -35,6 +35,15 @@ body {
   overflow: scroll;
 }
 
+.buttondown-attr {
+  font-size: 0.5em;
+}
+
+.callout > form {
+  padding-bottom: 10px;
+  border-bottom: 1px dashed var(--lightgray);
+}
+
 p:last-child {
   margin-bottom: 0;
 }

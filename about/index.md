@@ -16,3 +16,5 @@ Last year I struggled through a long period of burnout. As an ambitious overachi
 I read the Artist’s Way and started writing Morning Pages. This blog and website was born from the healing and clarity that came from resisting all of the traditional advice about starting a blog—There are no tracking links or cookies and I’m not concerned about optimizing keywords or counting page views. **Just ideas, fun projects, and space to make mistakes.**
 
 I believe my purpose on this planet is to nourish myself and others with love, truth, beauty, creativity, and laughter. Thank you for being here. Now let’s get back to testing spaghetti recipes, shall we?
+
+Contact me by email at [samanthaspaghetti@gmail.com](mailto:samanthaspaghetti@gmail.com).

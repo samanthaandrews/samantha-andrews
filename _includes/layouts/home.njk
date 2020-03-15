@@ -4,7 +4,22 @@ templateClass: tmpl-home
 ---
 <div class="callout">
     <p>I am a multi-media artist, programmer, and writer based in Albuquerque, New Mexico. Recovering productivity addict. Currently exploring what it means to live a creative life. On an eternal quest to find the best spaghetti recipe.</p>
-    <p>Subscribe to my weekly-ish newsletter for inspiration & tips to help you start and finish big, scary creative projects. Also for birds, DIY projects, recipes, and mindfulness exercises to nurture your inner artist :)</p>
+    <p>Subscribe to my weekly-ish <a href="https://buttondown.email/samantha-andrews">newsletter</a> for inspiration & tips to help you start and finish big, scary creative projects. Also for birds, DIY projects, recipes, and mindfulness exercises to nurture your inner artist :)</p>
+    <form
+        action="https://buttondown.email/api/emails/embed-subscribe/samantha-andrews"
+        method="post"
+        target="popupwindow"
+        onsubmit="window.open('https://buttondown.email/samantha-andrews', 'popupwindow')"
+        class="embeddable-buttondown-form"
+        >
+        <label for="bd-email">Enter your email</label>
+        <input type="email" name="email" id="bd-email">
+        <input type="hidden" value="1" name="embed"></input>
+        <input type="submit" value="Subscribe"></input>
+        <p class="buttondown-attr">
+            <a href="https://buttondown.email" target="_blank">Powered by Buttondown.</a>
+        </p>
+    </form>
     <p>You can also follow me on social media at the links below:</p>
     <ul>
         <li>
