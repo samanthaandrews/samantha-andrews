@@ -1,15 +1,15 @@
 {
-  "title": "Your Blog Name",
-  "url": "https://myurl.com/",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "title": "Samantha Andrews",
+  "url": "https://samantha-andrews.com/",
+  "description": "Samantha is an artist, programmer, designer, and writer exploring what it means to live a creative life.",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "Samantha is an artist, programmer, designer, and writer exploring what it means to live a creative life.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://myurl.com/"
+    "id": "https://samantha-andrews.com/"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com"
+    "name": "Samantha Andrews",
+    "email": "samanthaspaghetti@gmail.com"
   }
 }
