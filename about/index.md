@@ -4,7 +4,7 @@ title: About
 templateClass: tmpl-post
 eleventyNavigation:
   key: About
-  order: 3
+  order: 2
 ---
 
 I am a multi-media artist, programmer, and writer based in Albuquerque, New Mexico. My work mostly explores human interaction with technology and capitalism.

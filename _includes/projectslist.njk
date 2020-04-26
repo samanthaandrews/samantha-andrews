@@ -1,0 +1,11 @@
+<div class="project-preview-page">
+  {% for project in projectslist %}
+    <div class="project-preview-item">
+      <a href="{{ project.url | url }}">
+        <img class="project-preview-image" src="{{ project.data.previewImage }}" alt="{{ project.data.title }}">
+        <h2>{{ project.data.title }}</h2>
+        <p>{{ project.data.description }}</p>
+      </a>
+    </div>
+  {% endfor %}
+</div>

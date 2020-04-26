@@ -61,4 +61,4 @@ Stay safe & take care of each other, friends!
 
 Here's a collage I made today as part of my social isolation. Featuring clippings from Oprah magazine.
 
-![Today I made a collage of myself as an artist, writer, programmer!]({{ '/img/posts/2020-03-14-social-distance-collage.jpg' | url }})
+![Today I made a collage of myself as an artist, writer, programmer!]({{ 'https://samantha-andrews.s3.us-east-2.amazonaws.com/writing/2020-03-14-social-distance-collage.jpg' | url }})

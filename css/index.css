@@ -265,3 +265,69 @@ a[href].direct-link:focus:visited,
 :hover > a[href].direct-link:visited {
   color: #aaa;
 }
+
+main.tmpl-project > div {
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.tmpl-project > div > div:first-child {
+  margin-left: 1rem;
+}
+
+.tmpl-project > div > div > h1 {
+  font-size: 1rem;
+  font-style: italic;
+}
+
+.tmpl-project > div > div > h2 {
+  font-size: 0.7rem;
+}
+
+.short-project-description {
+  font-size: 0.7rem;
+  font-style: italic;
+}
+
+.tmpl-project > div > p {
+  margin: 0;
+}
+
+.project-preview-page {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.project-preview-item > a {
+  text-decoration: none;
+}
+
+.project-preview-item > a > h2:hover {
+  text-decoration: underline;
+}
+
+.project-preview-item > a > h2 {
+  font-style: italic;
+  font-size: 1rem;
+  margin-bottom: 5px;
+}
+
+.project-preview-item > a > p {
+  font-size: 0.7rem;
+  margin: 0;
+}
+
+.project-preview-item {
+  max-width: 300px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+.project-preview-image {
+  width: 300px;
+  max-height: 225px;
+}
+
+.project-preview-image:hover {
+  opacity: 0.5;
+}

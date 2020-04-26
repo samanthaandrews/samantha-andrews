@@ -1,0 +1,19 @@
+---
+layout: layouts/base.njk
+templateClass: tmpl-project
+---
+<p><a href="{{ '/projects' | url }}">← Projects</a></p>
+
+<div>
+    <div>
+        <h1>{{ title }}</h1>
+        <p class="short-project-description">{{ description }}</p>
+        <h2>{{ date }}</h2>
+        {%- if longDescription -%}
+            <p>{{ longDescription }}</p>
+        {%- endif -%}
+    </div>
+
+
+{{ content | safe }}
+</div>
