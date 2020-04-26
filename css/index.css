@@ -331,3 +331,7 @@ main.tmpl-project > div {
 .project-preview-image:hover {
   opacity: 0.5;
 }
+
+.tmpl-toolbox > p > img {
+  max-width: 20px;
+}
