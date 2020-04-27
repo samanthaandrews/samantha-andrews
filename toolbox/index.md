@@ -79,6 +79,8 @@ Free!
 
 If you're a developer, I highly recommend trying Eleventy for your next static site. It's not as opinionated as Gatsby which I find refreshing.
 
+---
+
 ## Learning
 
 ![creative live logo](https://pbs.twimg.com/profile_images/1145857730223022080/1c4Ta2_R_400x400.png)
