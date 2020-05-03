@@ -1,5 +1,5 @@
 ---
-title: A List of 27 Social Distancing Activities
+title: 27 small projects to do at home
 description: Things to do when everything else is canceled and the world feels like it's falling apart.
 date: 2020-03-14
 tags:

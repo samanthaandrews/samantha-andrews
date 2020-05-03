@@ -7,6 +7,8 @@
   --darkgray: #101010;
   --white: #fff;
   --postit: #ffc;
+  --yellow: #ffea08;
+  --maxwidth: 37.5em;
 }
 * {
   box-sizing: border-box;
@@ -46,14 +48,14 @@ p:last-child {
 p,
 .tmpl-post li,
 img {
-  max-width: 37.5em; /* 600px /16 */
+  max-width: var(--maxwidth); /* 600px /16 */
   width: 100%;
   height: auto;
 }
 
 p,
 .tmpl-post li {
-  line-height: 1.45;
+  line-height: 1.7;
 }
 
 a[href] {
@@ -70,6 +72,21 @@ main {
 
 main :first-child {
   margin-top: 0;
+}
+
+blockquote {
+  border-left: 2px solid var(--yellow);
+  background-color: var(--postit);
+  max-width: var(--maxwidth);
+  padding: 1em 0.625em; /* 16px 10px /16 */
+  margin-left: 0;
+  font-style: italic;
+}
+
+hr {
+  border-top: 1px dashed var(--lightgray);
+  max-width: var(--maxwidth);
+  margin: 0;
 }
 
 /* Header */
@@ -186,7 +203,7 @@ a[href].tag:visited {
 /* Callout */
 .callout {
   background-color: var(--postit);
-  max-width: 37.5em;
+  max-width: var(--maxwidth);
   padding: 1em 0.625em; /* 16px 10px /16 */
 }
 

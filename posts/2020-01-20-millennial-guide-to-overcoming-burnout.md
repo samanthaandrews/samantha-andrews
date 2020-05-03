@@ -1,13 +1,11 @@
 ---
-title: It's More Than Burnout
-description: "Getting to the root of my year of burnout. Let's talk about capitalism."
+title: A millennial's guide to overcoming burnout
+description: "How I'm slowing down and resisting the pressure to always be working"
 date: 2020-01-20
 tags:
   - burnout
 layout: layouts/post.njk
 ---
-
-## A Millennial's guide to slowing down and resisting the pressure to always be working
 
 I recently came across this tweet from someone on Twitter who expressed a core frustration I’ve felt throughout 2019:
 

@@ -1,5 +1,5 @@
 ---
-title: The Art of the Creative Warm Up
+title: Feeling stuck? Try a creative warm up.
 description: How a creative warm up exercise can free you to make more art.
 date: 2020-04-10
 tags:

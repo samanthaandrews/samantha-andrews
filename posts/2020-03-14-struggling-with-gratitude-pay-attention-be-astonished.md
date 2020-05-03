@@ -1,5 +1,5 @@
 ---
-title: "Collecting Moments (I got engaged!)"
+title: "Struggling with gratitude? Pay attention. Be astonished."
 description: What I learned about gratitude from paying extra close attention on the day of my proposal.
 date: 2020-03-14
 tags:
