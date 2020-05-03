@@ -98,7 +98,7 @@ hr {
   padding: 0 1rem;
   float: left;
   font-style: italic;
-  margin: 1.1rem 0; /* 16px /16 */
+  margin: 1.2rem 0; /* 16px /16 */
   font-size: 1em; /* 16px /16 */
 }
 
@@ -216,6 +216,10 @@ a[href].tag:visited {
     margin-right: 1rem;
     margin-bottom: 0;
   }
+
+  section.home-splash {
+    padding: 2em;
+  }
 }
 
 .creativity-is-an-action-img {
@@ -224,7 +228,7 @@ a[href].tag:visited {
 }
 
 .home-splash {
-  padding: 2rem;
+  padding: 1em;
 }
 
 .tmpl-home .postlist-link {
