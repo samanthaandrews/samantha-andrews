@@ -2,36 +2,50 @@
 layout: layouts/base.njk
 templateClass: tmpl-home
 ---
-<div class="callout">
-    <p>I am a multi-media artist, programmer, and writer based in Albuquerque, New Mexico. Recovering productivity addict. Currently exploring what it means to live a creative life. On an eternal quest to find the best spaghetti recipe.</p>
-    <p>Subscribe to my weekly-ish <a href="https://buttondown.email/samantha-andrews">newsletter</a> for inspiration & tips to help you start and finish big, scary creative projects. Also for birds, DIY projects, recipes, and mindfulness exercises to nurture your inner artist :)</p>
-    <form
-        action="https://buttondown.email/api/emails/embed-subscribe/samantha-andrews"
-        method="post"
-        target="popupwindow"
-        onsubmit="window.open('https://buttondown.email/samantha-andrews', 'popupwindow')"
-        class="embeddable-buttondown-form"
-        >
-        <label for="bd-email">Enter your email</label>
-        <input type="email" name="email" id="bd-email">
-        <input type="hidden" value="1" name="embed"></input>
-        <input type="submit" value="Subscribe"></input>
-        <p class="buttondown-attr">
-            <a href="https://buttondown.email" target="_blank">Powered by Buttondown.</a>
-        </p>
-    </form>
-    <p>You can also follow me on social media at the links below:</p>
+<section class="home-splash">
+    <h1>Online courses and art workshops for busy professionals who want to design a creative life</h1>
+    <p>👋 Hi, I'm Sam. I'm here to help you...</p>
     <ul>
-        <li>
-            <a href="https://www.instagram.com/samantha.spaghetti/">Instagram</a>
-        </li>
-        <li>
-            <a href="https://twitter.com/samspaghettiii">Twitter</a>
-        </li>
-        <li>
-            <a href="https://www.behance.net/samanthaandrews">Behance</a>
-        </li>
+        <li>Overcome creative roadblocks and start making your art</li>
+        <li>Move away from traditional productivity and toward joyful creation</li>
+        <li><strong>Start</strong> and <strong>finish</strong> creative side projects</li>
     </ul>
+    <img class="bird-1" alt="bird flying to the left" src="../../img/bird-1.png"/>
+</section>
+<section class="download-callout-section">
+    <h2>Download your free workbook, Creativity Is An Action</h2>
+    <div class="workbook-flex-callout">
+        <div class="creativity-is-an-action-img">
+            <img alt="creativity is an action zine" src="https://samantha-andrews.s3.us-east-2.amazonaws.com/projects/creativity-is-an-action-zine/creativity-is-an-action.jpg"/>
+        </div>
+        <div>
+            <p><strong><em>A guide to help you find your creative groove and take actionable steps toward your dreams</em></strong></p>
+            <form
+                action="https://buttondown.email/api/emails/embed-subscribe/samantha-andrews"
+                method="post"
+                target="popupwindow"
+                onsubmit="window.open('https://buttondown.email/samantha-andrews', 'popupwindow')"
+                class="embeddable-buttondown-form"
+                >
+                <label for="bd-email">Enter your email</label>
+                <input type="email" name="email" id="bd-email">
+                <input type="hidden" value="1" name="embed"></input>
+                <input type="submit" value="Subscribe"></input>
+                <p class="buttondown-attr">
+                    <a href="https://buttondown.email" target="_blank">Powered by Buttondown.</a>
+                </p>
+            </form>
+        <p>Adding your email means you’ll also start receiving my weekly digital newsletter. Every Monday I’ll visit your inbox and share a lesson I’ve learned on my journey to building a creative life and career.</p>
+        </div>
+    </div>
     <img class="bird-2" alt="bird flying to the left" src="../../img/bird-2.png"/>
-</div>
+</section>
+<section class="about-section">
+    <h2>About me</h2>
+    <img class="curve-headshot" alt="samantha andrews headshot" src="../../img/circle-headshot.png"/>
+    <p><strong>Hi, I'm Sam Andrews, your creative coach and virtual accountability buddy.</strong> I'm a ✂️multi-media artist, 🧑🏼‍💻programmer, and ✏️writer based in Albuquerque, New Mexico.</p>
+    <p>Since 2016 I’ve been exploring what it means to live a creative, meaningful life. While working full-time, I’ve built a consistent creative practice and launched several <a href="{{ '/projects' | url }}">side projects</a>. <strong>Now, I'm sharing what I've learned about burnout, nurturing your inner artist, and building side projects with joy and intention.</strong></p>
+</section>
+<hr />
+
 {{ content | safe }}

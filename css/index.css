@@ -53,8 +53,12 @@ img {
   height: auto;
 }
 
+li {
+  line-height: 1.7;
+}
+
 p,
-.tmpl-post li {
+.tmpl-post .tmpl-home {
   line-height: 1.7;
 }
 
@@ -94,7 +98,7 @@ hr {
   padding: 0 1rem;
   float: left;
   font-style: italic;
-  margin: 1rem 0; /* 16px /16 */
+  margin: 1.1rem 0; /* 16px /16 */
   font-size: 1em; /* 16px /16 */
 }
 
@@ -140,7 +144,7 @@ header:after {
   font-size: 0.5em;
 }
 
-.callout > form {
+.download-callout-section > form {
   padding-bottom: 10px;
   border-bottom: 1px dashed var(--lightgray);
 }
@@ -177,11 +181,6 @@ header:after {
   font-weight: bold;
 }
 
-.tmpl-home .postlist-link {
-  font-size: 1.1875em; /* 19px /16 */
-  font-weight: 700;
-}
-
 /* Tags */
 .tag {
   display: inline-block;
@@ -200,17 +199,54 @@ a[href].tag:visited {
   color: #fff;
 }
 
-/* Callout */
-.callout {
-  background-color: var(--postit);
+/* Homepage */
+
+.about-section,
+.download-callout-section {
+  margin-bottom: 2rem;
+}
+
+/* Homepage Desktop */
+@media only screen and (min-width: 768px) {
+  .workbook-flex-callout {
+    display: flex;
+  }
+
+  .workbook-flex-callout > .creativity-is-an-action-img {
+    margin-right: 1rem;
+    margin-bottom: 0;
+  }
+}
+
+.creativity-is-an-action-img {
+  max-width: 300px;
+  margin-bottom: 1rem;
+}
+
+.home-splash {
+  padding: 2rem;
+}
+
+.tmpl-home .postlist-link {
+  font-size: 1.1875em; /* 19px /16 */
+  font-weight: 700;
+}
+
+.tmpl-home h1 {
+  font-size: 1.5rem;
   max-width: var(--maxwidth);
-  padding: 1em 0.625em; /* 16px 10px /16 */
 }
 
 .bird-1 {
-  width: 50px;
+  width: 75px;
   position: relative;
-  margin: -20px;
+  transform: rotate(20deg);
+}
+
+/* Homepage Callout */
+.download-callout-section {
+  background-color: var(--postit);
+  padding: 1em 0.625em; /* 16px 10px /16 */
 }
 
 .bird-2 {
@@ -218,6 +254,19 @@ a[href].tag:visited {
   position: relative;
   float: right;
   margin: -20px;
+}
+
+/* About Homepage Section */
+
+.curve-headshot {
+  max-width: 150px;
+  margin-bottom: 1rem;
+  width: 25%;
+  height: auto;
+  float: left;
+  margin-right: 2rem;
+  border-radius: 50%;
+  shape-outside: circle();
 }
 
 /* Direct Links / Markdown Headers */
@@ -399,4 +448,22 @@ pre {
 }
 .highlight-line-remove {
   background-color: #902f2f;
+}
+
+/* Footer */
+
+/* Footer Desktop */
+@media only screen and (min-width: 768px) {
+  footer {
+    display: flex;
+  }
+}
+
+footer {
+  border-top: 1px dashed var(--lightgray);
+  padding: 10px;
+}
+
+footer > p {
+  margin: 0;
 }
