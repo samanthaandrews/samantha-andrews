@@ -1,5 +1,5 @@
 ---
-layout: layouts/post.njk
+layout: layouts/base.njk
 title: Free
 templateClass: tmpl-post
 eleventyNavigation:

@@ -8,6 +8,7 @@
   --white: #fff;
   --postit: #ffc;
   --yellow: #ffea08;
+  --green: #cfffcf;
   --maxwidth: 37.5em;
 }
 * {
@@ -85,6 +86,7 @@ blockquote {
   padding: 1em 0.625em; /* 16px 10px /16 */
   margin-left: 0;
   font-style: italic;
+  border-radius: 2px;
 }
 
 hr {
@@ -249,6 +251,7 @@ a[href].tag:visited {
 
 /* Homepage Callout */
 .download-callout-section {
+  border-radius: 2px;
   background-color: var(--postit);
   padding: 1em 0.625em; /* 16px 10px /16 */
 }
@@ -452,6 +455,17 @@ pre {
 }
 .highlight-line-remove {
   background-color: #902f2f;
+}
+
+.email-sign-up-post {
+  max-width: var(--maxwidth);
+  background-color: var(--green);
+  border-radius: 2px;
+  padding: 1em;
+}
+
+label {
+  font-size: 0.8rem;
 }
 
 /* Footer */
