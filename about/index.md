@@ -11,6 +11,15 @@ I am a ✨designer, 💻programmer, and ✏️writer based in Albuquerque, New M
 
 While working a full-time job as a designer and software developer, I’ve built a consistent creative practice and launched several side projects. Now, I'm sharing what I've learned about **burnout, nurturing your inner artist, and building creative projects with joy and intention**.
 
+## You're in the right place if…
+
+- You feel **_overwhelmed_** and **_uninspired_** by the busy cycle of everyday life
+- You’re tired of trying to optimize every aspect of your life through productivity hacks
+- You want to have more **_space_** and **_time_** to focus on building an intentional creative practice that brings **_meaning_** and **_joy_** to your day
+- You have multiple creative project ideas but struggle to actually **_finish_** any of them
+
+---
+
 ## My Story
 
 In 2014 I graduated with a bachelor's degree and started providing freelance graphic design services and writing about minimialism. I also played music with an all-ladies punk band and reignited my childhood passion for creativity through zine-making. Several years later, I completed a software development bootcamp and started writing code for a geospatial data startup.

@@ -224,6 +224,11 @@ a[href].tag:visited {
   }
 }
 
+span.underline {
+  text-decoration: underline;
+  text-decoration-color: var(--yellow);
+}
+
 .creativity-is-an-action-img {
   max-width: 300px;
   margin-bottom: 1rem;
