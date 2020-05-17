@@ -4,7 +4,7 @@ title: Free
 templateClass: tmpl-post
 eleventyNavigation:
   key: Free Workbook
-  order: 7
+  order: 6
 ---
 
 <section class="download-callout-section">
