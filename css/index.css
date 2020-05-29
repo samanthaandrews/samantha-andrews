@@ -9,6 +9,7 @@
   --postit: #ffc;
   --yellow: #ffea08;
   --green: #cfffcf;
+  --hot-pink: hotpink;
   --maxwidth: 37.5em;
 }
 * {
@@ -22,24 +23,17 @@ body {
   font-family: "Merriweather", serif;
   color: var(--darkgray);
   background-color: var(--white);
-  height: 100%;
 }
 
 .bg-image {
   background-image: url("../img/website-background.jpg");
-  height: 100%;
   padding: 2%;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
   background-attachment: local;
 }
 
 .bg-image > div {
   background-color: var(--white);
   border-radius: 2px;
-  height: 100%;
-  overflow: scroll;
 }
 
 p:last-child {
@@ -61,6 +55,10 @@ li {
 p,
 .tmpl-post .tmpl-home {
   line-height: 1.7;
+}
+
+.tmpl-post > p > img {
+  box-shadow: 2px 2px 4px 5px var(--hot-pink);
 }
 
 a[href] {
@@ -409,6 +407,7 @@ code {
     "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L",
     "Courier New", Courier, monospace;
   line-height: 1.5;
+  color: var(--turquoise);
 }
 
 pre {

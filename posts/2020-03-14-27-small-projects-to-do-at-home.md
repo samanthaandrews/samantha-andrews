@@ -3,8 +3,7 @@ title: 27 small projects to do at home
 description: Things to do when everything else is canceled and the world feels like it's falling apart.
 date: 2020-03-14
 tags:
-  - activities for introverts
-  - artist dates
+  - creative inspiration
 layout: layouts/post.njk
 ---
 
