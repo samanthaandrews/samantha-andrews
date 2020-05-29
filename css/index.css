@@ -61,6 +61,10 @@ p,
   box-shadow: 2px 2px 4px 5px var(--hot-pink);
 }
 
+.tmpl-post > p > a > img {
+  box-shadow: 2px 2px 4px 5px var(--hot-pink);
+}
+
 a[href] {
   color: var(--darkgray);
 }
