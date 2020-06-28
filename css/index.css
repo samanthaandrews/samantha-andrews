@@ -57,12 +57,9 @@ p,
   line-height: 1.7;
 }
 
-.tmpl-post > p > img {
-  box-shadow: 2px 2px 4px 5px var(--hot-pink);
-}
-
+.tmpl-post > p > img,
 .tmpl-post > p > a > img {
-  box-shadow: 2px 2px 4px 5px var(--hot-pink);
+  box-shadow: 2px 2px 2px 2px var(--gray);
 }
 
 a[href] {
@@ -397,11 +394,14 @@ main.tmpl-project > div {
 /* 11ty Base Blog */
 table {
   margin: 1em 0;
+  border: 1px solid black;
+  border-collapse: collapse;
 }
 
 table td,
 table th {
-  padding-right: 1em;
+  border: 1px solid black;
+  padding: 1em;
 }
 
 pre,
