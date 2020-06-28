@@ -10,7 +10,7 @@
   --yellow: #ffea08;
   --green: #cfffcf;
   --hot-pink: hotpink;
-  --maxwidth: 37.5em;
+  --maxwidth: 600px;
 }
 * {
   box-sizing: border-box;
@@ -43,9 +43,19 @@ p:last-child {
 p,
 .tmpl-post li,
 img {
-  max-width: var(--maxwidth); /* 600px /16 */
+  max-width: var(--maxwidth);
   width: 100%;
   height: auto;
+}
+
+.tmpl-post > h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+table {
+  max-width: var(--maxwidth);
 }
 
 li {

@@ -89,7 +89,7 @@ It's a Google Drive link, so select...
 
 ## Break up tasks into smaller pieces
 
-Using your one-page project plan, outline all of the tasks for the first phase of your project. Your first phase might involve research and discovery . Then, start breaking down big tasks into smaller, more actionable items.
+Using your [one-page project plan](https://docs.google.com/document/d/1Cekqrt29BP9hCcjSPgRjyHni_r6Dzlw6IkYwG5rtDjE/edit?usp=sharing), outline all of the tasks for the first phase of your project. Your first phase might involve research and discovery . Then, start breaking down big tasks into smaller, more actionable items.
 
 Have you ever stared at your to-do list and felt paralyzed by overwhelm looking at an item like “write blog post”?
 
@@ -103,10 +103,12 @@ Make sure your tasks are small and actionable. You shouldn’t ever feel overwhe
 
 ## Block off time on your calendar
 
-Using your one-page project plan as a guide, schedule time to work on your project. If you work a full-time job like me, you’ll have to get creative about when you’re able to actually get work done. I prefer to schedule big chunks of work on the weekend, so I block off two to four hours of “creative project” work time on Saturday and Sunday.
+Using your [one-page project plan](https://docs.google.com/document/d/1Cekqrt29BP9hCcjSPgRjyHni_r6Dzlw6IkYwG5rtDjE/edit?usp=sharing) as a guide, schedule time to work on your project. If you work a full-time job like me, you’ll have to get creative about when you’re able to actually get work done. I prefer to schedule big chunks of work on the weekend, so I block off two to four hours of “creative project” work time on Saturday and Sunday.
 
 In addition to work sessions, I recommend scheduling one 30-minute planning session at the end of every week. Use this time to review unfinished tasks and make a to-do list for the upcoming week. You might get in the habit of using this time to map out future project phases and breaking up tasks into smaller pieces, i.e. repeating the previous step
 
 ## Celebrate milestones!
 
-Plan and celebrate the small wins.
+🗓️Plan and 🎉celebrate the small wins.
+
+Starting a creative passion project doesn't have to be complicated. Spend the next 8 minutes brainstorming ideas, narrow them down using the three point system, and then start filling out the [one-page project plan](https://docs.google.com/document/d/1Cekqrt29BP9hCcjSPgRjyHni_r6Dzlw6IkYwG5rtDjE/edit?usp=sharing). You're on your way to making something uniquely you!
