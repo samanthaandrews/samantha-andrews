@@ -15,10 +15,10 @@
     #f7a0c4 0%,
     #f96825 100%
   );
-  --pink-orange-linear-gradient: linear-gradient(
+  --green-orange-linear-gradient: linear-gradient(
     -10deg,
     #f96825 0%,
-    #f7a0c4 100%
+    #cfffcf 100%
   );
   --yellow-green-linear-gradient: linear-gradient(
     -10deg,
@@ -121,14 +121,13 @@ header:after {
 
 /* Nav */
 .nav {
-  padding: 0;
+  /* padding: 0; */
   list-style: none;
-  float: right;
 }
 
 .nav-item {
   display: inline-block;
-  margin-left: 1em;
+  margin-left: 2em;
   font-style: italic;
 }
 
@@ -203,6 +202,9 @@ a[href].tag:visited {
     margin-right: 1rem;
     margin-bottom: 0;
   }
+  .nav {
+    float: right;
+  }
 }
 
 /* Homepage Callout */
@@ -216,8 +218,8 @@ a[href].tag:visited {
   background: var(--yellow-green-linear-gradient);
 }
 
-.pink-orange-gradient {
-  background: var(--pink-orange-linear-gradient);
+.green-orange-gradient {
+  background: var(--green-orange-linear-gradient);
 }
 
 .email-sign-up-post {
@@ -239,7 +241,7 @@ img.fruit-parfait {
 
 span.underline {
   text-decoration: underline;
-  text-decoration-color: var(--pink);
+  text-decoration-color: var(--green);
 }
 
 /* About */
@@ -396,7 +398,7 @@ input[type="email"] {
 }
 
 input[type="email"] {
-  width: 300px;
+  width: 250px;
 }
 
 input[type="submit"] {
