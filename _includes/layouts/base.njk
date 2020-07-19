@@ -9,10 +9,9 @@
     <link rel="icon" href="{{ '/img/favicon.ico' | url }}" type="image/x-icon">
     <link rel="stylesheet" href="{{ '/css/index.css' | url }}">
     <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
+    <link href="https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap" rel="stylesheet">
   </head>
   <body>
-    <div class="bg-image">
-      <div>
         <header>
           <h1 class="home">
             <a href="{{ '/' | url }}">{{ metadata.title }}</a>
@@ -33,18 +32,37 @@
         </main>
 
         <footer>
-          <div>
-            <p><a target="_blank" href="https://www.instagram.com/samantha.spaghetti/">Instagram</a></p>
-            <p><a target="_blank" href="https://twitter.com/samspaghettiii">Twitter</a></p>
+          <div class="email-sign-up-post">
+            <h3>Subscribe to my digital newsletter—A weekly email for busy professionals who want to build a meaningful, creative life</h3>
+            <p>Each Monday I drop into your inbox with helpful, actionable tips on how to build your own centered and spacious creative practice.</p>
+            <form
+                action="https://buttondown.email/api/emails/embed-subscribe/samantha-andrews"
+                method="post"
+                target="popupwindow"
+                onsubmit="window.open('https://buttondown.email/samantha-andrews', 'popupwindow')"
+                class="embeddable-buttondown-form"
+                >
+                <label class="hide-form-email-label" for="bd-email" type="hidden">Email address</label>
+                <input type="email" name="email" placeholder="Email address" id="bd-email">
+                <input type="hidden" value="1" name="embed"></input>
+                <input type="submit" value="Subscribe"></input>
+                <p><a href="https://buttondown.email/samantha-andrews/archive">Read the archives</a></p>
+            </form>
           </div>
-          <div>
-            <p><a target="_blank" href="{{ '/posts/commitment-to-social-justice-diversity-and-inclusion/' }}">Commitment to Social Justice, Diversity & Inclusion</a></p>
-            <p><a target="_blank" href="mailto:samanthaspaghetti@gmail.com">samanthaspaghetti@gmail.com</a></p>
+          <div class="footer-links">
+            <div>
+              <p><a href="https://www.instagram.com/samantha.spaghetti/">Instagram</a></p>
+              <p><a href="https://twitter.com/samspaghettiii">Twitter</a></p>
+              <p><a href="https://github.com/samanthaandrews">GitHub</a></p>
+            </div>
+            <div>
+              <p><a href="{{ '/posts/commitment-to-social-justice-diversity-and-inclusion/' }}">Commitment to Social Justice, Diversity & Inclusion</a></p>
+              <p><a href="mailto:samanthaspaghetti@gmail.com">samanthaspaghetti@gmail.com</a></p>
+              <p>Made with ♥ in Albuquerque, New Mexico</p>
+            </div>
           </div>
         </footer>
 
         <!-- Current page: {{ page.url | url }} -->
-      </div>
-    </div>
   </body>
 </html>

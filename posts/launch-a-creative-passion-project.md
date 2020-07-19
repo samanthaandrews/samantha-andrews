@@ -85,8 +85,6 @@ It's a Google Drive link, so select...
 - `File > Make a copy` to save a copy your personal Google Drive space **or**
 - `File > Download` to download it as a Word document
 
-[![creative project plan free download](https://samantha-andrews.s3.us-east-2.amazonaws.com/writing/creative-project-plan.jpg)](https://docs.google.com/document/d/1Cekqrt29BP9hCcjSPgRjyHni_r6Dzlw6IkYwG5rtDjE/edit?usp=sharing)
-
 ## Break up tasks into smaller pieces
 
 Using your [one-page project plan](https://docs.google.com/document/d/1Cekqrt29BP9hCcjSPgRjyHni_r6Dzlw6IkYwG5rtDjE/edit?usp=sharing), outline all of the tasks for the first phase of your project. Your first phase might involve research and discovery . Then, start breaking down big tasks into smaller, more actionable items.

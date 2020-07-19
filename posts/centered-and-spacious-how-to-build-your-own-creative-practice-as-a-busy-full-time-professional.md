@@ -130,5 +130,3 @@ Download and use this [free worksheet](https://docs.google.com/document/d/1DLY91
 
 - `File > Download` **or**
 - `File > Make a copy` to save a copy your personal Google Drive space.
-
-[![build your creative practice worksheet](https://samantha-andrews.s3.us-east-2.amazonaws.com/writing/creative-practice-garden.jpg)](https://docs.google.com/document/d/1DLY91Vix_m_o6czFLXgENH1KC-KDhcO0qUuVdWD5MIE/edit?usp=sharing)

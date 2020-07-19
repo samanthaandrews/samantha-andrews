@@ -6,24 +6,4 @@ templateClass: tmpl-post
 
 {{ content | safe }}
 
-<div class="email-sign-up-post">
-    <h3>Subscribe to my digital newsletter—A weekly email for busy professionals who want to build a meaningful, creative life</h3>
-    <p>Each Monday I drop into your inbox with helpful, actionable tips on how to build your own centered and spacious creative practice.</p>
-    <form
-        action="https://buttondown.email/api/emails/embed-subscribe/samantha-andrews"
-        method="post"
-        target="popupwindow"
-        onsubmit="window.open('https://buttondown.email/samantha-andrews', 'popupwindow')"
-        class="embeddable-buttondown-form"
-        >
-        <label for="bd-email">Enter your email</label>
-        <input type="email" name="email" id="bd-email">
-        <input type="hidden" value="1" name="embed"></input>
-        <input type="submit" value="Subscribe"></input>
-        <p class="buttondown-attr">
-            <a href="https://buttondown.email" target="_blank">Powered by Buttondown.</a>
-        </p>
-    </form>
-</div>
-
-<p><a href="{{ '/' | url }}">← Home</a></p>
+<p class="button"><a href="{{ '/' | url }}">← Home</a></p>

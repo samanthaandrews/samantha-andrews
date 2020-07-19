@@ -2,9 +2,6 @@
 layout: layouts/base.njk
 title: Toolbox
 templateClass: tmpl-toolbox
-eleventyNavigation:
-  key: Toolbox
-  order: 5
 ---
 
 I use a few different tools to keep me organized and productive as I work on creative projects. Below are some that I recommend.

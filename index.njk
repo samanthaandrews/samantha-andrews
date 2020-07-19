@@ -2,10 +2,10 @@
 layout: layouts/home.njk
 ---
 
-<h1>Recent writing</h1>
+<h3>Recent writing</h3>
 
 {% set postslist = collections.posts | head(-3) %}
 {% set postslistCounter = collections.posts | length %}
 {% include "postslist.njk" %}
 
-<p>More posts can be found in <a href="{{ '/posts/' | url }}">the archive</a>.</p>
+<p class="button"><a href="{{ '/posts/' | url }}">Read more →</a></p>

@@ -2,49 +2,54 @@
 layout: layouts/base.njk
 templateClass: tmpl-home
 ---
-<section class="home-splash">
-    <h1>Online courses and art workshops for <span class="underline">busy professionals</span> who want to <span class="underline">design a creative life</span></h1>
-    <p>👋 Hi, I'm Sam. I'm here to help you...</p>
-    <ul>
-        <li>Overcome creative roadblocks and start making your art</li>
-        <li>Move away from traditional productivity and toward joyful creation</li>
-        <li><strong>Start</strong> and <strong>finish</strong> creative side projects</li>
-    </ul>
-    <img class="bird-1" alt="bird flying to the left" src="../../img/bird-1.png"/>
-</section>
-<section class="download-callout-section">
-    <h2>Download your free workbook, Creativity Is An Action</h2>
-    <div class="workbook-flex-callout">
-        <div class="creativity-is-an-action-img">
-            <img alt="creativity is an action zine" src="https://samantha-andrews.s3.us-east-2.amazonaws.com/projects/creativity-is-an-action-zine/creativity-is-an-action.jpg"/>
+<div class="home-page-container">
+    <section class="hero">
+        <img src="{{ '/img/fruit-parfait.png' }}" alt="fruit parfait" class="fruit-parfait"/>
+        <h1>Hello! I’m Samantha Andrews, a <span class="underline">designer</span> and <span class="underline">software developer</span> making digital products for purpose-driven companies and a <span class="underline">creative coach</span> for busy professionals who want to design a creative life.</h1>
+    </section>
+    <hr />
+    <section>
+        <h2>Design & Development</h2>
+        <p>As a designer who codes, I enjoy the process of designing and building ambitious products from start to finish using modern tools. While I spend most of my time on the front end, I enjoy learning more about back-end architecture and data storage through personal projects.</p>
+        <h3>Here's the technology I'm most familiar with...</h3>
+        <ul>
+            <li>Wireframing & prototyping: Figma, Adobe XD</li>
+            <li>Languages: TypeScript and JavaScript</li>
+            <li>Frameworks & libraries: React, React Native, MapboxGL, Redux, Gatsby, Eleventy</li>
+            <li>CSS: Flexbox, CSS Grid Layout, Sass, CSS in JS</li>
+            <li>Data storage: MySQL, Firebase</li>
+            <li>Other: Netlify, Netlify CMS</li>
+        </ul>
+        <div class="callout-section yellow-green-gradient">
+            <div class="flex-callout">
+                <div class="flex-callout-img">
+                    <img alt="reflection questions app ui" src="https://samantha-andrews.s3.us-east-2.amazonaws.com/projects/reflection-questions-app/reflection-questions-preview.jpg"/>
+                </div>
+                <div>
+                    <h3>Featured case study: <a href="{{ '/projects/reflection-questions-app/' }}">ReflectionQuestions.app</a></h3>
+                    <p><strong><em>A personal project built using Firebase and Create React App</em></strong></p>
+                </div>
+            </div>
         </div>
-        <div>
-            <p><strong><em>A guide to help you find your creative groove and take actionable steps toward your dreams</em></strong></p>
-            <form
-                action="https://buttondown.email/api/emails/embed-subscribe/samantha-andrews"
-                method="post"
-                target="popupwindow"
-                onsubmit="window.open('https://buttondown.email/samantha-andrews', 'popupwindow')"
-                class="embeddable-buttondown-form"
-                >
-                <label for="bd-email">Enter your email</label>
-                <input type="email" name="email" id="bd-email">
-                <input type="hidden" value="1" name="embed"></input>
-                <input type="submit" value="Subscribe"></input>
-                <p class="buttondown-attr">
-                    <a href="https://buttondown.email" target="_blank">Powered by Buttondown.</a>
-                </p>
-            </form>
-        <p>Adding your email means you’ll also start receiving my weekly digital newsletter. Every Monday I’ll visit your inbox and share a lesson I’ve learned on my journey to building a creative life and career.</p>
+    </section>
+    <hr />
+    <section>
+        <h2>Creative Resources</h2>
+        <p>I write articles and publish resources about how to build a 
+        <strong>centered</strong> and <strong>spacious</strong> 
+        creative practice and how to change your life by launching meaningful side projects.</p>
+    </section>
+    <div class="callout-section pink-orange-gradient">
+        <div class="flex-callout">
+            <div class="flex-callout-img">
+                <img alt="creativity is an action zine" src="https://samantha-andrews.s3.us-east-2.amazonaws.com/projects/creativity-is-an-action-zine/creativity-is-an-action.jpg"/>
+            </div>
+            <div>
+                <h3>Download your <a href="https://samantha-andrews.s3.us-east-2.amazonaws.com/free/creativity-is-an-action/creativity-is-an-action.pdf">free workbook</a>, Creativity Is An Action</h3>
+                <p><strong><em>A guide to help you find your creative groove and take actionable steps toward your dreams</em></strong></p>
+                <p>Bonus download, <a href="https://samantha-andrews.s3.us-east-2.amazonaws.com/free/creativity-is-an-action/collage-kit.png">mini collage kit</a>!</p>
+            </div>
         </div>
     </div>
-    <img class="bird-2" alt="bird flying to the left" src="../../img/bird-2.png"/>
-</section>
-<section class="about-section">
-    <h2>About me</h2>
-    <img class="curve-headshot" alt="samantha andrews headshot" src="https://samantha-andrews.s3.us-east-2.amazonaws.com/home/circle-headshot.png"/>
-    <p><strong>Hi, I'm Sam Andrews ~ creative coach for busy professionals struggling with burnout.</strong></p>
-    <p>Since 2016 I’ve been exploring what it means to live a creative, meaningful life. I write articles and publish resources about how to build a <strong>⚪centered</strong> and <strong>🌱spacious</strong> creative practice and how to change your life by launching meaningful side projects.</p>
-</section>
-<hr />
-{{ content | safe }}
+    {{ content | safe }}
+</div>

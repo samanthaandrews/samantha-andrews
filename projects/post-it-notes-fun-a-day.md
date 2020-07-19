@@ -1,11 +1,12 @@
 ---
 title: Construction Paper Post-It-Notes
 description: "2018 Graft Gallery Fun-A-Day project"
-longDescription: "I designed one post-it-note using construction paper every day during the month of January. Shown at Graft Gallery in Albuquerque, New Mexico."
 previewImage: "https://samantha-andrews.s3.us-east-2.amazonaws.com/projects/post-it-notes-fun-a-day/post-it-notes.jpg"
 date: "2018"
 layout: layouts/project.njk
 ---
+
+I designed one post-it-note using construction paper every day during the month of January. Shown at Graft Gallery in Albuquerque, New Mexico.
 
 ![post it notes 1](https://samantha-andrews.s3.us-east-2.amazonaws.com/projects/post-it-notes-fun-a-day/post-it-notes.jpg)
 ![post it notes 2](https://samantha-andrews.s3.us-east-2.amazonaws.com/projects/post-it-notes-fun-a-day/post-it-notes2.jpg)
