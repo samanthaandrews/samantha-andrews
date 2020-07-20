@@ -13,7 +13,7 @@ eleventyNavigation:
 
 For the past two years I’ve worked as a visual designer and front-end developer at [Descartes Labs](https://www.descarteslabs.com/), a platform for geospatial data analysis. Together we built a Jupyter extension that allows data scientists to visualize, analyze, and share large amounts of satellite imagery in the browser.
 
-Now I am looking for a new adventure as an educator or developer at a digital product agency. I am eager to take up a challenge that will help me grow as a technical problem-solver and deepen my understanding of modern web development.
+Now I am looking for a new adventure as a creative educator or developer at a digital product agency. I am eager to take up a challenge that will help me grow as a technical problem-solver and deepen my understanding of modern web development.
 
 I believe in building purposeful products, that constraints are key, and that it is much more fun to blur the lines between design and engineering.
 

@@ -102,10 +102,14 @@ hr {
 }
 
 /* Header */
+
+header {
+  display: flex;
+  flex-direction: column;
+}
+
 .home {
-  float: left;
   font-style: italic;
-  margin: 1.2rem 0; /* 16px /16 */
   font-size: 1em; /* 16px /16 */
 }
 
@@ -113,22 +117,16 @@ hr {
   text-decoration: none;
 }
 
-header:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
 /* Nav */
 .nav {
-  /* padding: 0; */
   list-style: none;
 }
 
 .nav-item {
   display: inline-block;
-  margin-left: 2em;
+  margin-left: 0;
   font-style: italic;
+  margin-right: 1em;
 }
 
 .nav-item a[href]:not(:hover) {
@@ -202,8 +200,15 @@ a[href].tag:visited {
     margin-right: 1rem;
     margin-bottom: 0;
   }
-  .nav {
-    float: right;
+
+  header {
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .nav-item {
+    margin-left: 2em;
   }
 }
 
@@ -240,8 +245,10 @@ img.fruit-parfait {
 }
 
 span.underline {
-  text-decoration: underline;
-  text-decoration-color: var(--green);
+  background: var(--orange-pink-linear-gradient);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 /* About */
@@ -398,7 +405,7 @@ input[type="email"] {
 }
 
 input[type="email"] {
-  width: 250px;
+  width: 60%;
 }
 
 input[type="submit"] {
