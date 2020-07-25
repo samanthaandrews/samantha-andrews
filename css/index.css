@@ -421,13 +421,11 @@ input[type="submit"] {
   text-decoration: none;
 }
 
-p.button,
 p.sales {
   background-color: var(--green);
   border: 1px solid var(--limegreen);
 }
 
-p.button,
 p.sales > a[href] {
   color: var(--limegreen);
 }
