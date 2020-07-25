@@ -252,7 +252,7 @@ span.underline {
 }
 
 /* About */
-.curve-headshot {
+.curve {
   max-width: 200px;
   margin-bottom: 1rem;
   width: 25%;
@@ -421,6 +421,22 @@ input[type="submit"] {
   text-decoration: none;
 }
 
+p.button,
+p.sales {
+  background-color: var(--green);
+  border: 1px solid var(--limegreen);
+}
+
+p.button,
+p.sales > a[href] {
+  color: var(--limegreen);
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+}
+
 /* Footer */
 
 /* Footer Desktop */
@@ -442,4 +458,8 @@ input[type="submit"] {
 footer {
   margin-top: 4rem;
   padding: 10px 0;
+}
+
+.creative-retreat-toolkit-icon {
+  width: 200px;
 }

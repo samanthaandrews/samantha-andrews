@@ -7,7 +7,7 @@ eleventyNavigation:
   order: 1
 ---
 
-<img class="curve-headshot" alt="samantha andrews headshot" src="https://samantha-andrews.s3.us-east-2.amazonaws.com/home/circle-headshot.png"/>
+<img class="curve" alt="samantha andrews headshot" src="https://samantha-andrews.s3.us-east-2.amazonaws.com/home/circle-headshot.png"/>
 
 **I’m a designer, software developer, and writer based in Albuquerque, New Mexico.** I graduated from the University of New Mexico in 2014 and completed a full stack software development bootcamp in 2018.
 
