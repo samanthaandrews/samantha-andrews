@@ -19,7 +19,7 @@ I believe in building purposeful products, that constraints are key, and that it
 
 ---
 
-I’m also a creative coach for busy professionals struggling with burnout.
+**I’m also a creative coach for busy professionals who want to get organized and make time for creative projects.**
 
 While working a full-time job as a designer and software developer, I’ve built a consistent creative practice and launched several side projects. Now, I'm sharing what I've learned about **burnout**, **nurturing your inner artist**, and **building creative projects with joy and intention**.
 
