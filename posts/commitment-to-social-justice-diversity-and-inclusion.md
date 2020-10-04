@@ -27,7 +27,7 @@ This document, which will be updated quarterly, will keep me accountable in acco
 
 ### Self-education
 
-- Commit to reading one anti-racism book every month. I’m currently participating in an [abolition book club](https://www.instagram.com/abqabolitionbc/). Free and open to anyone who is interested! The syllabus is linked in their Instagram bio. We meet virtually every few weeks.
+- Commit to reading one anti-racism book every quarter. I’m currently participating in an [abolition book club](https://www.instagram.com/abqabolitionbc/). Free and open to anyone who is interested! The syllabus is linked in their Instagram bio. We meet virtually every few weeks.
 
 ### Financial support
 
@@ -62,12 +62,32 @@ I know I will make mistakes. I am making the commitment to acknowledge the confl
 
 ### July 2020
 
-- **Self education**: Reading _Are Prisons Obsolete?_ by Angela Davis
-- **Self education**: Listened to the [NYT 1619](https://www.nytimes.com/2020/01/23/podcasts/1619-podcast.html) podcast
+- **Self education**: Read _Are Prisons Obsolete?_ by Angela Davis.
+
+- **Self education**: Listened to the [NYT 1619](https://www.nytimes.com/2020/01/23/podcasts/1619-podcast.html) podcast.
+
 - **Self education**: Read [_A Letter from a Region in My Mind_](https://www.newyorker.com/magazine/1962/11/17/letter-from-a-region-in-my-mind) by James Baldwin. This might be one of the best pieces of writing I have _ever_ read.
+
 - **Financial**: Canceled Amazon Prime membership. I am making a commitment to do more research when it comes to making future purchases of goods and supplies. Whenever possible, I will opt to support BIPOC-owned businesses that treat their employees and the planet with dignity and respect.
-- **Financial**: Upped my monthly donation to [The Tannex](https://www.instagram.com/thetannex/)
+
+- **Financial**: Upped my monthly donation to [The Tannex](https://www.instagram.com/thetannex/).
+
 - **Diversifying my consumption**: Started by following these tags on Instagram: `#blackbirdersweek` `#blackgirlscode` `#blackjoy` `#blackgirlmagic` `#drawingwhileblack`. As a result, I’ve followed at least 20 incredible Black illustrators, software developers, designers, educators, environmentalists, and activists.
+
 - **Diversifying my consumption**: On TikTok, I’ve started liking videos made by BIPOC creators and following those accounts. (Previously I had just been scrolling the For You page without ever liking or following accounts.) Experimenting with making the algorithm show me more diverse content. TBD on how it works out and whether or not my strategy will change.
+
 - **Diversifying my consumption**: Subscribed to [Toi Marie's](https://www.toimarie.com/) newsletter and followed her on [Instagram](https://www.instagram.com/toimarie/). Toi Marie is a growth and impact strategist for creative entrepreneurs. I am already loving her radical approach to self-care and building strong communities that value connection over capitalism.
+
 - **Using my platform and voice**: Sent an [email newsletter](https://buttondown.email/samantha-andrews/archive/i-have-been-quiet-for-too-long/) with my initial thoughts on the murder of George Floyd, Breonna Taylor, and Ahmaud Arbery.
+
+### October 2020
+
+- **Self-education**: Attended a virtual [anti-racism workshop](https://www.instagram.com/p/CC7lQ6TlHos/?igshid=vh1jtx0m6h0g) facilitated by Ebony Isis Booth and LadySpeech Sankofa. This workshop was specifically for white womxn and femmes to listen and learn more about how to dismantle our internalized patriarchy.
+
+- **Self-education**: Read _The New Jim Crow_ by Michelle Alexander
+
+- **Self-education**: Listened to a couple episodes of [The Red Nation Podcast](https://open.spotify.com/show/2aoVI4U5p9wuzh2nKS6Qjd?si=84_X-qhtQj-ljuv8325WCQ) and am happy to report that it has become part of my regular listening rotation. The Red Nation Podcast features discussions on Indigenous history, politics, and culture from a left perspective.
+
+- **Financial**: For the past five years I’ve participated in Albuquerque Zine Fest. This year, my submission was virtual, and I donated 100% of my compensation to [Black Girls Code](https://www.blackgirlscode.com), a nonprofit organization working to increase the number of women of color in the digital space by empowering girls of color ages 7 to 17 to become innovators in STEM fields, leaders in their communities, and builders of their own futures through exposure to computer science and technology.
+
+- **Using my platform and my voice**: I’ve been quiet on the blog and website recently, but I did have a civil and productive conversation with a stranger on Instagram recently. We discussed how to avoid using cultural appropriative and offensive language.
