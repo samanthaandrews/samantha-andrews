@@ -49,14 +49,14 @@ I specialize in building fun and interesting websites and web apps that make use
 ---
 
   <div class="calloutbox freebie__consultation">
-    <h2>
+    <h2 class="calloutbox__h2">
       Not sure what you want to create?
     </h2>
     <p>
       <strong>Get my FREE custom "Weird Website Idea" pitch!</strong>
     </p>
     <p>
-      Submit the simple 4-question survey below and I'll email you back with a couple out-of-the-box ideas for your website.
+      Submit the simple 5-question survey below and I'll email you back with a couple out-of-the-box ideas for your website.
     </p>
     <p>
       If you like my pitch, we can set up a call to discuss how I an further assist upgrading your online presence.
@@ -68,19 +68,31 @@ I specialize in building fun and interesting websites and web apps that make use
     <div class="form__input-wrap">
       <label>
         Name
-        <input class="form__input form__contact-input" type="text" name="name" placeholder="Spongebob Squarepants" required/>
+        <input class="form__input form__contact-input" type="text" name="name" placeholder="Patrick Star" required/>
       </label>
     </div>
     <div class="form__input-wrap">
       <label>
         Email address
-        <input class="form__input form__contact-input" type="email" name="email" placeholder="spongebob@thekrustykrab.com" required/>
+        <input class="form__input form__contact-input" type="email" name="email" placeholder="patrick@patrickthestar.com" required/>
+      </label>
+    </div>
+    <div class="form__input-wrap">
+      <label>
+        Website URL (optional)
+        <input class="form__input form__contact-input" type="url" name="website-url" placeholder="patrickthestar.com"/>
       </label>
     </div>
     <div>
       <label>
-        Message
-        <textarea class="form__text-area form__contact-input" name="message" placeholder="Hi Samantha, I've got a website project to talk to you about." required></textarea>
+      Describe your business in 280 characters or less
+        <textarea class="form__text-area form__contact-input" name="business-description" maxlength="280" placeholder="Who do you help? What is your mission? What benefit do you provide? What is your product or service?" required></textarea>
+      </label>
+    </div>
+        <div>
+      <label>
+      What is one <em>big</em> thing you'd like to see happen in your career or business this year?
+        <textarea class="form__text-area form__contact-input" name="business-goal" maxlength="280" placeholder="" required></textarea>
       </label>
     </div>
     <button class="button form__input form__button" type="submit">
@@ -91,19 +103,19 @@ I specialize in building fun and interesting websites and web apps that make use
 
 ---
 
-## Hey there!
-
 <img class="curve__image" alt="samantha andrews headshot" src="https://samantha-andrews.s3.us-east-2.amazonaws.com/home/circle_headshot.png"/>
+
+## Hey there! I'm Samantha ☺︎
 
 I’ve been designing and building websites for the past 5 years and I’m here to make yours stand out!
 
-My recipe for kick-ass websites is actually quite simple: **clear and consistent messaging**, **fun and user-friendly design**, and **lightweight, super fast code**.
+My recipe for kick-ass websites is actually quite simple: **clear and consistent messaging**, **fun and user-friendly design**, and **lightweight, super-fast code**.
 
 ### Some fun facts about me
 
 - I pride myself in being organized and a little obsessive about my streamlined project management system. I know how important it is to feel like your web developer is taking care of all the technical details.
 - My superpowers are creative expression, collaboration, and curiosity.
+- I became interested in design during a college class where I learned all about publishing literary magazines (before that, I told everyone I was going to become a lawyer). Soon after, I started making zines and played guitar in an all-ladies punk band ⍤
 - One time I shaved my head at a truck stop during a road trip up the West Coast.
-- My obsession with design started with making zines in 2014. I also played guitar in an all-ladies punk band ⍤
 
 ---

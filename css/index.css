@@ -175,6 +175,10 @@ label {
   border-radius: 2px;
 }
 
+.calloutbox__h2 {
+  margin-top: 0;
+}
+
 .freebie {
   background-color: var(--gray);
   border: 2px solid var(--darkgray);
