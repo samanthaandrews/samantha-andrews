@@ -3,7 +3,7 @@ layout: layouts/home.njk
 ---
 
 <section class="home__hero">
-  <h1>Hi! I'm Samantha Andrews—a <span class="underline">designer</span>, <span class="underline">web developer</span>, and <span class="underline">multimedia artist</span> making the web a more fun and interesting place for everyone.</h1>
+  <h1>Hi! I'm Samantha Andrews—a <span class="gradient__text">designer</span>, <span class="gradient__text">web developer</span>, and <span class="gradient__text">multimedia artist</span> making the web a more fun and interesting place for everyone.</h1>
 </section>
 
 ---

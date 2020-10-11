@@ -195,11 +195,14 @@ label {
   margin-bottom: 1rem;
 }
 
-.underline {
-  background: var(--vertical-gradient);
+.gradient__text {
+  background-image: var(--vertical-gradient);
+  background-color: var(--orange);
   background-clip: text;
   -webkit-background-clip: text;
+  -moz-background-clip: text;
   -webkit-text-fill-color: transparent;
+  -moz-text-fill-color: transparent;
 }
 
 .curve__image {
