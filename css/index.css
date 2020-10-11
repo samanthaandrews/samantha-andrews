@@ -310,6 +310,7 @@ a[href].direct-link:focus:visited,
   text-transform: none;
   margin-bottom: 0;
   resize: none;
+  padding: 4px;
 }
 
 .form__button {

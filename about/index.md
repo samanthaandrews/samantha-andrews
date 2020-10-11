@@ -7,7 +7,7 @@ eleventyNavigation:
   order: 1
 ---
 
-<img class="curve__image" alt="samantha andrews headshot" src="https://samantha-andrews.s3.us-east-2.amazonaws.com/home/circle-headshot.png"/>
+<img class="curve__image" alt="samantha andrews headshot" src="https://samantha-andrews.s3.us-east-2.amazonaws.com/home/circle_headshot.png"/>
 
 **I’m a designer, web developer, and multimedia artist based in Albuquerque, New Mexico.** My work generally involves closely examining my relationship with technology and re-imagining what the internet could be if we made it a more equitable space for art and exploration instead of another facet of the capitalist machine.
 

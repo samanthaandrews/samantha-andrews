@@ -44,7 +44,7 @@ The Creative Retreat Toolkit is launching for the first time this week and I’m
 
 ## About me, the creator of the Creative Retreat Toolkit
 
-<img class="curve__image" alt="samantha andrews headshot" src="https://samantha-andrews.s3.us-east-2.amazonaws.com/home/circle-headshot.png"/>
+<img class="curve__image" alt="samantha andrews headshot" src="https://samantha-andrews.s3.us-east-2.amazonaws.com/home/circle_headshot.png"/>
 
 Hi! I’m Samantha Andrews, and I used to feel completely overwhelmed by the number of creative passion projects I had started but never finished.
 
