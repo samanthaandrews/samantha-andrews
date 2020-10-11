@@ -12,7 +12,7 @@ If you’re a busy professional who’s strapped for time but looking for a simp
 
 ## Introducing The Creative Retreat Toolkit, an online course for busy professionals who want to create more time, space, and accountability to work on their creative side project ~ ~~\$50~~ \$25 pre-sale!
 
-<img src="https://samantha-andrews.s3.us-east-2.amazonaws.com/products/creative-retreat-toolkit-icon.png" alt="creative retreat toolkit icon" class="curve"/>
+<img src="https://samantha-andrews.s3.us-east-2.amazonaws.com/products/creative-retreat-toolkit-icon.png" alt="creative retreat toolkit icon" class="curve__image"/>
 
 A few years ago I was working an unfulfilling nine-to-five job. I knew I wanted to transition into a more creative career, but didn’t know where to start. I was creatively blocked and felt completely stuck!
 
@@ -39,12 +39,12 @@ Inside the course, you’ll learn:
 The Creative Retreat Toolkit is launching for the first time this week and I’m offering a 50% OFF discount for the first group of customers! The mini-course will normally cost $50 but you can get it for just $25 if you purchase before Friday at 9pm MT.
 
 <div class="center">
-    <p class="button sales"><a href="https://creative-retreat-toolkit.teachery.co/creative-retreat-toolkit">☾ Buy it for $25! ☽</a></p>
+    <p class="button button__colorful"><a href="https://creative-retreat-toolkit.teachery.co/creative-retreat-toolkit">☾ Buy it for $25! ☽</a></p>
 </div>
 
 ## About me, the creator of the Creative Retreat Toolkit
 
-<img class="curve" alt="samantha andrews headshot" src="https://samantha-andrews.s3.us-east-2.amazonaws.com/home/circle-headshot.png"/>
+<img class="curve__image" alt="samantha andrews headshot" src="https://samantha-andrews.s3.us-east-2.amazonaws.com/home/circle-headshot.png"/>
 
 Hi! I’m Samantha Andrews, and I used to feel completely overwhelmed by the number of creative passion projects I had started but never finished.
 
@@ -53,5 +53,5 @@ Like you, I spend most of my energy working a nine-to-five job. But I also have 
 I’ve used the exact system outlined in The Creative Retreat Toolkit since 2016 and launched over ten meaningful and fulfilling creative passion [projects]({{ "/projects" }}). In 2018, I leveraged my portfolio of passion projects into a career as a designer and software developer (while also doubling my previous income 😮). I remember the feeling of accomplishment and fulfillment knowing that I had taken the time to work on my craft and that it had paid off. No advanced degree required! I want you to experience that same feeling through the use of the Creative Retreat Toolkit.
 
 <div class="center">
-    <p class="button sales"><a href="https://creative-retreat-toolkit.teachery.co/creative-retreat-toolkit">☾ Buy it for $25! ☽</a></p>
+    <p class="button button__colorful"><a href="https://creative-retreat-toolkit.teachery.co/creative-retreat-toolkit">☾ Buy it for $25! ☽</a></p>
 </div>

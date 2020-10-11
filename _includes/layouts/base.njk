@@ -12,57 +12,69 @@
     <link href="https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap" rel="stylesheet">
   </head>
   <body>
-        <header>
-          <h1 class="home">
-            <a href="{{ '/' | url }}">{{ metadata.title }}</a>
-          </h1>
+    <header class="header">
+      <h1 class="header__title">
+        <a href="{{ '/' | url }}">Samantha Andrews</a>
+      </h1>
 
-          {#- Read more about `eleventy-navigation` at https://www.11ty.dev/docs/plugins/navigation/ #}
-          <ul class="nav" style="padding-inline-start: 0;">
-            {%- for entry in collections.all | eleventyNavigation %}
-              <li class="nav-item{% if entry.url == page.url %} nav-item-active{% endif %}">
-                <a href="{{ entry.url | url }}">{{ entry.title }}</a>
-              </li>
-            {%- endfor %}
-          </ul>
-        </header>
+      {#- Read more about `eleventy-navigation` at https://www.11ty.dev/docs/plugins/navigation/ #}
+      <ul class="nav" style="padding-inline-start: 0;">
+        {%- for entry in collections.all | eleventyNavigation %}
+          <li class="nav__item{% if entry.url == page.url %} nav__item-active{% endif %}">
+            <a href="{{ entry.url | url }}">{{ entry.title }}</a>
+          </li>
+        {%- endfor %}
+      </ul>
+    </header>
 
-        <main{% if templateClass %} class="{{ templateClass }}"{% endif %}>
-          {{ content | safe }}
-        </main>
+    <main{% if templateClass %} class="{{ templateClass }}"{% endif %}>
+      {{ content | safe }}
+    </main>
 
-        <footer>
-          <div class="email-sign-up-post">
-            <h3>Subscribe to my digital newsletter—A weekly email for busy professionals who want to build a meaningful, creative life</h3>
-            <p>Each Monday I drop into your inbox with helpful, actionable tips on how to build your own centered and spacious creative practice, how to get organized, and how to better manage your time + creative energy.</p>
-            <form
+    <footer class="footer">
+      <div class="calloutbox email">
+        <h3>Subscribe to The Weird Wide Web Weekly—An email newsletter for online creators at the intersection of art, tech, and culture</h3>
+        <p>Each Monday I drop into your inbox with the best insights from creative coders, internet artists, and makers about the future of art and our relationship with technology. Plus, helpful advice on how to get organized and better manage your time and energy as an internet creator.</p>
+        <form
                 action="https://buttondown.email/api/emails/embed-subscribe/samantha-andrews"
                 method="post"
                 target="popupwindow"
                 onsubmit="window.open('https://buttondown.email/samantha-andrews', 'popupwindow')"
                 class="embeddable-buttondown-form"
                 >
-                <label class="hide-form-email-label" for="bd-email" type="hidden">Email address</label>
-                <input type="email" name="email" placeholder="Email address" id="bd-email">
-                <input type="hidden" value="1" name="embed"></input>
-                <input type="submit" value="Subscribe ✉"></input>
-                <p><a href="https://buttondown.email/samantha-andrews/archive">Read the archives</a></p>
-            </form>
-          </div>
-          <div class="footer-links">
-            <div>
-              <p><a href="https://www.instagram.com/samantha.spaghetti/">Instagram</a></p>
-              <p><a href="https://twitter.com/samspaghettiii">Twitter</a></p>
-              <p><a href="https://github.com/samanthaandrews">GitHub</a></p>
-            </div>
-            <div>
-              <p><a href="{{ '/posts/commitment-to-social-justice-diversity-and-inclusion/' }}">Commitment to Social Justice, Diversity & Inclusion</a></p>
-              <p><a href="mailto:samanthaspaghetti@gmail.com">samanthaspaghetti@gmail.com</a></p>
-              <p>Made with ♥ in Albuquerque, New Mexico</p>
-            </div>
-          </div>
-        </footer>
+          <label class="form__label-hidden" for="bd-email" type="hidden">Email address</label>
+          <input class="form__input form__input-buttondown-email-address" type="email" name="email" placeholder="Email address" id="bd-email">
+          <input type="hidden" value="1" name="embed"></input>
+          <input class="button form__input form__button" type="submit" value="Subscribe ✉"></input>
+          <p>
+            <a href="https://buttondown.email/samantha-andrews/archive">Read the archives</a>
+          </p>
+        </form>
+      </div>
+      <div class="footer__links">
+        <div>
+          <p class="footer__link">
+            <a href="https://www.instagram.com/samantha.spaghetti/">Instagram</a>
+          </p>
+          <p class="footer__link">
+            <a href="https://twitter.com/samspaghettiii">Twitter</a>
+          </p>
+          <p class="footer__link">
+            <a href="https://github.com/samanthaandrews">GitHub</a>
+          </p>
+        </div>
+        <div>
+          <p class="footer__link">
+            <a href="{{ '/posts/commitment-to-social-justice-diversity-and-inclusion/' }}">Commitment to Social Justice, Diversity & Inclusion</a>
+          </p>
+          <p class="footer__link">
+            <a href="mailto:samanthaspaghetti@gmail.com">samanthaspaghetti@gmail.com</a>
+          </p>
+          <p class="footer__link">Made with ♥ in Albuquerque, New Mexico</p>
+        </div>
+      </div>
+    </footer>
 
-        <!-- Current page: {{ page.url | url }} -->
+    <!-- Current page: {{ page.url | url }} -->
   </body>
 </html>

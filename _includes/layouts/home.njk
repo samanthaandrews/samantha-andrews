@@ -2,55 +2,90 @@
 layout: layouts/base.njk
 templateClass: tmpl-home
 ---
-<div class="home-page-container">
-    <section class="hero">
-        <img src="{{ '/img/fruit-parfait.png' }}" alt="fruit parfait" class="fruit-parfait"/>
-        <h1>Hello! I’m Samantha Andrews, a <span class="underline">designer</span> and <span class="underline">software developer</span> making digital products for purpose-driven companies and a <span class="underline">creative coach</span> for busy professionals who want to design a creative life.</h1>
-    </section>
-    <hr />
-    <section>
-        <h2>Design & Development</h2>
-        <p>As a designer who codes, I enjoy the process of designing and building ambitious products from start to finish using modern tools. While I spend most of my time on the front end, I enjoy learning more about back-end architecture and data storage through personal projects.</p>
-        <h3>Here's the technology I'm most familiar with...</h3>
-        <ul>
-            <li>Wireframing & prototyping: Figma, Adobe XD</li>
-            <li>Languages: TypeScript and JavaScript</li>
-            <li>Frameworks & libraries: React, React Native, MapboxGL, Redux, Gatsby, Eleventy</li>
-            <li>CSS: Flexbox, CSS Grid Layout, Sass, CSS in JS</li>
-            <li>Data storage: MySQL, Firebase</li>
-            <li>Other: Netlify, Netlify CMS</li>
-        </ul>
-        <p class="button"><a href="https://samantha-andrews.s3.us-east-2.amazonaws.com/home/samantha-andrews-resume.pdf">Download resume ↓ </a></p>
-        <div class="callout-section yellow-green-gradient">
-            <div class="flex-callout">
-                <div class="flex-callout-img">
-                    <img alt="reflection questions app ui" src="https://samantha-andrews.s3.us-east-2.amazonaws.com/projects/reflection-questions-app/reflection-questions-preview.jpg"/>
-                </div>
-                <div>
-                    <h3>Featured case study: <a href="{{ '/projects/reflection-questions-app/' }}">ReflectionQuestions.app</a></h3>
-                    <p><strong><em>A personal project built using Firebase and Create React App</em></strong></p>
-                </div>
-            </div>
-        </div>
-    </section>
-    <hr />
-    <section>
-        <h2>Creative Resources</h2>
-        <p>I write articles and publish resources about how to build a 
-        <strong>centered</strong> and <strong>spacious</strong> 
-        creative practice and how to change your life by launching meaningful side projects.</p>
-    </section>
-    <div class="callout-section green-orange-gradient">
-        <div class="flex-callout">
-            <div class="flex-callout-img">
-                <img alt="creativity is an action zine" src="https://samantha-andrews.s3.us-east-2.amazonaws.com/projects/creativity-is-an-action-zine/creativity-is-an-action.jpg"/>
-            </div>
-            <div>
-                <h3>Download your <a href="https://samantha-andrews.s3.us-east-2.amazonaws.com/free/creativity-is-an-action/creativity-is-an-action.pdf">free workbook</a>, Creativity Is An Action</h3>
-                <p><strong><em>A guide to help you find your creative flow and take actionable steps toward your dreams</em></strong></p>
-                <p>Bonus download, <a href="https://samantha-andrews.s3.us-east-2.amazonaws.com/free/creativity-is-an-action/collage-kit.png">mini collage kit</a>!</p>
-            </div>
-        </div>
-    </div>
-    {{ content | safe }}
+<section class="home__hero">
+  <h1>Samantha Andrews is a <span class="underline">designer</span>, <span class="underline">web developer</span>, and <span class="underline">multimedia artist</span> making the web a more fun and interesting place for everyone.</h1>
+</section>
+
+<hr/>
+
+<section>
+  <h2>Death to boring websites</h2>
+  <p>The internet is a magical place full of possibility.</p>
+  <p>So why do I see so many slow, poorly-designed, and dare I say, <em>boring</em> websites?!</p>
+  <p>I specialize in building fun and interesting websites and web apps that make users say, <strong>
+      <em>"Wow! I've never seen anything like this before!"</em>
+    </strong>
+  </p>
+  <blockquote>
+    I want you to feel confident that your online presence matches the effervescence of your brand, your personality, and your offering.
+  </blockquote>
+</section>
+<hr/>
+<section>
+  <h3>Who are you?</h3>
+  <ul>
+    <li>
+        An <strong>artist</strong> or <strong>designer</strong> who wants a bespoke portfolio site that's so much more than a gallery of static images.
+    </li>
+    <li>
+        A <strong>nonprofit</strong> looking to expand your outreach with a single-page web app that takes users on an educational journey.
+    </li>
+    <li>
+        A <strong>creative business owner</strong> ready to level-up your marketing game with a share-worthy micro site that will generate buzz for your offering.
+    </li>
+    <li>
+        A <strong>startup</strong> that needs a brand-spankin'-new website. You're excited by the possibility of using a modern JavaScript solution instead of Wordpress or SquareSpace.
+    </li>
+  </ul>
+  <blockquote>
+    Are you dreaming up the magical possibilities for your online presence right now? A custom online quiz reminiscent of the ones from Seventeen magazine? A custom Instagram filter? A button that spits glitter? Something totally weird and wacky that you've never seen anyone do on the internet before?!
+    <br/>
+    <br/>
+    <p class="button button__colorful">
+      <a href="{{ '/hire-me/' | url }}">Get in touch ✌︎</a>
+    </p>
+  </blockquote>
+</section>
+<hr/>
+<section>
+  <h3>Why hire me to build your website?</h3>
+  <ul>
+    <li>
+        In addition to making your website reflect your brand's personality, I'll also ensure that it is <strong>accessible</strong>, <strong>fast</strong>, and <strong>SEO-optimized</strong>.
+    </li>
+    <li>
+        I’m a designer who codes! Which means you don’t have to hire two separate people to execute your vision.
+    </li>
+    <li>
+        I'm a good communicator, reliable, autonomous, pragmatic and happy to project manage myself and/or a wider team.
+    </li>
+    <li>
+        I use a modern JavaScript tech stack for my projects which allows me to build blazing-fast websites and apps that are 100% customizable. For most static websites, I use Gatsby or Next.js. For other projects, I use React or Vue.
+    </li>
+    <li>
+      I want to partner with you on your JavaScript project for the long term. From design and planning, through to development, launch, and further improvements.
+    </li>
+  </ul>
+</section>
+<hr/>
+<section>
+  <div class="calloutbox freebie__consultation">
+    <h2>
+      Not sure what you want to create?
+    </h2>
+    <p>
+      <strong>Get my FREE custom "Weird Website Idea" pitch!</strong>
+    </p>
+    <p>Submit a simple 4-question survey and I'll email you back with a couple out-of-the-box ideas for your website.</p>
+    <p>If you like my pitch, we can set up a call to discuss how I an further assist upgrading your online presence.</p>
+    <p class="button">
+      <a href="#">Get your free Weird Website Idea ⍨</a>
+    </p>
+  </div>
+</section>
+
+<hr/>
+
+<div>
+  {{ content | safe }}
 </div>

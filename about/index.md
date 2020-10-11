@@ -7,33 +7,22 @@ eleventyNavigation:
   order: 1
 ---
 
-<img class="curve" alt="samantha andrews headshot" src="https://samantha-andrews.s3.us-east-2.amazonaws.com/home/circle-headshot.png"/>
+<img class="curve__image" alt="samantha andrews headshot" src="https://samantha-andrews.s3.us-east-2.amazonaws.com/home/circle-headshot.png"/>
 
-**I’m a designer, software developer, and writer based in Albuquerque, New Mexico.** I graduated from the University of New Mexico in 2014 and completed a full stack software development bootcamp in 2018.
+**I’m a designer, web developer, and multimedia artist based in Albuquerque, New Mexico.** My work generally involves closely examining my relationship with technology and re-imagining what the internet could be if we made it a more equitable space for art and exploration instead of another facet of the capitalist machine.
 
-For the past two years I’ve worked as a visual designer and front-end developer at [Descartes Labs](https://www.descarteslabs.com/), a platform for geospatial data analysis. Together we built a Jupyter extension that allows data scientists to visualize, analyze, and share large amounts of satellite imagery in the browser.
+Drowning in listicles about how to be more productive, how to build better habits, and how to achieve inbox zero, I started asking myself: What if we wrote poetry in GoogleSheets? What if the internet was free for everyone, everywhere? And how can we make more apps and websites that delight and amaze?
 
-Now I am looking for a new adventure as a creative educator or developer at a digital product agency. I am eager to take up a challenge that will help me grow as a technical problem-solver and deepen my understanding of modern web development.
+I am compelled by the ways in which we use technology to write poetry, deepen our capacity for empathy, and strengthen local communities.
 
-I believe in building purposeful products, that constraints are key, and that it is much more fun to blur the lines between design and engineering.
+## My Story
 
----
+I graduated from the University of New Mexico in 2014 with a Communication degree and wrote my first line of code in 2018. For the past two years I’ve worked as a visual designer and front-end developer at [Descartes Labs](https://www.descarteslabs.com/), a platform for geospatial data analysis.
 
-**I’m also a creative coach for busy professionals who want to get organized and make time for creative projects.**
+As a 90s kid, I grew up playing PC games like Zoo Tycoon and the Sims. The internet didn’t exist in my home until I was 12 years old, when my parents got dial-up and I was granted an hour a day to chat with my friends via AOL Instant Messenger.
 
-While working a full-time job as a designer and software developer, I’ve built a consistent creative practice and launched several side projects. Now, I'm sharing what I've learned about **burnout**, **nurturing your inner artist**, and **building creative projects with joy and intention**.
+Since then, I’ve formed a love/hate relationship with technology, especially the internet. I hate losing myself in the Instagram vortex and the way most of my experiences online feel like walking around a suburban shopping mall. I love finding weird, whimsical apps and websites and learning more about the people who make them.
 
-## You're in the right place if…
-
-- You feel **_overwhelmed_** and **_uninspired_** by the busy cycle of everyday life
-- You’re tired of trying to optimize every aspect of your life through productivity hacks
-- You want to have more **_space_** and **_time_** to focus on building an intentional creative practice that brings **_meaning_** and **_joy_** to your day
-- You have multiple creative project ideas but struggle to actually **_finish_** any of them
-
-I believe my purpose is to nourish myself and others with love, truth, creativity, and laughter. I also know that you (yes, you!) are an abundantly creative individual and that the world needs your art.
-
-Thank you for being here.
-
-Now let’s get back to testing spaghetti recipes, shall we?
+I believe in building interesting and unexpected digital experiences and that it is much more fun to blur the lines between design and engineering.
 
 Contact me by email at [samanthaspaghetti@gmail.com](mailto:samanthaspaghetti@gmail.com).

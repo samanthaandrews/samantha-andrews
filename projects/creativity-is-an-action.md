@@ -6,7 +6,7 @@ date: "2018"
 layout: layouts/project.njk
 ---
 
-Creativity Is An Action includes small, actionable activities to get you started on your first creative project, and then introduces you to the idea of building a larger, more complex project. This zine is a distillation of all the podcasts I listened to and books I read when I was searching for the tools to build a more creative life.
+[Creativity Is An Action](https://samantha-andrews.s3.us-east-2.amazonaws.com/projects/creativity-is-an-action-zine/creativity-is-an-action.pdf) includes small, actionable activities to get you started on your first creative project, and then introduces you to the idea of building a larger, more complex project. This zine is a distillation of all the podcasts I listened to and books I read when I was searching for the tools to build a more creative life.
 
 ![creativity is an action 1](https://samantha-andrews.s3.us-east-2.amazonaws.com/projects/creativity-is-an-action-zine/creativity-is-an-action.jpg)
 ![creativity is an action 2](https://samantha-andrews.s3.us-east-2.amazonaws.com/projects/creativity-is-an-action-zine/creativity-is-an-action-2.jpg)

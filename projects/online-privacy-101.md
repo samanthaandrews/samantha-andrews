@@ -6,6 +6,6 @@ date: "2019"
 layout: layouts/project.njk
 ---
 
-After working as a software developer and learning more about online privacy and security, I wanted to share my knowledge. OnlinePrivacy.info is an actionable guide for folks who want to take the first steps to secure their data online.
+After working as a software developer and learning more about online privacy and security, I wanted to share my knowledge. [OnlinePrivacy101.info](https://onlineprivacy101.info/) is an actionable guide for folks who want to take the first steps to secure their data online.
 
 ![online-privacy-101](https://samantha-andrews.s3.us-east-2.amazonaws.com/projects/online-privacy-101/online-privacy-101.jpg)

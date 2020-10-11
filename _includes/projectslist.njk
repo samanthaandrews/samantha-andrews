@@ -1,10 +1,10 @@
-<div class="project-preview-page">
+<div class="project-preview">
   {% for project in projectslist %}
-    <div class="project-preview-item">
-      <a href="{{ project.url | url }}">
-        <img class="project-preview-image" src="{{ project.data.previewImage }}" alt="{{ project.data.title }}">
-        <h2>{{ project.data.title }}</h2>
-        <p>{{ project.data.description }}</p>
+    <div class="project-preview__item">
+      <a href="{{ project.url | url }}" class="project-preview__link">
+        <img class="project-preview__image" src="{{ project.data.previewImage }}" alt="{{ project.data.title }}">
+        <h2 class="project-preview__title">{{ project.data.title }}</h2>
+        <p class="project-preview__description">{{ project.data.description }}</p>
       </a>
     </div>
   {% endfor %}
