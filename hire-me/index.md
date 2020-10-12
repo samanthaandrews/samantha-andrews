@@ -11,7 +11,8 @@ eleventyNavigation:
 
 I'd love to work with you. Fill out the form below to tell me more:
 
-<form name="contact-form" method="POST" data-netlify="true">
+<form name="contact-form" method="POST" data-netlify="true" netlify-honeypot="bot-field">
+  <label class="form__label-hidden">Don’t fill this out if you're human <input name="bot-field" /></label>
   <label for="subject">
     <input name="subject" type="hidden" value="Hire form inquiry from samantha-andrews.com"/>
   </label>

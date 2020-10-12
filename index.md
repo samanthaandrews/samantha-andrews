@@ -59,7 +59,8 @@ I specialize in building fun and interesting websites and web apps that make use
     <p>
       If you like my pitch, we can set up a call to discuss how I an further assist upgrading your online presence.
     </p>
-  <form name="weird-website-idea-pitch-form" method="POST" data-netlify="true">
+  <form name="weird-website-idea-pitch-form" method="POST" netlify-honeypot="bot-field" data-netlify="true">
+    <label class="form__label-hidden">Don’t fill this out if you're human <input name="bot-field" /></label>
     <label for="subject">
       <input name="subject" type="hidden" value="Weird website idea pitch from samantha-andrews.com"/>
     </label>
