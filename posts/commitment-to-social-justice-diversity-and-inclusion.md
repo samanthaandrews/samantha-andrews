@@ -54,7 +54,7 @@ If you’re a BIPOC and you don’t feel welcomed or supported based on my words
 
 If you’re a white person and you see me doing something that is not in accordance with this anti-racist statement, please call me out.
 
-Send an email to [samanthaspaghetti@gmail.com](mailto:samanthaspaghetti@gmail.com), mention me on [Twitter](https://twitter.com/samspaghettiii), or reach out on [Instagram](https://www.instagram.com/samantha.spaghetti/).
+Send an email to [hello@samantha-andrews.com](mailto:{{metadata.email}}), mention me on [Twitter]({{ metadata.twitter }}), or reach out on [Instagram]({{ metadata.instagram }}).
 
 I know I will make mistakes. I am making the commitment to acknowledge the conflict, allow space for community members to be heard and deal with the underlying issue rather than demonizing the person who raised the issue. Then, I will take action to implement the needs expressed by community members.
 

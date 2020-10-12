@@ -25,4 +25,4 @@ Since then, I’ve formed a love/hate relationship with technology, especially t
 
 I believe in building interesting and unexpected digital experiences and that it is much more fun to blur the lines between design and engineering.
 
-Contact me by email at [samanthaspaghetti@gmail.com](mailto:samanthaspaghetti@gmail.com).
+Contact me by email at [hello@samantha-andrews.com](mailto:hello@samantha-andrews.com).

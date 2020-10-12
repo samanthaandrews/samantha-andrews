@@ -22,7 +22,7 @@ I specialize in building fun and interesting websites and web apps that make use
 
 ### Who are you?
 
-- An **artist** or _designer_ who wants a bespoke portfolio site that's so much more than a gallery of static images.
+- An **artist** or **designer** who wants a bespoke portfolio site that's so much more than a gallery of static images.
 - A **nonprofit** looking to expand your outreach with a single-page web app that takes users on an educational journey.
 - A **creative business owner** ready to level-up your marketing game with a share-worthy micro site that will generate buzz for your offering.
 - A **startup** that needs a brand-spankin'-new website. You're excited by the possibility of using a modern JavaScript solution instead of Wordpress or SquareSpace.
