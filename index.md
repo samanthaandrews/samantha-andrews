@@ -27,14 +27,12 @@ I specialize in building fun and interesting websites and web apps that make use
 - A **creative business owner** ready to level-up your marketing game with a share-worthy micro site that will generate buzz for your offering.
 - A **startup** that needs a brand-spankin'-new website. You're excited by the possibility of using a modern JavaScript solution instead of Wordpress or SquareSpace.
 
-  <blockquote>
-    Are you dreaming up the magical possibilities for your online presence right now? A custom online quiz reminiscent of the ones from Seventeen magazine? A custom Instagram filter? A button that spits glitter? Something totally weird and wacky that you've never seen anyone do on the internet before?!
-    <br/>
-    <br/>
-    <p class="button button__colorful">
-      <a href="{{ '/hire-me/' | url }}">Get in touch ✌︎</a>
-    </p>
-  </blockquote>
+> Are you dreaming up the magical possibilities for your online presence right now? A custom online quiz reminiscent of the ones from Seventeen magazine? A custom Instagram filter? A button that spits glitter? Something totally weird and wacky that you've never seen anyone do on the internet before?!
+> <br />
+>
+> <p class="button button__colorful">
+>   <a href="{{ '/hire-me/' | url }}">Get in touch ✌︎</a>
+> </p>
 
 ---
 
@@ -80,7 +78,7 @@ I specialize in building fun and interesting websites and web apps that make use
     <div class="form__input-wrap">
       <label>
         Website URL (optional)
-        <input class="form__input form__contact-input" type="url" name="website-url" placeholder="patrickthestar.com"/>
+        <input class="form__input form__contact-input" type="url" name="website-URL" placeholder="patrickthestar.com"/>
       </label>
     </div>
     <div>
