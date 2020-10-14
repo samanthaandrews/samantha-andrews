@@ -5,6 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ renderData.title or title or metadata.title }}</title>
     <meta name="Description" content="{{ renderData.description or description or metadata.description }}">
+    <meta property="og:title" content="{{ renderData.title or title or metadata.title }}">
+    <meta property="og:description" content="{{ renderData.description or description or metadata.description }}">
+    <meta property="og:image" content="{{ '/img/og_preview_image.png' | url }}">
+    <meta property="og:url" content="https://samantha-andrews.com">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="samantha-andrews.com">
     <link rel="shortcut icon" href="{{ '/img/favicon.ico' | url }}" type="image/x-icon">
     <link rel="icon" href="{{ '/img/favicon.ico' | url }}" type="image/x-icon">
     <link rel="stylesheet" href="{{ '/css/index.css' | url }}">
