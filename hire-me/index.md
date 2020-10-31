@@ -4,7 +4,7 @@ title: Hire me
 templateClass: tmpl-contact
 eleventyNavigation:
   key: Hire me ☞
-  order: 4
+  order: 5
 ---
 
 # Ready To Start A Project Together?

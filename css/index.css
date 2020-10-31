@@ -61,6 +61,7 @@ img {
 
 li {
   line-height: 1.7;
+  padding-bottom: 1em;
 }
 
 p,
@@ -150,10 +151,10 @@ label {
 }
 
 .nav__item {
+  margin-left: 1.5em;
   display: inline-block;
-  margin-left: 0;
   font-style: italic;
-  margin-right: 1em;
+  padding-bottom: 0;
 }
 
 .nav__item a[href]:not(:hover) {
@@ -418,9 +419,6 @@ a[href].direct-link:focus:visited,
     align-items: center;
   }
 
-  .nav__item {
-    margin-left: 2em;
-  }
   .footer__links {
     display: flex;
     justify-content: space-between;

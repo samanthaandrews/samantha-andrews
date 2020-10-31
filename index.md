@@ -22,12 +22,19 @@ I specialize in building fun and interesting websites and web apps that make use
 
 ### Who are you?
 
-- An **artist** or **designer** who wants a bespoke portfolio site that's so much more than a gallery of static images.
-- A **nonprofit** looking to expand your outreach with a single-page web app that takes users on an educational journey.
-- A **creative business owner** ready to level-up your marketing game with a share-worthy micro site that will generate buzz for your offering.
-- A **startup** that needs a brand-spankin'-new website. You're excited by the possibility of using a modern JavaScript solution instead of Wordpress or SquareSpace.
+You’re design-minded business owner on a mission build stronger, healthier communities.
 
-> Are you dreaming up the magical possibilities for your online presence right now? A custom online quiz reminiscent of the ones from Seventeen magazine? A custom Instagram filter? A button that spits glitter? Something totally weird and wacky that you've never seen anyone do on the internet before?!
+You’re making waves, challenging the status-quo, and building an intentional, purpose-driven business on your own terms. For you, running a business isn’t about making a billion dollars, it’s about making a meaningful dent in the Universe.
+
+You’re also juggling a million other things that come with the territory of running a business, and you know that your website could be doing more to generate leads, connect with your audience, and communicate your higher purpose.
+
+You know good design when you see it, but you haven’t quite been able to execute your vision using the standard website templates.
+
+I’m here to give your brand and website a makeover!
+
+Think of it like Queer Eye for your business. We’ll work together to streamline your messaging, simplify your systems, and package everything together with a website and brand that ✨sparkles✨.
+
+> Are you dreaming up the magical possibilities for your online presence right now? A custom online quiz reminiscent of the ones from Seventeen magazine? [Confetti falling from the page?](https://pizza-party-demo.netlify.app/) Something totally weird and wacky that you've never seen anyone do on the internet before?!
 > <br />
 >
 > <p class="button button__colorful">
@@ -40,9 +47,8 @@ I specialize in building fun and interesting websites and web apps that make use
 
 - In addition to making your website reflect your brand's personality, I'll also ensure that it is **accessible**, **fast**, and **SEO-optimized**.
 - I’m a designer who codes! Which means you don’t have to hire two separate people to execute your vision.
-- I'm a good communicator, reliable, autonomous, pragmatic and happy to project manage myself and/or a wider team.
-- I use a modern JavaScript tech stack for my projects which allows me to build blazing-fast websites and apps that are 100% customizable. For most static websites, I use Gatsby or Next.js. For other projects, I use React or Vue.
-- I want to partner with you on your JavaScript project for the long term. From design and planning, through to development, launch, and further improvements.
+- I'm a good communicator, reliable, autonomous, and I love managing projects. Rest easy knowing all the technical details are taken care of.
+- I want to partner with you on your brand and website for the long term. From design and planning, through to development, launch, and further improvements.
 
 ---
 
