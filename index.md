@@ -22,15 +22,13 @@ I specialize in building fun and interesting websites and web apps that make use
 
 ### Who are you?
 
-You’re design-minded business owner on a mission build stronger, healthier communities.
+You’re design-minded business owner on a mission build **stronger**, **healthier communities**.
 
 You’re making waves, challenging the status-quo, and building an intentional, purpose-driven business on your own terms. For you, running a business isn’t about making a billion dollars, it’s about making a meaningful dent in the Universe.
 
-You’re also juggling a million other things that come with the territory of running a business, and you know that your website could be doing more to generate leads, connect with your audience, and communicate your higher purpose.
+You’re also juggling a million other things that go hand-in-hand with running a business, and you know that your website could be doing more to **generate leads**, **connect with your audience**, and **communicate your higher purpose**. You just haven't _quite_ been able to execute your vision using the standard website templates.
 
-You know good design when you see it, but you haven’t quite been able to execute your vision using the standard website templates.
-
-I’m here to give your brand and website a makeover!
+**I’m here to give your brand and website a makeover!**
 
 Think of it like Queer Eye for your business. We’ll work together to streamline your messaging, simplify your systems, and package everything together with a website and brand that ✨sparkles✨.
 
@@ -47,7 +45,7 @@ Think of it like Queer Eye for your business. We’ll work together to streamlin
 
 - In addition to making your website reflect your brand's personality, I'll also ensure that it is **accessible**, **fast**, and **SEO-optimized**.
 - I’m a designer who codes! Which means you don’t have to hire two separate people to execute your vision.
-- I'm a good communicator, reliable, autonomous, and I love managing projects. Rest easy knowing all the technical details are taken care of.
+- I'm a good communicator, reliable, autonomous, and I actually enjoy managing projects.
 - I want to partner with you on your brand and website for the long term. From design and planning, through to development, launch, and further improvements.
 
 ---
@@ -112,7 +110,7 @@ Think of it like Queer Eye for your business. We’ll work together to streamlin
 
 ## Hey there! I'm Samantha ☺︎
 
-I’ve been designing and building websites for the past 5 years and I’m here to make yours stand out!
+I’ve been designing and building websites for the past 3 years and I’m here to make yours stand out!
 
 My recipe for kick-ass websites is actually quite simple: **clear and consistent messaging**, **fun and user-friendly design**, and **lightweight, super-fast code**.
 

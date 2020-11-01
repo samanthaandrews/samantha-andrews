@@ -1,6 +1,7 @@
 ---
 layout: layouts/post.njk
 title: About
+description: About Samantha Andrews. I'm a freelance web developer making the internet a little more fun. Need a website? Hire me today!
 templateClass: tmpl-post
 eleventyNavigation:
   key: About

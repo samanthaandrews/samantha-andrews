@@ -1,6 +1,6 @@
 ---
 layout: layouts/base.njk
-permalink: /free-project-templates/
+description: Free resources for online creators. Templates and downloadables to help you manage your creative projects and add some sparkle to your brand.
 eleventyNavigation:
   key: Resources
   order: 4
