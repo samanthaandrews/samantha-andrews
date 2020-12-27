@@ -3,27 +3,29 @@
   --gray: #e6e5e6;
   --darkgray: #171b1b;
   --white: #fff;
-  --green: #c8e44e;
-  --orange: #e35e1c;
-  --peach: #e19684;
-  --blue: #34449b;
-  --pink: #daa0d0;
-  --teal: #84a2a4;
-  --light-teal: #9fd2cd;
-  --gradient: linear-gradient(
-    0deg,
-    #c8e44e 0%,
-    #e35e1c 30%,
-    #daa0d0 70%,
-    #84a2a4 100%
+  --green: #6c7219;
+  --orange: #f5511c;
+  --electricpurple: #6c47f9;
+  --pink: #e04cd6;
+  --lightpeach: #ffece0;
+  --horizontal-gradient: linear-gradient(
+    90deg,
+    #6c47f9 0%,
+    #e04cd6 30%,
+    #f5511c 70%,
+    #6c7219 100%
   );
   --vertical-gradient: linear-gradient(
-    90deg,
-    #c8e44e 0%,
-    #e35e1c 30%,
-    #daa0d0 70%,
-    #84a2a4 100%
+    0deg,
+    #6c47f9 0%,
+    #e04cd6 30%,
+    #f5511c 70%,
+    #6c7219 100%
   );
+  --radial-gradient: radial-gradient(at top left, #6c7219, transparent 65%),
+    radial-gradient(at top right, #e04cd6, transparent 65%),
+    radial-gradient(at bottom left, #f5511c, transparent 95%),
+    radial-gradient(at bottom right, #6c47f9, transparent 75%);
   --maxwidth: 700px;
 }
 * {
@@ -60,29 +62,41 @@ img {
 }
 
 li {
-  line-height: 1.7;
-  padding-bottom: 1em;
+  padding-bottom: 0.8em;
 }
 
 p,
+li,
 .tmpl-post .tmpl-home {
-  line-height: 1.7;
+  line-height: 1.8;
+}
+
+p,
+li {
+  font-size: 18px;
 }
 
 a[href] {
   color: var(--darkgray);
+  border-bottom: 3px solid var(--orange);
+  text-decoration: none;
 }
 
 a[href]:hover {
-  opacity: 0.5;
+  background: var(--orange);
 }
 
 a[href]:visited {
   color: var(--darkgray);
 }
 
+.email-archives__link {
+  border-bottom: none;
+  text-decoration: underline;
+}
+
 blockquote {
-  background-color: var(--gray);
+  background-color: var(--lightpeach);
   padding: 1em; /* 16px 10px /16 */
   margin: 2rem 0;
   font-weight: 600;
@@ -98,8 +112,7 @@ blockquote > p {
 }
 
 hr {
-  border-top: 1px solid var(--darkgray);
-  opacity: 0.2;
+  border: 1px solid var(--gray);
   margin: 4em 0;
 }
 
@@ -144,6 +157,11 @@ label {
 
 .header__title :link:not(:hover) {
   text-decoration: none;
+  border-bottom: none;
+}
+
+.header__title :link:hover {
+  border-bottom: none;
 }
 
 .nav {
@@ -155,10 +173,16 @@ label {
   display: inline-block;
   font-style: italic;
   padding-bottom: 0;
+  font-size: 16px;
 }
 
 .nav__item a[href]:not(:hover) {
   text-decoration: none;
+  border-bottom: none;
+}
+
+.nav__item a[href]:hover {
+  border-bottom: none;
 }
 
 .nav__item-active {
@@ -167,7 +191,7 @@ label {
 }
 
 .home__hero {
-  margin: 6em 0;
+  margin: 6em 0 4em 0;
 }
 
 .calloutbox {
@@ -176,28 +200,12 @@ label {
   border-radius: 2px;
 }
 
-.calloutbox__h2 {
-  margin-top: 0;
-}
-
-.freebie {
-  background-color: var(--gray);
-  border: 2px solid var(--darkgray);
-  box-shadow: 10px 10px var(--darkgray);
-}
-
-.freebie__consultation {
-  background-color: var(--light-teal);
-  border: 2px solid var(--teal);
-  box-shadow: 10px 10px var(--teal);
-}
-
 .callout__left {
   margin-bottom: 1rem;
 }
 
 .gradient__text {
-  background-image: var(--vertical-gradient);
+  background-image: var(--horizontal-gradient);
   background-color: var(--orange);
   background-clip: text;
   -webkit-background-clip: text;
@@ -227,6 +235,7 @@ label {
 a[href].direct-link,
 a[href].direct-link:visited {
   color: transparent;
+  border-bottom: none;
 }
 
 a[href].direct-link:focus,
@@ -237,8 +246,14 @@ a[href].direct-link:focus:visited,
 }
 
 /* Project Overview Page */
-.project-preview__link {
+a[href].project-preview__link {
   text-decoration: none;
+  border-bottom: none;
+}
+
+a[href].project-preview__link:hover {
+  border-bottom: none;
+  background: none;
 }
 
 .project-preview__title {
@@ -267,17 +282,16 @@ a[href].direct-link:focus:visited,
 
 /* Buttondown Email Form */
 .email {
-  background: var(--gradient);
+  background: var(--vertical-gradient);
 }
 
 /* Forms */
-
 .form__label-hidden {
   display: none;
 }
 
 .form__input {
-  line-height: 1.7;
+  line-height: 1.8;
   font-size: 1em;
 }
 
@@ -333,6 +347,7 @@ a[href].direct-link:focus:visited,
 /* Buttons */
 .button > a {
   text-decoration: none;
+  border-bottom: none;
 }
 
 .button.button__colorful {
