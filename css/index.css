@@ -225,6 +225,23 @@ label {
   shape-outside: circle();
 }
 
+.me {
+  display: none;
+  position: absolute;
+  top: 40px;
+  left: 130px;
+  max-width: 170px;
+}
+
+.intro {
+  cursor: crosshair;
+  position: relative;
+}
+
+.intro:hover img {
+  display: inline-block;
+}
+
 /* Direct Link Markdown Headers */
 .direct-link {
   text-decoration: none;
