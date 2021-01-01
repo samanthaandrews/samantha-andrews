@@ -1,5 +1,5 @@
 ---
-title: "My 2020 Year-End Review and 2021 Preview"
+title: "My 2020 year-end review and 2021 preview"
 description: Reflecting on New Zealand, COVID, and spending lots of time at home
 date: 2020-12-31
 image: "https://samantha-andrews.s3.us-east-2.amazonaws.com/writing/2020-12-31-hiking-in-new-zealand.jpg"
