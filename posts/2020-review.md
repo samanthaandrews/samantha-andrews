@@ -1,7 +1,8 @@
 ---
 title: "My 2020 Year-End Review and 2021 Preview"
-description: How to make small changes in your routine and build a creative practice that will bring more inspiration, joy, and meaning to your day-to-day — even if you work full-time
+description: Reflecting on New Zealand, COVID, and spending lots of time at home
 date: 2020-12-31
+image: "https://samantha-andrews.s3.us-east-2.amazonaws.com/writing/2020-12-31-hiking-in-new-zealand.jpg"
 tags:
   - creative practice
 layout: layouts/post.njk
