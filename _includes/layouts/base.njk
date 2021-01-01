@@ -15,6 +15,7 @@
     <meta name="twitter:site" content="@samandrewsmakes" />
     <meta name="twitter:creator" content="@samandrewsmakes" />
     <meta name="twitter:image" content="{{ renderData.image | image | metadata.image }}" />
+    <meta name="twitter:image:alt" property="og:image:alt" content="{{ renderData.title or title or metadata.title }}" />
     <link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
     <link rel="icon" href="/img/favicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="/css/index.css">
