@@ -80,7 +80,7 @@ I know I will make mistakes. I am making the commitment to acknowledge the confl
 - **Financial**: For the past five years I’ve participated in Albuquerque Zine Fest. This year, my submission was virtual, and I donated 100% of my compensation to [Black Girls Code](https://www.blackgirlscode.com), a nonprofit organization working to increase the number of women of color in the digital space by empowering girls of color ages 7 to 17 to become innovators in STEM fields, leaders in their communities, and builders of their own futures through exposure to computer science and technology.
 - **Using my platform and my voice**: I’ve been quiet on the blog and website recently, but I did have a civil and productive conversation with a stranger on Instagram recently. We discussed how to avoid using cultural appropriative and offensive language.
 
-## January 2021
+### January 2021
 
 - **Self-education**: Read _We Were Eight Years in Power: An American Tragedy_ by Ta-Nehisi Coates
 - **Financial:** Became an annual supporter of [The Barnraiser's Project](https://barnraisersproject.org/). The Barnraiser's Project coaches and trains white people to organize their friends, neighbors and colleagues for racial equity. This org is run by [Garrett Bucks](https://thewhitepages.substack.com/), who spent his career as a community organizer until he realized that his work was always focused on organizing in other people's communities. He created The Barnraiser's Project after listening to the call from civil rights leaders to organize against racism and white supremacy in our own (white) communities.
