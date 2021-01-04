@@ -22,6 +22,6 @@ Previously, I taught computer programming to girls ages 11-18 with [Girls Who Co
 
 I make money by working as a visual designer and front-end developer at [Descartes Labs](https://www.descarteslabs.com/). I'm also a freelance designer and web developer for purpose-driven businesses and nonprofits in the Southwest. There's nothing I love more than designing brands and building websites that help people connect with their community and make their ideas come to life.
 
-I'm currently open for freelance projects. Check out some of my [work](/projects) and [get in touch](/hire-me).
+I'm currently open for freelance projects. Check out my [services](/services) and [get in touch](/hire-me).
 
 ---
