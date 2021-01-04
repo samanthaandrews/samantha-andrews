@@ -13,7 +13,7 @@ For businesses that know their website could be doing more to connect with their
 
 I'm experienced building sites using Webflow, Squarespace, Wix, Gatsby, and NextJS. Not currently building WordPress sites, sorry! If you're not sure which platform is best for you, don't fret. After I learn more about your project, I'll outline a list of platform recommendations.
 
-<p class="button"><a href="{{ '/hire-me' }}">I need a new website!</a></p>
+<p class="button"><a href="{{ '/hire-me' }}">I need a new website ✺</a></p>
 
 </div>
 
@@ -23,7 +23,7 @@ I'm experienced building sites using Webflow, Squarespace, Wix, Gatsby, and Next
 
 For businesses that are building a digital product, like an online course, coaching package, ebook, or podcast, and need a strategic designer to help pull everything together. If you already have an existing brand, I'll make sure your digital product stands out while maintaining the essence of your existing brand guidelines.
 
-<p class="button"><a href="{{ '/hire-me' }}">I need a digital product designer!</a></p>
+<p class="button"><a href="{{ '/hire-me' }}">I need a digital product designer ⚙︎</a></p>
 
 </div>
 
@@ -38,6 +38,6 @@ This one-hour session is for two types of people:
 
 We'll talk on the phone or via video chat about the problems you're facing. I mostly listen while asking a set of guided questions. Within 24 hours, I'll respond with a written set of thoughtful and creative recommendations to help you get unstuck and make the next right step.
 
-<p class="button"><a href="{{ '/hire-me' }}">Help me get unstuck!</a></p>
+<p class="button"><a href="{{ '/hire-me' }}">Help me get unstuck ⍨</a></p>
 
 </div>
