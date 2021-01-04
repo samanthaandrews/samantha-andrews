@@ -82,5 +82,5 @@ I know I will make mistakes. I am making the commitment to acknowledge the confl
 
 ## January 2021
 
--**Self-education**: Read _We Were Eight Years in Power: An American Tragedy_ by Ta-Nehisi Coates
+- **Self-education**: Read _We Were Eight Years in Power: An American Tragedy_ by Ta-Nehisi Coates
 - **Financial:** Became an annual supporter of [The Barnraiser's Project](https://barnraisersproject.org/). The Barnraiser's Project coaches and trains white people to organize their friends, neighbors and colleagues for racial equity. This org is run by [Garrett Bucks](https://thewhitepages.substack.com/), who spent his career as a community organizer until he realized that his work was always focused on organizing in other people's communities. He created The Barnraiser's Project after listening to the call from civil rights leaders to organize against racism and white supremacy in our own (white) communities.
