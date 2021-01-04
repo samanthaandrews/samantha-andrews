@@ -4,9 +4,13 @@
   --darkgray: #171b1b;
   --white: #fff;
   --green: #6c7219;
+  --green3: #e2e3d1;
   --orange: #f5511c;
+  --orange3: #fddcd2;
   --electricpurple: #6c47f9;
+  --electricpurple3: #e2dafe;
   --pink: #e04cd6;
+  --pink3: #f9dbf7;
   --lightpeach: #ffece0;
   --horizontal-gradient: linear-gradient(
     90deg,
@@ -95,14 +99,34 @@ a[href]:visited {
   text-decoration: underline;
 }
 
+.callout,
 blockquote {
-  background-color: var(--lightpeach);
   padding: 1em; /* 16px 10px /16 */
   margin: 2rem 0;
-  font-weight: 600;
-  border-radius: 2px;
   border: 2px solid var(--darkgray);
   box-shadow: 10px 10px var(--darkgray);
+  border-radius: 2px;
+}
+
+.green_bg {
+  background-color: var(--green3);
+}
+
+.pink_bg {
+  background-color: var(--pink3);
+}
+
+.electricpurple_bg {
+  background-color: var(--electricpurple3);
+}
+
+.orange_bg {
+  background-color: var(--orange3);
+}
+
+blockquote {
+  background-color: var(--lightpeach);
+  font-weight: 600;
   letter-spacing: 0.4px;
   line-height: 1.5em;
 }
@@ -331,13 +355,14 @@ a[href].project-preview__link:hover {
 
 .form__aside-text {
   font-size: 0.7rem;
-  color: var(--orange);
+  color: var(--electricpurple);
 }
 
 .button {
   width: fit-content;
   font-weight: 500;
   text-transform: uppercase;
+  cursor: pointer;
 }
 
 .form__contact-input {
@@ -352,11 +377,6 @@ a[href].project-preview__link:hover {
   padding: 4px;
 }
 
-.form__button {
-  cursor: pointer;
-  background-color: transparent;
-}
-
 .form__input-wrap {
   margin-bottom: 1em;
 }
@@ -368,7 +388,7 @@ a[href].project-preview__link:hover {
 }
 
 .button.button__colorful {
-  background: var(--vertical-gradient);
+  background: var(--horizontal-gradient);
 }
 
 .center {

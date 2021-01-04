@@ -3,7 +3,7 @@ layout: layouts/base.njk
 description: Free resources for online creators. Templates and downloadables to help you manage your creative projects and add some sparkle to your brand.
 eleventyNavigation:
   key: Resources
-  order: 4
+  order: 3
 ---
 
 ## Want to start your own creative project? Download my Creative Project Planning Templates
