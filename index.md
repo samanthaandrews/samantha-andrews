@@ -12,11 +12,11 @@ layout: layouts/home.njk
 
 ---
 
-Drowning in listicles about how to be more productive, how to build better habits, and how to achieve inbox zero, I started asking myself: What if we wrote poetry in GoogleSheets? What if the internet was free for everyone, everywhere? And how can we make more apps and websites that delight and amaze?
+Drowning in listicles about how to be more productive and social media apps that make me feel like I'm shouting into the void, I started asking myself: What if we wrote poetry in GoogleSheets? What if social media felt more like the public library? And how can UI design encourage creativity, connection, and civil discourse? What patterns exist beyond share, comment, and like?
 
 I am compelled by the ways in which we use design and technology to write poetry, deepen our capacity for empathy, and strengthen local communities.
 
-I see life as a practice. I'm currently practicing writing 750 words every day, doing cartwheels (badly), and identifying birds. I try not to take myself too seriously.
+I see life as a practice. I'm currently practicing writing 750 words every day, doing [cartwheels](https://www.instagram.com/reel/CKH1fgZFED2/) (badly), and identifying birds. I try not to take myself too seriously.
 
 Previously, I taught computer programming to girls ages 11-18 with [Girls Who Code](https://girlswhocode.com/).
 
