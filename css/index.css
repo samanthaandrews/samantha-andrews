@@ -70,6 +70,7 @@ li {
 }
 
 p,
+li,
 .tmpl-post .tmpl-home {
   line-height: 1.5;
 }
