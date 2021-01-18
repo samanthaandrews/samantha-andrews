@@ -77,12 +77,13 @@ li,
 
 a[href] {
   color: var(--darkgray);
-  border-bottom: 3px solid var(--orange);
+  border-bottom: 3px solid var(--electricpurple);
   text-decoration: none;
 }
 
-a[href]:hover {
-  background: var(--orange);
+a[href]:hover,
+a[href]:active {
+  background: var(--electricpurple3);
 }
 
 a[href]:visited {
@@ -154,7 +155,7 @@ code {
     "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L",
     "Courier New", Courier, monospace;
   line-height: 1.2;
-  color: var(--orange);
+  color: var(--electricpurple3);
 }
 
 label {
@@ -257,7 +258,8 @@ label {
   position: relative;
 }
 
-.intro:hover img {
+.intro:hover img,
+.intro:active img {
   display: inline-block;
 }
 

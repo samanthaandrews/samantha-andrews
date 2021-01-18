@@ -1,8 +1,8 @@
 ---
-title: "Before I Die, I Will..."
+title: "Before I die, I will..."
 description: A checklist of things I want to contribute to the world before I die
 date: 2021-01-17
-image: "https://samantha-andrews.s3.us-east-2.amazonaws.com/writing/2020-17-01-before-i-die-checklist.jpg"
+image: "https://samantha-andrews.s3.us-east-2.amazonaws.com/writing/2021-17-01-before-i-die-checklist.jpg"
 tags:
   - creative practice
 layout: layouts/post.njk
@@ -37,4 +37,4 @@ Maybe you too just need to write your own list of 10-12 things to keep you focus
 
 Even small, imperfect, unfinished projects can make a big impact.
 
-![my before I die checklist](https://samantha-andrews.s3.us-east-2.amazonaws.com/writing/2020-17-01-before-i-die-checklist.jpg)
+![my before I die checklist](https://samantha-andrews.s3.us-east-2.amazonaws.com/writing/2021-17-01-before-i-die-checklist.jpg)

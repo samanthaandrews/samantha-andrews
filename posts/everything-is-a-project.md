@@ -2,7 +2,7 @@
 title: Everything is a project
 description: "Everything worth doing is a project to be managed."
 date: 2021-01-01
-image: "https://samantha-andrews.s3.us-east-2.amazonaws.com/writing/2020-01-01-everything-is-a-project.jpg"
+image: "https://samantha-andrews.s3.us-east-2.amazonaws.com/writing/2021-01-01-everything-is-a-project.jpg"
 tags:
   - creative project management
 layout: layouts/post.njk
@@ -38,7 +38,7 @@ These are projects that we're managing all the time. My goal is to make all of t
 
 One day, perhaps, all of these things will start to feel more like a second-nature rather than a project to be managed. But for now, the systems help the habits stick.
 
-![my desk from above with laptop, books, pens, and notebooks](https://samantha-andrews.s3.us-east-2.amazonaws.com/writing/2020-01-01-everything-is-a-project.jpg)
+![my desk from above with laptop, books, pens, and notebooks](https://samantha-andrews.s3.us-east-2.amazonaws.com/writing/2021-01-01-everything-is-a-project.jpg)
 
 In 2021, I have a list of projects that I want to work on. Each one requires its own project management system or routine. With each one, I can only really focus on doing the next right thing. Here's what I've done thus far:
 
