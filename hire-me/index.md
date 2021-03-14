@@ -3,9 +3,6 @@ layout: layouts/base.njk
 title: Hire me
 description: Ready to start a project together? Hire Samantha Andrews to design and build your website.
 templateClass: tmpl-contact
-eleventyNavigation:
-  key: Hire me ☞
-  order: 4
 ---
 
 # Ready To Start A Project Together?
