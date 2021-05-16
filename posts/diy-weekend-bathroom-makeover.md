@@ -1,5 +1,5 @@
 ---
-title: "DIY Bathroom Makeover (Under $400!)"
+title: "DIY Bathroom Makeover (Only $350!)"
 description: My process for re-decorating the bathroom in one weekend
 date: 2021-05-16
 image: "https://samantha-andrews.s3.us-east-2.amazonaws.com/writing/2021-05-16-diy-bathroom-makeover/diy_bathroom_makeover_before_and_after.png"
