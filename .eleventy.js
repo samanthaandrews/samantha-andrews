@@ -52,6 +52,8 @@ module.exports = function (eleventyConfig) {
             case "nav":
             case "post":
             case "posts":
+            case "project":
+            case "projects":
               return false;
           }
 

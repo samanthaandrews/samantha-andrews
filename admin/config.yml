@@ -1,7 +1,11 @@
 backend:
   name: git-gateway
   branch: master
-media_folder: img/uploads
+media_library:
+  name: cloudinary
+  config:
+    cloud_name: djrxspb6p
+    api_key: 977181646716222
 collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
     label: "Blog" # Used in the UI

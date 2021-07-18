@@ -21,14 +21,6 @@ Free to start! \$4/month for Personal
 
 I use Notion for brainstorming, note-taking, and dumping all sorts of inspirational content I find across the web. It’s like a beautifully-designed database for your life.
 
-![teux deux logo](https://pbs.twimg.com/profile_images/790654223608324097/Vtn9Q5UP_400x400.jpg)
-
-### [Teux Deux](https://teuxdeux.com/)
-
-\$2/month paid yearly
-
-This is a simple to-do app created by Tina Roth Eisenberg, aka Swiss Miss. I love that TeuxDeux allows me to see my full week laid out, with space for additional lists at the bottom (It’s where I put my bucket list!).
-
 ![google photos logo](https://cdn.worldvectorlogo.com/logos/google-photos.svg)
 
 ### [Google Photos](https://photos.google.com/)
