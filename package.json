@@ -30,9 +30,5 @@
     "luxon": "^2.0.1",
     "markdown-it": "^12.1.0",
     "markdown-it-anchor": "^8.1.0"
-  },
-  "dependencies": {
-    "netlify-cms-app": "^2.15.27",
-    "netlify-cms-media-library-cloudinary": "^1.3.10"
   }
 }
