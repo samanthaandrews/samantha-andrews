@@ -1,20 +1,19 @@
 ---
-title: "My 2020 year-end review and 2021 preview"
+layout: layouts/post.njk
+title: My 2020 year-end review and 2021 preview
 description: Reflecting on New Zealand, COVID, and spending lots of time at home
 date: 2020-12-31
-image: "https://samantha-andrews.s3.us-east-2.amazonaws.com/writing/2020-12-31-hiking-in-new-zealand.jpg"
+image: https://samantha-andrews.s3.us-east-2.amazonaws.com/writing/2020-12-31-hiking-in-new-zealand.jpg
 tags:
   - creative practice
-layout: layouts/post.njk
 ---
-
 ## Traveled to New Zealand and got engaged!
 
 My partner AJ and I traveled to New Zealand for the entirety of February and we got engaged! While this part of 2020 feels like a lifetime ago, I find myself looking back at the photos and feeling a swell of gratitude. We spent the first week with his family who lives in Auckland and the last three weeks driving a van from the North Island through the bottom of the South Island.
 
 As a natural homebody, travel isn't easy for me. I often feel there is too much prep and planning involved to execute a proper vacation. But it does make me feel good to break from my routine and get out of my comfort zone. I especially love road trips with AJ because it means we get to spend time talking and listening to new music, taking long walks, and learning more about each other. We've been together for almost 7 years now, so the engagement feels just right.
 
-![hiking in new zealand](https://samantha-andrews.s3.us-east-2.amazonaws.com/writing/2020-12-31-hiking-in-new-zealand.jpg)
+![hiking in new zealand](https://res.cloudinary.com/djrxspb6p/image/upload/v1630434687/blog/2020_review/hiking-in-new-zealand_ymz2ej.jpg)
 
 ## ReflectionQuestions.app went live!
 
@@ -82,13 +81,13 @@ Writing in the morning helps me feel centered and grounded. It is a form of pray
 
 That being said, here are some of the things I hope to accomplish in 2021...
 
-- Become a morning writing person
-- Write a poetry zine
-- Become a person who reads (I'd like set a book number goal, but after doing that several years in a row, I need to figure out how to turn this into a system rather than a goal.)
-- Make a DIY online store and donate all profits to great causes
-- Go to therapy and actually commit to it this time
-- Make my Nana’s Linzer cookie recipe
-- Learn to dive off a diving board
-- Find a professional mentor/coach
-- Start doing dance aerobics one day per week
-- Schedule one date night per month
+* Become a morning writing person
+* Write a poetry zine
+* Become a person who reads (I'd like set a book number goal, but after doing that several years in a row, I need to figure out how to turn this into a system rather than a goal.)
+* Make a DIY online store and donate all profits to great causes
+* Go to therapy and actually commit to it this time
+* Make my Nana’s Linzer cookie recipe
+* Learn to dive off a diving board
+* Find a professional mentor/coach
+* Start doing dance aerobics one day per week
+* Schedule one date night per month
