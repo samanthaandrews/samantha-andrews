@@ -4,7 +4,7 @@ title: 27 small projects to do at home
 description: Things to do when everything else is canceled and the world feels
   like it's falling apart.
 date: 2020-03-14
-image: https://samantha-andrews.com/
+image: https://res.cloudinary.com/djrxspb6p/image/upload/v1630433890/blog/small_projects_to_do_at_home/social-distance-collage_w23ozr.jpg
 tags:
   - creative inspiration
 ---
