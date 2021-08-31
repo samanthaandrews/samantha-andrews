@@ -1,10 +1,11 @@
 ---
+layout: layouts/post.njk
 title: You don’t need to be more productive. You need to be more human.
 description: How to resist becoming a capitalist robot machine and live more intentionally
 date: 2020-05-31
+image: https://res.cloudinary.com/djrxspb6p/image/upload/v1630443517/blog/you_dont_need_to_be_more_productive/you_need_to_be_more_human_rumufq.jpg
 tags:
   - burnout
-layout: layouts/post.njk
 ---
 
 I used to read dozens of articles and self-help books about how to be more productive. But last year, I hit complete burnout and decided to quit “productivity” cold turkey.
