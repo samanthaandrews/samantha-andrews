@@ -1,10 +1,12 @@
 ---
-title: 25 creative project ideas for when you’re feeling blocked, overwhelmed, and uninspired
+layout: layouts/post.njk
+title: 25 creative project ideas for when you’re feeling blocked, overwhelmed,
+  and uninspired
 description: How to resist becoming a capitalist robot machine and live more intentionally
 date: 2020-05-31
+image: https://res.cloudinary.com/djrxspb6p/image/upload/v1630443738/blog/creative_projects_when_you_are_blocked_uninspired/creative_projects_blocked_overwhelmed_uninspired_k51aci.jpg
 tags:
   - creative inspiration
-layout: layouts/post.njk
 ---
 
 Write a “Choose Your Own Adventure” story.
