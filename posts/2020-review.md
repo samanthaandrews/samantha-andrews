@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: My 2020 year-end review and 2021 preview
 description: Reflecting on New Zealand, COVID, and spending lots of time at home
 date: 2020-12-31
-image: https://samantha-andrews.s3.us-east-2.amazonaws.com/writing/2020-12-31-hiking-in-new-zealand.jpg
+image: https://res.cloudinary.com/djrxspb6p/image/upload/v1630434687/blog/2020_review/hiking-in-new-zealand_ymz2ej.jpg
 tags:
   - creative practice
 ---
