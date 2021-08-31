@@ -1,7 +1,7 @@
 {
   "title": "Samantha Andrews | Software Engineer, Designer, Artist",
   "url": "https://samantha-andrews.com/",
-  "description": "Samantha Andrews is making art without an art degree, open source software, DIY projects, stickers, websites, zines, and encouraging you to bring your ideas to life!",
+  "description": "Samantha Andrews is making art without an art degree and encouraging you to do the same",
   "instagram": "https://www.instagram.com/samandrewsmakes",
   "twitter": "https://www.twitter.com/samandrewsmakes",
   "github": "https://github.com/samanthaandrews",
@@ -10,7 +10,7 @@
   "polywork": "https://timeline.samantha-andrews.com/",
   "email": "hello@samantha-andrews.com",
   "feed": {
-    "subtitle": "Samantha Andrews is making art without an art degree, open source software, DIY projects, stickers, websites, zines, and encouraging you to bring your ideas to life!",
+    "subtitle": "Samantha Andrews is making art without an art degree and encouraging you to do the same",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://samantha-andrews.com/"
