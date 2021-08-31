@@ -6,6 +6,8 @@ media_library:
   config:
     cloud_name: djrxspb6p
     api_key: 977181646716222
+    default_transformations:
+      max_width: 700
 collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
     label: "Blog" # Used in the UI
@@ -17,7 +19,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Featured Image", name: "image", widget: "string" }
+      - { label: "Featured Image", name: "image", widget: "image" }
       - {
           label: "Tags",
           name: "tags",
