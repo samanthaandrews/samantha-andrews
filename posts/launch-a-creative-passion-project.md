@@ -1,10 +1,12 @@
 ---
+layout: layouts/post.njk
 title: Launch a creative passion project today without feeling overwhelmed
-description: A step-by-step plan for planning, organizing, and executing your first creative passion project
+description: A step-by-step plan for planning, organizing, and executing your
+  first creative passion project
 date: 2020-06-28
+image: https://res.cloudinary.com/djrxspb6p/image/upload/v1630444473/blog/launch_creative_passion_project/launch_creative_passion_project_xzmqmg.jpg
 tags:
   - creative project management
-layout: layouts/post.njk
 ---
 
 Passion projects, side projects, or side hustles (ugh, I hate the word hustle) are activities you pursue outside your normal “day job” that allow you to explore new topics, skills, or technology. Passion projects are a great way to push yourself out of your comfort zone and start building a portfolio of fun projects that you’re proud of.
