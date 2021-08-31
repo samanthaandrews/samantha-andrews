@@ -5,7 +5,7 @@ description: A practical guide for decluttering your artist studio, closet, or
   tabletop and tips for being more intentional about the items you bring into
   your creative space
 date: 2021-01-17
-image: https://samantha-andrews.s3.us-east-2.amazonaws.com/writing/2021-01-17-creative-workspace-january-2021.jpg
+image: https://res.cloudinary.com/djrxspb6p/image/upload/v1630433213/blog/minimalism_for_artists_and_makers/creative-workspace-january-2021_zamosy.jpg
 tags:
   - creative practice
 ---
