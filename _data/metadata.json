@@ -1,7 +1,8 @@
 {
-  "title": "Samantha Andrews | Frontend Software Engineer",
+  "title": "Samantha Andrews | Software Engineer, Designer, Artist",
   "url": "https://samantha-andrews.com/",
-  "description": "Samantha Andrews is a software engineer and artist making the internet a more fun and interesting place for everyone.",
+  "image": "/img/og-social-image.jpg",
+  "description": "Samantha Andrews is making art without an art degree, open source software, DIY projects, stickers, websites, zines, and encouraging you to bring your ideas to life!",
   "instagram": "https://www.instagram.com/samandrewsmakes",
   "twitter": "https://www.twitter.com/samandrewsmakes",
   "github": "https://github.com/samanthaandrews",
@@ -10,7 +11,7 @@
   "polywork": "https://timeline.samantha-andrews.com/",
   "email": "hello@samantha-andrews.com",
   "feed": {
-    "subtitle": "Samantha Andrews is a software engineer and artist making the internet a more fun and interesting place for everyone.",
+    "subtitle": "Samantha Andrews is making art without an art degree, open source software, DIY projects, stickers, websites, zines, and encouraging you to bring your ideas to life!",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://samantha-andrews.com/"
