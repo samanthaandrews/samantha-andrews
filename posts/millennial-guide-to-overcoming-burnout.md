@@ -1,10 +1,11 @@
 ---
+layout: layouts/post.njk
 title: A millennial's guide to overcoming burnout
-description: "How I'm slowing down and resisting the pressure to always be working"
+description: How I'm slowing down and resisting the pressure to always be working
 date: 2020-01-20
+image: https://res.cloudinary.com/djrxspb6p/image/upload/v1630443609/blog/millennial_guide_to_overcoming_burnout/millennial_guide_overcoming_burnout_projy5.jpg
 tags:
   - burnout
-layout: layouts/post.njk
 ---
 
 I recently came across this tweet from someone on Twitter who expressed a core frustration I’ve felt throughout 2019:
