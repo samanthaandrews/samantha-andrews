@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: Before I die, I will...
 description: A checklist of things I want to contribute to the world before I die
 date: 2021-01-17
-image: https://samantha-andrews.s3.us-east-2.amazonaws.com/writing/2021-17-01-before-i-die-checklist.jpg
+image: https://res.cloudinary.com/djrxspb6p/image/upload/v1630433417/blog/before_i_die/before-i-die-checklist_vbglp0.jpg
 tags:
   - creative practice
 ---
