@@ -1,10 +1,12 @@
 ---
+layout: layouts/post.njk
 title: My Commitment to Social Justice, Diversity & Inclusion
-description: I support racial justice for Black, Indigenous and People of Color (BIPOC) and I am committed to being an inclusive, anti-racist organization
+description: I support racial justice for Black, Indigenous and People of Color
+  (BIPOC) and I am committed to being an inclusive, anti-racist organization
 date: 2020-06-21
+image: https://res.cloudinary.com/djrxspb6p/image/upload/v1630443270/blog/commitment_to_social_justice/commitment_to_anti_rascism_uvwubs.jpg
 tags:
   - social justice
-layout: layouts/post.njk
 ---
 
 Let’s cut right to the chase:
