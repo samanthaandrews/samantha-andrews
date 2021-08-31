@@ -1,10 +1,11 @@
 ---
+layout: layouts/post.njk
 title: Feeling stuck? Try a creative warm up.
 description: How a creative warm up exercise can free you to make more art.
 date: 2020-04-10
+image: https://res.cloudinary.com/djrxspb6p/image/upload/v1630443233/blog/creative_warmup/nyx-cat-creative-warmup_fkrni5.jpg
 tags:
   - creative practice
-layout: layouts/post.njk
 ---
 
 A couple times each week I lace up my sneakers and go for a run. I don’t time myself or aim to reach a specific distance. I don’t even carry my phone or wear a watch. I’m not fast, but it doesn’t matter. The point is to move without expectation. To just go.
