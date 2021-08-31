@@ -7,14 +7,14 @@
     <meta name="Description" content="{{ renderData.description or description or metadata.description }}">
     <meta property="og:title" content="{{ renderData.title or title or metadata.title }}">
     <meta property="og:description" content="{{ renderData.description or description or metadata.description }}">
-    <meta property="og:image" content="{{ renderData.image or image or /img/og_social_image.jpg }}">
+    <meta property="og:image" content="{{ renderData.image or image or '/img/og-social-image.jpg' }}">
     <meta property="og:url" content="{{ page.url }}">
     <meta property="og:type" content="article">
     <meta property="og:site_name" content="samantha-andrews.com">
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:site" content="@samandrewsmakes" />
     <meta name="twitter:creator" content="@samandrewsmakes" />
-    <meta name="twitter:image" content="{{ renderData.image or image or /img/og_social_image.jpg }}" />
+    <meta name="twitter:image" content="{{ renderData.image or image or '/img/og-social-image.jpg' }}" />
     <meta name="twitter:image:alt" property="og:image:alt" content="{{ renderData.title or title or metadata.title }}" />
     <link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
     <link rel="icon" href="/img/favicon.ico" type="image/x-icon">
