@@ -1,10 +1,12 @@
 ---
-title: "Struggling with gratitude? Pay attention. Be astonished."
-description: What I learned about gratitude from paying extra close attention on the day of my proposal.
+layout: layouts/post.njk
+title: Struggling with gratitude? Pay attention. Be astonished.
+description: What I learned about gratitude from paying extra close attention on
+  the day of my proposal.
 date: 2020-03-14
+image: https://res.cloudinary.com/djrxspb6p/image/upload/v1630443592/blog/gratitude_pay_attention_be_astonished/gratitude_pay_attention_be_astonished_dotgbt.jpg
 tags:
   - creative inspiration
-layout: layouts/post.njk
 ---
 
 Today I got engaged. It still sounds strange. Six years dating and today is the day it becomes “official” at least until the day we get married and then it becomes “official official.”
