@@ -5,7 +5,7 @@ layout: layouts/home.njk
 <section class="home__hero">
   <div class="intro">
     <h1>Hi! I'm Samantha Andrews—a <span class="gradient__text">designer</span> and <span class="gradient__text">software</span> <span class="gradient__text">developer</span> making websites, zines, and stickers in New Mexico.</h1>
-    <img src="/img/headshot.png" class="me"/>
+    <img src="https://res.cloudinary.com/djrxspb6p/image/upload/v1630433697/headshot_pjvu4t.png" class="me"/>
   </div>
   <p>My work focuses on closely examining the self and its relationship with technology, collecting and archiving <a href="https://www.are.na/samantha-andrews/screenshots-rom_k7kfyby">digital memorabilia</a>, and encouraging myself and others to slow down and make art</a>.</p>
 </section>
