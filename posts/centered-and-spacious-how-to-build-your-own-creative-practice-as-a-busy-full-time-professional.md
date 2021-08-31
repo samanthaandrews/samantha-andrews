@@ -1,10 +1,14 @@
 ---
-title: "Centered and spacious: How to build your own creative practice as a busy, full-time professional"
-description: How to make small changes in your routine and build a creative practice that will bring more inspiration, joy, and meaning to your day-to-day — even if you work full-time
+layout: layouts/post.njk
+title: "Centered and spacious: How to build your own creative practice as a
+  busy, full-time professional"
+description: How to make small changes in your routine and build a creative
+  practice that will bring more inspiration, joy, and meaning to your day-to-day
+  — even if you work full-time
 date: 2020-05-28
+image: https://res.cloudinary.com/djrxspb6p/image/upload/v1630444460/blog/centered_and_spacious_creative_practice/centered_and_spacious_creative_practice_cu3fsy.jpg
 tags:
   - creative practice
-layout: layouts/post.njk
 ---
 
 As someone who works a nine-to-five job, I know how it feels to try and hold it all together outside work. Cooking, cleaning, and social obligations quickly add up to a full schedule that often feels overwhelming or downright monotonous.
