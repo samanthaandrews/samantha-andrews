@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: Everything is a project
 description: Everything worth doing is a project to be managed.
 date: 2021-01-01
-image: https://samantha-andrews.s3.us-east-2.amazonaws.com/writing/2021-01-01-everything-is-a-project.jpg
+image: https://res.cloudinary.com/djrxspb6p/image/upload/v1630433451/blog/everything_is_a_project/everything-is-a-project_ma5vhn.jpg
 tags:
   - creative project management
 ---
