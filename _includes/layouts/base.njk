@@ -29,13 +29,15 @@
       </h1>
 
       {#- Read more about `eleventy-navigation` at https://www.11ty.dev/docs/plugins/navigation/ #}
-      <ul class="nav" style="padding-inline-start: 0;">
-        {%- for entry in collections.all | eleventyNavigation %}
-          <li class="nav__item{% if entry.url == page.url %} nav__item-active{% endif %}">
-            <a href="{{ entry.url | url }}">{{ entry.title }}</a>
-          </li>
-        {%- endfor %}
-      </ul>
+      <nav>
+        <ul class="nav" style="padding-inline-start: 0;">
+          {%- for entry in collections.all | eleventyNavigation %}
+            <li class="nav__item{% if entry.url == page.url %} nav__item-active{% endif %}">
+              <a href="{{ entry.url | url }}">{{ entry.title }}</a>
+            </li>
+          {%- endfor %}
+        </ul>
+      </nav>
     </header>
 
     <main{% if templateClass %} class="{{ templateClass }}"{% endif %}>
@@ -46,7 +48,7 @@
       <div class="calloutbox email">
         <h2>Subscribe to Gradient Mesh—An email newsletter for artists and makers</h2>
         <p>Gradient Mesh is about making art without an art degree, paying attention, and keeping the promises we make to ourselves. It's about practice. And quitting. And starting again.</p>
-        <p>It arrives in your inbox every Sunday morning and is best consumed with a hot beverage. In each newsletter I will share all the messy parts of along my journey to becoming a full-time artist and maker, help you get organized to better manage your creative projects, and offer up some thoughtful (and sometimes weird) recommendations.</p>
+        <p>It arrives in your inbox every Sunday morning and is best consumed with a hot beverage. In each newsletter I will share all the messy parts along my journey to becoming a full-time artist and maker, help you get organized to better manage your creative projects, and offer up some thoughtful (and sometimes weird) recommendations.</p>
         <form
                 action="https://buttondown.email/api/emails/embed-subscribe/samantha-andrews"
                 method="post"
@@ -59,7 +61,7 @@
           <input type="hidden" value="1" name="embed"></input>
           <input class="button form__input form__button" type="submit" value="Subscribe ✉"></input>
           <p>
-            <a class="email-archives__link" href="https://buttondown.email/samantha-andrews/archive">Read the archives</a>
+            <a class="button email-archives__link" href="https://buttondown.email/samantha-andrews/archive">Read the archives</a>
           </p>
         </form>
       </div>

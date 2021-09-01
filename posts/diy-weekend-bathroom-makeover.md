@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: DIY Bathroom Makeover (Only $350!)
+title: DIY bathroom makeover (Only $350!)
 description: My process for re-decorating the bathroom in one weekend
 date: 2021-05-16
 image: https://res.cloudinary.com/djrxspb6p/image/upload/v1630433261/blog/loft_bathroom_makeover/diy_bathroom_makeover_before_and_after_o4shc3.png
