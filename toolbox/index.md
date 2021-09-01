@@ -13,7 +13,7 @@ Have a tool or product you think I should know about? Send me an email at [hello
 
 ## Project management, organization, and business stuff
 
-![notion logo](https://upload.wikimedia.org/wikipedia/en/4/45/Notion_app_logo.png)
+![notion logo](https://cdn.worldvectorlogo.com/logos/notion-logo-1.svg)
 
 ### [Notion](https://www.notion.so/?r=b9b8d2c6857340a89190ea283e49ee3d)
 
