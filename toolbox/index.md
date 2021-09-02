@@ -1,7 +1,7 @@
 ---
 layout: layouts/base.njk
 title: Toolbox
-description: The software and services I use to run my freelance web development business.
+description: The software and services I use to run this blog and all my creative projects.
 templateClass: tmpl-toolbox
 ---
 

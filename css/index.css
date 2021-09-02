@@ -101,8 +101,7 @@ a.email-archives__link {
   border-bottom: 2px solid var(--darkgray)
 }
 
-.callout,
-blockquote {
+.callout {
   padding: 1em; /* 16px 10px /16 */
   margin: 2rem 0;
   border: 2px solid var(--darkgray);
@@ -127,14 +126,22 @@ blockquote {
 }
 
 blockquote {
-  background-color: var(--lightpeach);
-  font-weight: 600;
-  letter-spacing: 0.4px;
-  line-height: 1.5em;
+  color: gray;
+  /* margin: 40px 40px 24px; */
 }
 
-blockquote > p {
-  margin: 0;
+blockquote > p:first-child {
+  margin-top: 0;
+}
+
+blockquote::before {
+  content: "\201C";
+  display: block;
+  font-size: 30px;
+  height: 0;
+  left: -20px;
+  position: relative;
+  top: -5px;
 }
 
 hr {
