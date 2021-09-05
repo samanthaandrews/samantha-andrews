@@ -28,7 +28,10 @@ Before. Check out those rugs and towels.
 
 My process for re-decorating the bathroom went something like this:
 
-1. Search Pinterest for inspiration images.
+1. Search Pinterest for inspiration images. 
+
+![screenshot of my pinterest bathroom inspiration board](https://res.cloudinary.com/djrxspb6p/image/upload/v1630815426/blog/loft_bathroom_makeover/pinterest-bathroom-inspiration_vwzdeb.png)
+
 2. Feel discouraged because every modern bathroom seems to incorporate either (a) lots of plants, or (b) fun wallpaper, or both. Since my bathroom doesn't get any natural light and I'm too lazy to figure out how or where to add wallpaper, these were not viable options.
 3. Go to my local At Home store at 9:00 PM to browse. Find these fake grass stems in fun colors. I'm reminded of a vase that was given to us by AJ's parents and decide to use that as my inspiration.
 4. Buy the fake grass stems, a fake gold-painted rose, some dried grasses in a bundle(?), and a tall vase. I'm going full Greek Goddess on this bathroom. I don't know where any of this stuff will go yet, but I'm trusting my intuition. Also buy a shower organizer. Wonder why it took me so long to buy one of these?
