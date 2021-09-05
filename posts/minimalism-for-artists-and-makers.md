@@ -1,6 +1,7 @@
 ---
 layout: layouts/post.njk
-title: Minimalism for artists and makers—A step-by-step guide
+title: Minimalism for artists and makers—A step-by-step guide to decluttering
+  your creative studio space
 description: A practical guide for decluttering your artist studio, closet, or
   tabletop and tips for being more intentional about the items you bring into
   your creative space
@@ -59,6 +60,8 @@ Write down your answers to the following questions:
 Personally, I still have a lot of *stuff* in my workspace, but I keep it organized because that's what works for me. Honestly, I don't even consider myself a minimalist at all! But I am *intentional* about what I keep in my space, and I think that's an important differentiation to make.
 
 Start collecting inspirational images in the design app of your choice. Pinterest, Are.na, Canva, Adobe XD, or Figma are all good options.
+
+![screenshot of pinterest inspiration board for creative studios](https://res.cloudinary.com/djrxspb6p/image/upload/v1630815895/blog/minimalism_for_artists_and_makers/creative-space-inspiration-board-pinterest_wm06oe.png)
 
 ## Step 2: How to declutter your belongings as an artist or creator
 
