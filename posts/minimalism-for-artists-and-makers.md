@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: Minimalism for artists and makers—A step-by-step guide to decluttering
-  your creative studio space
+  your creative workspace
 description: A practical guide for decluttering your artist studio, closet, or
   tabletop and tips for being more intentional about the items you bring into
   your creative space
