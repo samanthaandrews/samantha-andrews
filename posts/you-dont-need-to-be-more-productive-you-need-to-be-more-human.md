@@ -7,6 +7,7 @@ image: https://res.cloudinary.com/djrxspb6p/image/upload/v1630443517/blog/you_do
 tags:
   - burnout
 ---
+![man with dark hair walking in front of a large indoor art mural](https://res.cloudinary.com/djrxspb6p/image/upload/v1630443517/blog/you_dont_need_to_be_more_productive/you_need_to_be_more_human_rumufq.jpg)
 
 I used to read dozens of articles and self-help books about how to be more productive. But last year, I hit complete burnout and decided to quit “productivity” cold turkey.
 
@@ -22,7 +23,7 @@ So what’s with the allure of productivity anyway? And how did productivity bec
 
 If we are being honest, I blame capitalism. Or rather, the Western capitalistic society that raised me—an ambitious, overachieving millennial—to believe that work and a hyper-individualistic version of success is the meaning of life.
 
-Will Hana came to this conclusion in his 2019 essay _The Millenial Work Ethic and the Spirit of Capitalism:_
+Will Hana came to this conclusion in his 2019 essay *The Millenial Work Ethic and the Spirit of Capitalism:*
 
 > Work has transformed in ours eyes. It is no longer a means of securing certain ends, it has become an end in itself. Work has become a coping mechanism to mask the more deep seated psychic pathologies contained within the construction of our identities. Productive efficiency is presented as our summum bonum.
 
@@ -40,7 +41,7 @@ Hana concludes:
 
 So, where do we start in developing our more human traits?
 
-In the book _Make Time: How to Focus on What Matters Every Day_, authors Jake Knapp and Jason Zeratsky suggest choosing a single activity to prioritize and protect in your calendar. They call this your Highlight activity.
+In the book *Make Time: How to Focus on What Matters Every Day*, authors Jake Knapp and Jason Zeratsky suggest choosing a single activity to prioritize and protect in your calendar. They call this your Highlight activity.
 
 > Of course, your Highlight isn’t the only thing you’ll do each day. But it will be your priority. Asking yourself “What’s going to be the highlight of my day?” ensures that you spend time on the things that matter to you and don’t lose the entire day reacting to other people’s priorities. When you choose a Highlight, you put yourself in a positive, proactive frame of mind.
 
@@ -48,7 +49,7 @@ I think choosing a Highlight activity is a simple and accessible way to start li
 
 Some days, your Highlight might be work-related, but I would argue that most days it should be purely for fun or focused on relationship-building.
 
-Another way to move away from traditional productivity and toward joyful creation is to start building your own centered and spacious creative practice. I wrote an in-depth [guide](https://samantha-andrews.com/posts/2020-05-28-centered-and-spacious-how-to-build-your-own-creative-practice-as-a-busy-full-time-professional/) to building a creative practice with a fillable [worksheet](https://docs.google.com/document/d/1DLY91Vix_m_o6czFLXgENH1KC-KDhcO0qUuVdWD5MIE/edit?usp=sharing) that’s free to download.
+Another way to move away from traditional productivity and toward joyful creation is to start building your own centered and spacious creative practice. I wrote an in-depth [guide](https://samantha-andrews.com/posts/centered-and-spacious-how-to-build-your-own-creative-practice-as-a-busy-full-time-professional/) to building a creative practice with a fillable [worksheet](https://samandrews.notion.site/Prompts-for-Building-Your-Creative-Practice-Garden-12007e1b53e5483c86aad9806747d8f5) that’s free to download.
 
 Lastly, try writing a different kind of to-do list. I call it the Enough list, which is a list of essential tasks that I can realistically accomplish in one day.
 
@@ -56,6 +57,8 @@ For someone who usually tries to cram as many talks into my to-do list as possib
 
 Over the next week, I encourage you to write your Enough checklist. Don’t overfill the list with “nice-to-haves.” Be realistic about what you can accomplish.
 
-Now, add one Highlight to your daily Enough list. For the first few days, make your Highlight something human and non-work-related, like going for a long walk, calling a long-distance friend, or planning a home-cooked dinner. Your Highlight is something that you will look back on at the end of the week and clearly remember.
+Now, add one Highlight to your daily Enough list. For the first few days, make your Highlight something human and non-work-related, like going for a long walk, calling a long-distance friend, or making a soup or pie. Your Highlight is something that you will look back on at the end of the week and clearly remember.
 
 Once your Enough list is complete, you’re done for the day. And you can sleep well knowing you’ve done everything you need to do, you’re exactly where you’re meant to be, and the Universe is holding you tight.
+
+![peach background with the following text: how to quit productivity and start a centered and spacious creative practice](https://res.cloudinary.com/djrxspb6p/image/upload/v1630963277/blog/you_dont_need_to_be_more_productive/you_don_t_need_to_be_more_productive_o8czcz.jpg "you don't need to be more productive. you need to be more human.")
