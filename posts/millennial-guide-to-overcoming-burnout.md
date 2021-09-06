@@ -7,6 +7,7 @@ image: https://res.cloudinary.com/djrxspb6p/image/upload/v1630443609/blog/millen
 tags:
   - burnout
 ---
+![two potted plants with long trailing vines sitting on a concrete step](https://res.cloudinary.com/djrxspb6p/image/upload/v1630443609/blog/millennial_guide_to_overcoming_burnout/millennial_guide_overcoming_burnout_projy5.jpg)
 
 I recently came across this tweet from someone on Twitter who expressed a core frustration I’ve felt throughout 2019:
 
@@ -16,7 +17,7 @@ In the replies, most everyone encouraged Kyle to take a break, take care of hims
 
 But there is an element of self-sabotage that Kyle is expressing in his original tweet. He knows that it is going to take some hard work outside of his day job to accomplish personal goals, but he regularly avoids engaging in these tasks. He even acknowledges that fear of failure is a likely culprit blocking his path to success:
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">It’s surprising to me that so few have taken notice of the “self sabotage” part. I meant it.<br><br>I know what I need to do to take my work/life to the next level, but it is a _lot_ of work, and maybe my subconscious sees never starting as better/easier than failing.</p>&mdash; Kyle Shevlin (@kyleshevlin) <a href="https://twitter.com/kyleshevlin/status/1193357561782657024?ref_src=twsrc%5Etfw">November 10, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">It’s surprising to me that so few have taken notice of the “self sabotage” part. I meant it.<br><br>I know what I need to do to take my work/life to the next level, but it is a \_lot\_ of work, and maybe my subconscious sees never starting as better/easier than failing.</p>&mdash; Kyle Shevlin (@kyleshevlin) <a href="https://twitter.com/kyleshevlin/status/1193357561782657024?ref_src=twsrc%5Etfw">November 10, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Like Kyle, I enjoy working on projects outside of my day job. So why has this year been such a struggle? I have a lot of ideas, but my creative energy comes and goes in fits and starts. I overthink the task at hand or struggle to clearly define it in the first place. This causes anxiety, circling thoughts, and before I know it I’m sucked into a 3-hour YouTube binge spiral.
 
@@ -58,11 +59,11 @@ In fact, I began to see all of my “hustle” and “self-care” related activ
 
 This exact phenomenon was the topic of discussion in one of my favorite [articles](https://graphitepublications.com/the-millenial-work-ethic-and-the-spirit-of-capitalism/) of 2019, which attempts to untangle the millennial obsession with work through an analysis of the Protestant influence on capitalism. I deeply resonate with author Will Hana's of the word 'adulting':
 
-> This would suggest that adulthood is not a state, but rather a list of tasks and responsibilities. It’s not that I _am_ an adult, instead, to qualify for the descriptor, I must constantly be _doing_ certain things.
+> This would suggest that adulthood is not a state, but rather a list of tasks and responsibilities. It’s not that I *am* an adult, instead, to qualify for the descriptor, I must constantly be *doing* certain things.
 
 Hana goes on to describe the implications of this type of means-end reasoning.
 
-> Means-ends reasoning has me conclude that when I meditate, do my groceries or even register to vote, I am doing so only to satisfy some distant goal other than the gratifying qualities contained within the processes themselves. It is not my duty to self-care, nutrition or civic engagement that compels me to engage in those activities, but rather my duty to _success_ in all its obscurity.
+> Means-ends reasoning has me conclude that when I meditate, do my groceries or even register to vote, I am doing so only to satisfy some distant goal other than the gratifying qualities contained within the processes themselves. It is not my duty to self-care, nutrition or civic engagement that compels me to engage in those activities, but rather my duty to *success* in all its obscurity.
 
 This article helped me to see productivity and many of its self-help cousins for what they really are — a cult, or rather "a secular religion of efficiency."
 
@@ -74,7 +75,7 @@ This final statement offers us, me, a different path forward. That by rejecting 
 
 ## Productivity does not equal creativity
 
-After making a conscious decision to reject productivity, an unwelcome barrage of questions entered my psyche: _Does this mean I'm a lazy and unambitious person now? Have I lost my edge? Is working toward personal goals a distraction from developing more human traits?_
+After making a conscious decision to reject productivity, an unwelcome barrage of questions entered my psyche: *Does this mean I'm a lazy and unambitious person now? Have I lost my edge? Is working toward personal goals a distraction from developing more human traits?*
 
 The answer to all of those questions is... no. Not at all. I realized that I have a tendency to conflate productivity with creativity. They are not the same! Writer [David Kadavy](https://kadavy.net/) notes the difference:
 
@@ -100,7 +101,7 @@ What I’ve learned in 2019 is that being productive doesn’t add up to a meani
 
 [Ryan Holiday](https://ryanholiday.net/), author of [Stillness is the Key](https://amzn.to/2G7IoxR), puts it another way:
 
-> Most people are way too obsessed with productivity and optimization. They want to know all the tools a successful writer or an artist uses because they think this is what makes these individuals so great. **_In reality, they are great because they love what they do and they have something they’re trying to say._**
+> Most people are way too obsessed with productivity and optimization. They want to know all the tools a successful writer or an artist uses because they think this is what makes these individuals so great. ***In reality, they are great because they love what they do and they have something they’re trying to say.***
 
 Ah, thank you Ryan Holiday. Now, comes the hard part: what do I love and what am I trying to say? Which brings me to my next point.
 
@@ -112,9 +113,8 @@ I recently read an [article](https://www.nytimes.com/2019/04/06/opinion/sunday/m
 
 I find myself noticing and admiring people who have climbed the second mountain. And I’d like to be one myself. In some ways, I think that I’ve already started down the path of climbing this moral second mountain, but I also feel myself working through an existential valley of despair, searching for a new truth. Brooks offers two key actions to put us on the path toward climbing the second mountain:
 
-1.  A period of solitude were self-reflection can occur.
-
-2.  Contact with the heart and soul—through prayer, meditation, writing, whatever it is that puts you in contact with your deepest desires.
+1. A period of solitude were self-reflection can occur.
+2. Contact with the heart and soul—through prayer, meditation, writing, whatever it is that puts you in contact with your deepest desires.
 
 Becoming a Second Mountain person sounds daunting at first glance, but with these two steps I feel comfortable moving forward into a place of deeper introspection. Which brings me to my next point—building a creative writing habit.
 
@@ -128,7 +128,7 @@ Anne Lammot, author of [Bird by Bird](https://amzn.to/38rfMvy) describes Morning
 
 In a few short weeks, Morning Pages have become my daily meditation and cornerstone creative habit. Some days my thoughts are annoying and petty, and that’s ok. In my Morning Pages, I am allowed to be a big adult baby. Usually once I’ve finished complaining, I end up uncovering something new or interesting about myself and the world around me.
 
-While this _creative_ habit is new to me, I realize I’m pretty good at developing healthy habits in other areas of my life. For example, I started lifting weights earlier this year. After consistently going to the gym 3-4 times each week for an intense hourly session, I’m now able to do one pull-up. This is a big accomplishment, and I’m proud of how strong I’ve become. But what’s more shocking is that I didn’t have to do anything extreme to accomplish this goal. I simply drove myself to the gym and followed the coach’s instructions each week.
+While this *creative* habit is new to me, I realize I’m pretty good at developing healthy habits in other areas of my life. For example, I started lifting weights earlier this year. After consistently going to the gym 3-4 times each week for an intense hourly session, I’m now able to do one pull-up. This is a big accomplishment, and I’m proud of how strong I’ve become. But what’s more shocking is that I didn’t have to do anything extreme to accomplish this goal. I simply drove myself to the gym and followed the coach’s instructions each week.
 
 Ryan Holiday recently wrote about the same phenomenon:
 
@@ -136,7 +136,7 @@ Ryan Holiday recently wrote about the same phenomenon:
 
 ## Engaging with the creative process
 
-Not only do Morning Pages act as a meditation, they also provide a non-judgmental space to actively _engage_ with the creative process. What do I mean when I say “engage with the creative process”? Writer [Nicole Peeler](https://humanparts.medium.com/dont-trust-the-process-110acc45e58) argues that trusting the creative process isn’t enough, not until you’ve actively wrestled with it and proven to yourself that it’s working. Peeler illustrates the difference by describing a meeting she had with her supervisor a few months into her rigorous PhD program. The supervisor provided this advice:
+Not only do Morning Pages act as a meditation, they also provide a non-judgmental space to actively *engage* with the creative process. What do I mean when I say “engage with the creative process”? Writer [Nicole Peeler](https://humanparts.medium.com/dont-trust-the-process-110acc45e58) argues that trusting the creative process isn’t enough, not until you’ve actively wrestled with it and proven to yourself that it’s working. Peeler illustrates the difference by describing a meeting she had with her supervisor a few months into her rigorous PhD program. The supervisor provided this advice:
 
 > Yes, this is shit. But there’s some good stuff there. So take it home, pick that good stuff out, and get rid of the rest. Add some more words. Some of it will be also be shit. But some of it will be okay. We keep repeating that until you have something that will pass. That’s the process… Just keep polishing the turd.
 
@@ -154,7 +154,7 @@ These Artist Dates have sparked inspiration. I find myself “[noticing the penn
 
 For me, another step in becoming a Second Mountain Person is letting go. Letting go of dreams that make me feel trapped and obligations that no longer feed me spiritually or creatively.
 
-In a recent [episode](https://hurryslowly.co/301-jocelyn-k-glei/) of the Hurry Slowly podcast, host Jocelyn K. Glei describes the freedom she felt from letting go of her lifelong dream to write a screenplay. You might be thinking, but these are _lifelong_ _dreams_ we are talking about?! This doesn’t sound like progress it sounds like admitting defeat! But for Glei, she realized that the screenplay dream was actually blocking her from opening up to other exciting creative opportunities.
+In a recent [episode](https://hurryslowly.co/301-jocelyn-k-glei/) of the Hurry Slowly podcast, host Jocelyn K. Glei describes the freedom she felt from letting go of her lifelong dream to write a screenplay. You might be thinking, but these are *lifelong* *dreams* we are talking about?! This doesn’t sound like progress it sounds like admitting defeat! But for Glei, she realized that the screenplay dream was actually blocking her from opening up to other exciting creative opportunities.
 
 I have similar creative blocks. And I’ve spent the past two months shedding them. In my Morning Pages, I write down all of my thoughts, feelings, dreams, and ambitions and then I spend time differentiating between the ones make me feel excited and which ones make me feel blocked.
 
@@ -179,3 +179,5 @@ One of my favorite bloggers, [Autotransluscence](https://autotranslucence.wordpr
 In my Morning Pages, I’ve been reflecting on all this. On slowing down, on paying attention to the Universe’s tiny gifts, resisting productivity, and developing more human traits like compassion and community. In therapy I’ve started turning the shame I feel about not working hard enough into a more positive emotion, like hope. I don’t know when I’ll feel better. But in some ways, writing this post has already helped me find clarity, which does feel better. I’ll leave you with this snippet from a 2019 NYT opinion article, [The Joy of Being a Woman in Her 70s](https://www.nytimes.com/2019/01/12/opinion/sunday/women-older-happiness.html), which I’ve read a dozen times in the last year and always helps put these things into perspective.
 
 > We may not have control, but we have choices. With intention and focused attention, we can always find a forward path. We discover what we are looking for. If we look for evidence of love in the universe, we will find it. If we seek beauty, it will spill into our lives any moment we wish. If we search for events to appreciate, we discover them to be abundant.
+
+![green background with the following text: the anti-productivity advice you need right now, plus tips for building a nourishing creative practice](https://res.cloudinary.com/djrxspb6p/image/upload/v1630961820/blog/millennial_guide_to_overcoming_burnout/millennial_guide_to_overcoming_burnout_xrlloi.jpg "a millennial's guide to overcoming burnout")
