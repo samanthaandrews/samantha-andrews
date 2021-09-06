@@ -138,3 +138,5 @@ Now that you've taken everything apart, it's time to put it back together.
 * Practice gratitude for everything and keep your own mindfulness practice. Clean your space frequently. Light a candle or incense. Journal. If you remain centered in an abundance mindset, you'll always know that you have enough.
 
 Thank you for reading! I hope this guide helps you create a creative space that makes you feel spacious and centered.
+
+![light peach background with the following text: 1) imagine your ideal creative space & create an inspo board 2) declutter: create sell, donate, and throw away piles 3) organize your supplies 4) decorate 💅5) declutter every 6 months](https://res.cloudinary.com/djrxspb6p/image/upload/v1630964579/blog/minimalism_for_artists_and_makers/minimalism_for_artists_and_makers_hndfp8.jpg "Minimalism for artists and makers: A step-by-step guide to decluttering your creative workspace")
