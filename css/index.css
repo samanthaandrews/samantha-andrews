@@ -61,7 +61,7 @@ h1 {
 p {
   font-size: 18px;
   margin-top: 26px;
-  margin-bottom: 30px;
+  margin-bottom: 26px;
 }
 
 p,
@@ -71,8 +71,13 @@ img {
   height: auto;
 }
 
-li {
-  margin: 1em 0;
+li > p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+li:last-child > p {
+  margin-bottom: 26px;
 }
 
 p,
@@ -228,10 +233,6 @@ label {
 .nav__item-active {
   font-weight: 700;
   text-decoration: underline;
-}
-
-.home__hero {
-  margin: 6em 0 4em 0;
 }
 
 .calloutbox {
@@ -415,7 +416,7 @@ a[href].project-preview__link:hover {
 
 /* Footer */
 .footer {
-  margin-top: 4rem;
+  /* margin-top: 4rem; */
   padding: 10px 0;
 }
 
@@ -444,6 +445,11 @@ a[href].project-preview__link:hover {
 .postlist__item:before {
   font-size: 0.8125em; /* 13px /16 */
   color: var(--darkgray);
+}
+
+.postlist__item {
+  margin-top: 26px;
+  margin-bottom: 26px;
 }
 
 .postlist__date {

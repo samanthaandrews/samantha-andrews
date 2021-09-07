@@ -9,9 +9,8 @@ tags:
   - social justice
 ---
 
-Let’s cut right to the chase:
-
-## I support racial justice for Black, Indigenous and People of Color (BIPOC) and I am committed to being an inclusive, anti-racist organization
+![colorful flowers growing in fertile soil](https://res.cloudinary.com/djrxspb6p/image/upload/v1630443270/blog/commitment_to_social_justice/commitment_to_anti_rascism_uvwubs.jpg)
+## I support racial justice for Black Indigenous People of Color (BIPOC) and I am committed to being an inclusive, anti-racist organization
 
 This website is a space to help you build a creative practice and work on personal projects with joy and intention. But ultimately, I am always writing about digging deeper within ourselves to unearth _what really matters._
 
@@ -19,7 +18,7 @@ This website is a space to help you build a creative practice and work on person
 
 And I cannot, in good faith, continue to write about creativity and making art without acknowledging that racism, injustice, and oppression are keeping so many people from living an equitable and dignified life.
 
-> As a white person in America, I recognize my participation in the systems that were designed to oppress BIPOC, destroy their families, and silence their voices. I have knowingly and unknowingly upheld racist ideas and perpetuated racist ideologies in the past, and been silently complicit in maintaining norms that, at best, make BIPOC feel marginalized and undervalued, and at worst, have proven to be downright fatal.
+As a white person in America, I recognize my participation in the systems that were designed to oppress BIPOC, destroy their families, and silence their voices. I have knowingly and unknowingly upheld racist ideas and perpetuated racist ideologies in the past, and been silently complicit in maintaining norms that, at best, make BIPOC feel marginalized and undervalued, and at worst, have proven to be downright fatal.
 
 For a long time I chose to ignore these issues, to push them off as someone else’s problem to solve. But this is a problem created by white people and the time is long overdue to clean up our own mess.
 
@@ -29,7 +28,8 @@ This document, which will be updated yearly, will keep me accountable in accorda
 
 ### Self-education
 
-- Commit to reading one anti-racism book every quarter. I’m currently participating in an [abolition book club](https://www.instagram.com/abqabolitionbc/). Free and open to anyone who is interested! The syllabus is linked in their Instagram bio. We meet virtually every few weeks.
+- Commit to reading one anti-racism book or participating (and paying for) a workshop run by BIPOC each year.
+- Commit to changing my mind & unlerning liberal feminism. Blog post coming soon.
 
 ### Financial support
 
@@ -39,14 +39,13 @@ This document, which will be updated yearly, will keep me accountable in accorda
 
 ### Diversifying my consumption
 
-- Decolonizing my Kindle bookshelf. This is where I need to do some work, because currently my bookshelf is mostly full of white authors! The goal here is to actively seek out BIPOC authors who write in genres that I already read, which for me includes fiction, poetry, and non-fiction books about history, science, and nature.
+- Decolonizing my Kindle bookshelf. This is where I need to do some work, because currently my bookshelf is mostly full of white authors. The goal here is to actively seek out BIPOC authors who write in genres that I already read, which for me includes science fiction, poetry, and non-fiction books about history, science, and nature.
 - Following more BIPOC on social media.
 - Subscribing to newsletters and podcasts from BIPOC blogs and businesses, specifically in the creativity and art space.
-- TBD - Movies & TV
 
 ### Using my platform and voice
 
-- I am using this page to document my journey and hold myself accountable to the commitment I am making to social justice issues. I will link it in a prominent place on my website and update it on a quarterly basis.
+- I am using this page to document my journey and hold myself accountable to the commitment I am making to social justice issues. I will link it in a prominent place on my website and update it on a yearly basis.
 - Be the anti-racist voice in my family/friend groups and be courageous in challenging racist ideas while pointing people to more qualified sources of education.
 - Amplifying the voices of BIPOC in my writing, recommended resources, and on social media.
 
