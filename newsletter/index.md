@@ -8,7 +8,7 @@ eleventyNavigation:
   order: 3
 ---
 
-# Gradient Mesh
+<h1><span class="gradient__text">Gradient Mesh</span></h1>
 
 ## A newsletter for artists, makers, and busy professionals who want to create their own artistic practice
 
