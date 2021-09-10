@@ -204,15 +204,18 @@ label {
   border-bottom: none;
 }
 
-.nav {
+.nav, .footer__links {
   list-style: none;
 }
 
-.nav__item {
-  display: inline-block;
+.footer__link, .nav__item {
   font-style: italic;
-  padding-bottom: 0;
   font-size: 16px;
+}
+
+.nav__item {
+  padding-bottom: 0;
+  display: inline-block;
 }
 
 .nav .nav__item {
@@ -223,12 +226,12 @@ label {
   margin-right: 0px;
 }
 
-.nav__item a[href]:not(:hover) {
+p.footer__link a[href]:not(:hover), .nav__item a[href]:not(:hover) {
   text-decoration: none;
   border-bottom: none;
 }
 
-.nav__item a[href]:hover {
+p.footer__link a[href]:hover, .nav__item a[href]:hover {
   border-bottom: none;
 }
 
@@ -418,8 +421,8 @@ a[href].project-preview__link:hover {
 
 /* Footer */
 .footer {
-  /* margin-top: 4rem; */
   padding: 10px 0;
+  border-top: 1px solid var(--gray);
 }
 
 .footer__links {
