@@ -26,9 +26,12 @@ Here’s what you can expect:
   You can also view previous issues in the [archive](https://buttondown.email/samantha-andrews/archive), and subscribe via [RSS](https://buttondown.email/samantha-andrews/rss)!
 
 <iframe
-scrolling="no"
-style="width:100%!important;height:220px;border:1px #ccc solid !important"
-src="https://buttondown.email/samantha-andrews?as_embed=true"
-></iframe><br /><br />
+  scrolling="no"
+  style="width:100%!important;height:220px;border:3px #e2dafe solid; !important"
+  src="https://buttondown.email/samantha-andrews?as_embed=true"
+>
+</iframe>
+<br />
+<br />
 
 ![spongebob squarepants sending a letter](https://media.giphy.com/media/efyEShk2FJ9X2Kpd7V/giphy.gif)
