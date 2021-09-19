@@ -5,7 +5,7 @@ description: Reflecting on New Zealand, COVID, and spending lots of time at home
 date: 2020-12-31
 image: https://res.cloudinary.com/djrxspb6p/image/upload/v1630434687/blog/2020_review/hiking-in-new-zealand_ymz2ej.jpg
 tags:
-  - creative practice
+  - yearly review
 ---
 ## Traveled to New Zealand and got engaged!
 
