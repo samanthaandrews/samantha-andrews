@@ -23,7 +23,7 @@ When you begin building a creative practice, it can be helpful to build a more c
 
 As I've built my own creative practice the past seven years, I've found a few exercises that have given me the clarity I seek:
 
-1. Write a reverse bucket list - a list of all the things you've \*already\* accomplished; less about your vision for the future and more about grounding yourself in gratitude
+1. Write a reverse bucket list - a list of all the things you've \_already\_ accomplished; less about your vision for the future and more about grounding yourself in gratitude
 2. Write a Ten-Year Plan - a detailed narrative description of your ideal life ten years from now
 3. Write your dream, your goal, and work backwards - a concrete goal and shorter vision statement with a five-year plan for getting it done
 4. Write a "Before I Die..." checklist - a simple, short bucket list specifically for your items that signify you are living a centered and spacious creative life
@@ -79,7 +79,9 @@ What do you want to contribute to the world before you die?
 
 This question came to me in [Alexandra Franzen's](http://www.alexandrafranzen.com/) newsletter on December 3, 2020. In it, Alex shared her *Before I Die, I Will...* list. It was written in big letters and posted on a bulletin board.
 
-Her list inspired me to write my own, which I keep in a Notion page. My list includes twelve items. It's exciting, motivating, and full of fun challenges. It doesn't feel overwhelming or fill me with anxiety, which is often how I feel when tasked with writing a bucket list.
+Her list inspired me to write my own. My list includes twelve items. It's exciting, motivating, and full of fun challenges. It doesn't feel overwhelming or fill me with anxiety, which is often how I feel when tasked with writing a bucket list.
+
+![my before i die checklist includes seeing a kiwi bird in the wild, teaching 500 girls to code, and inspiring people to slow down and make art](https://res.cloudinary.com/djrxspb6p/image/upload/v1630433417/blog/creative-visioning/before-i-die-checklist_vbglp0.jpg)
 
 Maybe you too just need to write your own list of 10-12 things to keep you focused on the big-picture? After you've written your list, can you focus on one item and get started right now? What if you break it down into its absolute smallest next step?
 
