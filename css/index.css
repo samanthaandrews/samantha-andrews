@@ -140,6 +140,16 @@ blockquote > p:first-child {
   margin-top: 0;
 }
 
+blockquote a[href] {
+  color: gray;
+  border-bottom: none;
+  text-decoration: underline;
+}
+
+blockquote a[href]:hover {
+  background: var(--gray);
+}
+
 blockquote::before {
   content: "\201C";
   display: block;
@@ -338,7 +348,7 @@ a[href].project-preview__link:hover {
 }
 
 /* Toolbox Page */
-.tmpl-toolbox > p > img {
+.tmpl-toolbox img {
   max-width: 20px;
 }
 
