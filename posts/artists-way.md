@@ -325,6 +325,7 @@ Listened to this album on repeat this week:
 <iframe src="https://open.spotify.com/embed/album/68ClkAMsCDyx2lQMsnbY55?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 And took some cute selfies:
+
 ![three selfies of me with a buzz cut and orange pom pom dangly earrings](https://res.cloudinary.com/djrxspb6p/image/upload/v1634773034/blog/artists_way/artists_way_1_mnpewu.jpg)
 
 ## Week 8: Recovering a sense of strength
@@ -465,7 +466,7 @@ The shower god is something my partner made up, and I admit I too find the showe
 
 ## Final thoughts
 
-These past twelve weeks I practiced returning to myself. Picking up the fragments. Gathering energy leaks. Remembering what embodied joy feels like. Making promises—To no longer abandon myself, to nurture my inner artist, to stay grounded in daily ritual. And taking small steps toward my dream.
+These past twelve weeks I practiced returning to myself. Picking up the fragments, gathering energy leaks. Remembering what embodied joy feels like. Making promises—to no longer abandon myself, to nurture my inner artist, to stay grounded in daily ritual. And taking small steps toward my dream.
 
 Ultimately, these past twelve weeks were a spiritual journey toward becoming whole.
 
