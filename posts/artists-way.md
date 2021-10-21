@@ -3,7 +3,7 @@ layout: post
 title: "Creativity is a spiritual practice: My experience reading The Artist's Way and why you should read it if you're feeling stuck"
 description: A week-by-week synopsis of how The Artist's Way changed my life and helped me work through burnout
 date: 2021-10-20
-image: https://res.cloudinary.com/djrxspb6p/image/upload/v1634773034/blog/artists_way/artists_way_6_uvrarg.jpg
+image: https://res.cloudinary.com/djrxspb6p/image/upload/v1634773038/blog/artists_way/artists_way_14_yhcc6w.jpg
 tags:
   - creative practice
 ---
