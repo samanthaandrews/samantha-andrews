@@ -91,7 +91,7 @@ Also check out this [video](https://www.youtube.com/watch?v=IRPyql3cezo) walk-th
 
 ## "The basic principles of The Artist’s Way" by teacher, author, writer, poet, and playwright Julia Cameron
 
-Cameron introduces these ten [basic principles](https://juliacameronlive.com/2011/09/14/the-basic-principles-of-the-artists-way/) in the first few pages of her national bestseller, *The Artist's Way.* You'll see the word God throughout these principles, a word that may or may not resonate with you. Cameron encourages us to think of our creativity as a spiritual practice, and to get curious about the spiritual electricity that we manifest when we're creating. Feel free to replace "God" with whatever word resonates most for you: Creative Force, The Great Creator, Benevolent Universe, Goddess, etc.
+Cameron introduces these ten [basic principles](https://juliacameronlive.com/2011/09/14/the-basic-principles-of-the-artists-way/) in the first few pages of her national bestseller, *The Artist's Way.* You'll see the word God throughout these principles, a word that may or may not resonate with you. Cameron encourages us to think of our creativity as a spiritual practice, and to get curious about the spiritual electricity that we manifest when we're creating. Feel free to replace "God" with whatever word resonates most for you: Source, Spirit,Creative Force, The Great Creator, Benevolent Universe, Goddess, etc.
 
 > 1. Creativity is the natural order of life. Life is energy: pure creative energy.
 >
