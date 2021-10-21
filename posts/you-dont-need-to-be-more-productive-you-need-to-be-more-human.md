@@ -49,7 +49,7 @@ I think choosing a Highlight activity is a simple and accessible way to start li
 
 Some days, your Highlight might be work-related, but I would argue that most days it should be purely for fun or focused on relationship-building.
 
-Another way to move away from traditional productivity and toward joyful creation is to start building your own centered and spacious creative practice. I wrote an in-depth [guide](https://samantha-andrews.com/posts/centered-and-spacious-how-to-build-your-own-creative-practice-as-a-busy-full-time-professional/) to building a creative practice with a fillable [worksheet](https://samandrews.notion.site/Prompts-for-Building-Your-Creative-Practice-Garden-12007e1b53e5483c86aad9806747d8f5) that’s free to download.
+Another way to move away from traditional productivity and toward joyful creation is to start building your own centered and spacious creative practice. I wrote an in-depth [guide](/posts/centered-and-spacious-how-to-build-your-own-creative-practice-as-a-busy-full-time-professional/) to building a creative practice with a fillable [worksheet](https://samandrews.notion.site/Prompts-for-Building-Your-Creative-Practice-Garden-12007e1b53e5483c86aad9806747d8f5) that’s free to download.
 
 Lastly, try writing a different kind of to-do list. I call it the Enough list, which is a list of essential tasks that I can realistically accomplish in one day.
 

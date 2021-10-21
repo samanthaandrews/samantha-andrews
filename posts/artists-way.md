@@ -196,7 +196,7 @@ I also started attending pole fitness classes, which has become another creative
 
 Overall, the theme of this week for me was _momentum._ I felt a shift in my energy. Things coming together.
 
-![Open door at the lofts](https://res.cloudinary.com/djrxspb6p/image/upload/v1634773034/blog/artists_way/artists_way_4_qrcyle.jpg)
+![inside a large empty building with concrete floors and sunshine pouring into the windows](https://res.cloudinary.com/djrxspb6p/image/upload/v1634773034/blog/artists_way/artists_way_4_qrcyle.jpg)
 
 ## Week 5: Recovering a sense of possibility
 
