@@ -266,10 +266,10 @@ Half & half in my coffee is a luxury.
 Going to the movies on a Monday evening is a luxury.
 
 > What we are talking about when we discuss luxury is very often a shift in consciousness more than flow—although as we acknowledge and invite what feels luxurious to us, we may indeed trigger an increased flow.
-
-Creative living requires the luxury of time, which we carve out for ourselves—even if it's fifteen minutes for quick morning pages and a ten-minute minibath after work.
-
-Creative living requires the luxury of space for ourselves, even if all we manage to carve out one special bookshelf and a windowsill that is ours.
+>
+> Creative living requires the luxury of time, which we carve out for ourselves—even if it's fifteen minutes for quick morning pages and a ten-minute minibath after work.
+> 
+> Creative living requires the luxury of space for ourselves, even if all we manage to carve out one special bookshelf and a windowsill that is ours.
 
 I found myself collecting items that felt luxurious this week. A piece of citrine and pressed flowers.
 
@@ -348,7 +348,9 @@ Both of these blocks are rooted in fear and anxiety. Interestingly, both are sol
 
 > Take one small daily action instead of indulging in the big questions. When we allow ourselves to wallow in the big questions, we fail to find the small answers. What we are talking about here is a concept of change grounded in respect—respect for where we are as well as where we wish to go. We are looking not to grand strokes of change—although they may come—but instead to the act of creatively husbanding all that is in the present: this job, this house, this relationship.
 
-Doing the next right thing has become a favorite phrase of mine, so much so that I created a sticker with the phrase. You can buy your own on my Etsy shop.
+Doing the next right thing has become a favorite phrase of mine, so much so that I created a sticker with the phrase. Soon you'll be able to buy your own on my Etsy shop.
+
+![white circle with black serif font that says "the next right thing" with a finger pointing right emoji](https://res.cloudinary.com/djrxspb6p/image/upload/v1635017280/blog/artists_way/next_right_thing_sticker_jziqtq.jpg)
 
 ### Articulating my dream
 
@@ -426,7 +428,9 @@ This protection meditation fit right into this week's chapter, which was all abo
 
 ![workaholism is a block, not a building block](https://res.cloudinary.com/djrxspb6p/image/upload/v1634773037/blog/artists_way/artists_way_16_lpjj4w.jpg)
 
-Personally I struggle with workaholism, which became clear to me this year when I felt mentally and emotionally fragmented. Something was off balance, and that something was me neglecting to nurture my creative practice in any meaningful way. Luckily I found this balance through the new job that I started in July, which only requires me to work 35 hours a week. Now, at exactly 3:30 PM every weekday, I leave the house, walk to a nearby coffee shop, and spend an hour or two nurturing my creative projects. I'm learning to balance the left and right sides of brain, and the result has been an overall feeling of wholeness.
+Personally I struggle with workaholism, which became clear to me this year when I felt mentally and emotionally fragmented. Something was off balance, and that something was me neglecting to nurture my creative practice in any meaningful way. Luckily I found this balance through my 35 hour work week and daily coffee shop walks where I spend time nurturing creative projects.
+
+I'm learning to balance the left and right sides of brain, and the result has been an overall feeling of wholeness.
 
 ## Week 11: Recovering a sense of autonomy
 
