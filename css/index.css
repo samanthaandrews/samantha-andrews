@@ -89,6 +89,10 @@ li,
   font-size: 18px;
 }
 
+a img {
+  display: block;
+}
+
 a[href] {
   color: var(--darkgray);
   border-bottom: 3px solid var(--electricpurple);
