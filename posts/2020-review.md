@@ -81,13 +81,36 @@ Writing in the morning helps me feel centered and grounded. It is a form of pray
 
 That being said, here are some of the things I hope to accomplish in 2021...
 
+(With December 2021 updates)
+
 * Become a morning writing person
+This did not happen.
+
 * Write a poetry zine
+This also did not happen.
+
 * Become a person who reads (I'd like set a book number goal, but after doing that several years in a row, I need to figure out how to turn this into a system rather than a goal.)
+I read a few books but still not as many as I'd hoped to.
+
 * Make a DIY online store and donate all profits to great causes
+I opened an Etsy store in November! [Here's the link](https://www.etsy.com/shop/samandrewsmakes) :)
+
 * Go to therapy and actually commit to it this time
-* Make my Nana’s Linzer cookie recipe
+This was the biggest change I made in 2021. I started therapy in February and have continued with weekly sessions.
+
+* Make my Nana’s Spritz cookie recipe
+I'm hoping to make this happen this month (December 2021), but my grandma has been sick and it has been hard to find a time that she is feeling up to me coming to visit.
+
 * Learn to dive off a diving board
+This did not happen. I practiced diving one day this summer, but was still too scared to try jumping off the diving board.
+
 * Find a professional mentor/coach
+I hired a career coach in August, and her help has been life-changing.
+
 * Start doing dance aerobics one day per week
+I attended a couple virtual dance aerobics classes early in the year, but have since started going to the gym more frequently and attending pole dancing classes, both of which are fun and make me feel strong.
+
 * Schedule one date night per month
+In theory this was a cute idea, but it just doesn't work for my fiance and I. Planning and scheduling even one more activity every month feels overwhelming. Instead, we've started listening to a record on the evening of each month's Full Moon and that has become our version of a date night.
+
+After reviewing this list, I'm hoping to make more achievable goals for 2022! I made a [video](https://www.youtube.com/watch?v=QK1yWN6IDLg) about how I've changed my thinking around goal-setting, and I'll be implementing those changes as I write my update for this year.
