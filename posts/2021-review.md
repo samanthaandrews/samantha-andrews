@@ -20,7 +20,7 @@ I do experience resistance to these appointments, even after eleven months. I te
 
 ### The Artist's Way
 
-I completed the twelve-week *Artist's Way* program in October, which includes a lot of healing inner-child activities and thoughtful reflection questions for journaling. I wrote a really long post about my experience working through The Artist's Way so I won't go into too much detail here, but this experience definitely helped me work through some core emotional wounds that have been holding me back.
+I completed the twelve-week *Artist's Way* program in October, which includes a lot of healing inner-child activities and thoughtful reflection questions for journaling. I wrote a really long [post](/posts/artists-way/) about my experience working through The Artist's Way so I won't go into too much detail here, but this experience definitely helped me work through some core emotional wounds that have been holding me back.
 
 ### Career coaching
 
@@ -32,7 +32,9 @@ Ultimately, I crafted a simple career plan that allows space for serendipity and
 
 Sometime in September I started writing again. I updated blog posts and wrote new ones. I re-launched and re-branded my newsletter, Gradient Mesh. In November I started experimenting with creating [YouTube videos](https://www.youtube.com/channel/UCbcCvBx9JnqcR7CRaozgg-A), which has been another creative outlet that I'd like to continue in the new year.
 
-Ultimately, this year I've admitted to myself that I'm a highly sensitive person. This might sound kind of silly and woo-woo, but whatever! I'm sensitive to social media. I'm sensitive to alcohol. I'm sensitive to offhand comments. I'm sensitive to loud noises and too much stimuli. I feel deeply and think a lot. Thus, I am learning to set a lot of boundaries in order to not become completely overwhelmed in life.
+### Being a highly sensitive person
+
+This year I've admitted to myself that I'm a highly sensitive person. This might sound kind of silly and woo-woo, but whatever! I'm sensitive to social media. I'm sensitive to alcohol. I'm sensitive to offhand comments. I'm sensitive to loud noises and too much stimuli. I feel deeply and think a lot. Thus, I am learning to set a lot of boundaries in order to not become completely overwhelmed in life.
 
 ## Launched a small Kickstarter with sticker designs & opened an Etsy store
 
