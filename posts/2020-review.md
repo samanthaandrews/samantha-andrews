@@ -121,6 +121,5 @@ I attended a couple virtual dance aerobics classes early in the year, but have s
 
 * Schedule one date night per month
 In theory this was a cute idea, but it just doesn't work for my fiance and I. Planning and scheduling even one more activity every month feels overwhelming. Instead, we've started listening to a record on the evening of each month's Full Moon and that has become our version of a date night.
-<br>
 
 After reviewing this list, I'm hoping to make more achievable goals for 2022! I made a [video](https://www.youtube.com/watch?v=QK1yWN6IDLg) about how I've changed my thinking around goal-setting, and I'll be implementing those changes as I write my update for this year.
