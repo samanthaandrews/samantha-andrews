@@ -1,7 +1,7 @@
 ---
 layout: layouts/base.njk
 title: Newsletter
-description: Sign up for my free weekly newsletter Gradient Mesh
+description: Sign up for my free monthly newsletter Gradient Mesh
 templateClass: tmpl-newsletter
 eleventyNavigation:
   key: Newsletter
@@ -12,9 +12,9 @@ eleventyNavigation:
 
 ## A newsletter for artists, makers, and busy professionals who want to create their own artistic practice
 
-I’m Samantha Andrews, a software engineer and designer interested in exploring what it means to build an artistic 🎨 and multi-passionate ✨ career.
+I’m Samantha Andrews, a software engineer and designer exploring what it means to build an 🎨 artistic and ✨ multi-passionate career.
 
-Gradient Mesh is my weekly newsletter that arrives in your inbox on Sunday mornings.
+Gradient Mesh is my monthly newsletter that arrives in your inbox whenever I post a new studio vlog on [YouTube](https://www.youtube.com/channel/UCbcCvBx9JnqcR7CRaozgg-A)! (This is when I have the most to say about what I'm learning about building a creative practice.)
 
 Here’s what you can expect:
 

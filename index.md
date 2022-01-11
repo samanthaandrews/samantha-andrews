@@ -4,12 +4,12 @@ layout: layouts/home.njk
 
 <section class="home__hero">
   <div class="intro">
-    <h1>Hi! I'm Samantha Andrews—a <span class="gradient__text">designer</span> and <span class="gradient__text">software</span> <span class="gradient__text">developer</span> making websites, zines, and stickers in New Mexico.</h1>
+    <h1>Hi! I'm Samantha Andrews—a <span class="gradient__text">designer</span> and <span class="gradient__text">software</span> <span class="gradient__text">developer</span> making art, websites, zines, and stickers in New Mexico.</h1>
     <img src="https://res.cloudinary.com/djrxspb6p/image/upload/v1630433697/headshot_pjvu4t.png" class="me"/>
   </div>
 </section>
 
-<h4>Struggling with burnout? Sign up for <span class="gradient__text">Gradient Mesh</span>—a free weekly newsletter for multi-passionate people who want to build a centered and spacious creative practice and prioritize work that matters.</h4>
+<h4>Struggling with burnout? Sign up for <span class="gradient__text">Gradient Mesh</span>—a free monthly newsletter for multi-passionate people who want to build a centered and spacious creative practice and prioritize work that matters.</h4>
 <iframe
   scrolling="no"
   style="width:100%!important;height:220px;border:3px #e2dafe solid !important"
