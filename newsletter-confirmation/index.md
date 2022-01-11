@@ -13,6 +13,6 @@ I'll be seeing you on Sunday morning with a dash of creative inspiration and pra
 
 ## In the meantime, add hello@samantha-andrews.com to your email contacts to ensure you never miss an issue.
 
-You can always stay up to date with my latest artistic experiments on Twitter [@samandrewsmakes]({{ metadata.twitter }}).
+You can always stay up to date with my latest artistic experiments on Twitter [@samandrewsmakes]({{ metadata.twitter }}) or TikTok [@samandrewsmakes]({{ metadata.tiktok }}).
 
 ![spongebob squarepants and patrick star dancing with excitement](https://media.giphy.com/media/GWNBoSxSpt7Ik/giphy.gif)
