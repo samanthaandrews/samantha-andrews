@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ renderData.title or title or metadata.title }}</title>
     <meta name="Description" content="{{ renderData.description or description or metadata.description }}">
+    <meta name="generator" content="{{ eleventy.generator }}">
     <meta property="og:title" content="{{ renderData.title or title or metadata.title }}">
     <meta property="og:description" content="{{ renderData.description or description or metadata.description }}">
     <meta property="og:image" content="{{ renderData.image or image or 'https://res.cloudinary.com/djrxspb6p/image/upload/v1630442463/og-social-image_qakkx4.jpg' }}">
