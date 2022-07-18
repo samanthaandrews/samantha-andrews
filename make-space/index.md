@@ -79,7 +79,7 @@ I'm a software engineer and artist with a knack for organizing and simplifying c
 
 I'm not exactly a minimalist, but over the years I've noticed that keeping a clean and organized space gives me the time and energy to focus on the relationships creative projects that matter most.
 
-My decluttering and organizing style is non-judgemental, patient, and practical. Hire me when you're ready to make space for what matters.
+My decluttering and organizing style is non-judgmental, patient, and practical. Hire me when you're ready to make space for what matters.
 
 ### Kitchen organization
 
