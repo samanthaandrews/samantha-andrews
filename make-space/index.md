@@ -35,7 +35,7 @@ I offer decluttering and organization services in the New York City area. If you
 I'm happy to help schedule donation pickups, take the trash out, list items to sell online, and curate a shopping list with suggestions for where to buy certain organizational items. I can also hang art, install simple shelving, file paperwork, and digitize documents.
 
 <form name="make-space-contact-form" method="POST" data-netlify="true" netlify-honeypot="bot-field">
-  <label for="bot-field" class="form__label-hidden">Don’t fill this out if you're human <input id="bot-field" name="bot-field" /></label>
+  <label class="form__label-hidden">Don’t fill this out if you're human <input name="bot-field" /></label>
   <label for="subject">
     <input id="subject" name="subject" type="hidden" value="Hire form inquiry from samantha-andrews.com/make-space"/>
   </label>
@@ -54,6 +54,7 @@ I'm happy to help schedule donation pickups, take the trash out, list items to s
     <label for="referral" class="form__contact-input">
       How did you hear about me?
         <select id="referral" name="referral" required>
+            <option value="" disabled selected>Select your option</option>
             <option value="word of mouth">Word of mouth</option>
             <option value="craigslist">Craigslist</option>
             <option value="listings project">Listings Project</option>
@@ -68,6 +69,7 @@ I'm happy to help schedule donation pickups, take the trash out, list items to s
       <textarea id="message" class="form__text-area form__contact-input" name="message" placeholder="How can I help? What room or area do you need help decluttering & organizing?" required></textarea>
     </label>
     <button class="button form__input form__button" type="submit">Submit ☞</button>
+    </form>
     <p class="form__aside-text">I'll reply within 24 hours!</p>
 
 ### About me
