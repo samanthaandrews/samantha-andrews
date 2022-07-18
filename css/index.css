@@ -204,12 +204,9 @@ label {
   flex-direction: column;
 }
 
-.logo {
-  align-self: flex-start;
-}
-
 .logo > img {
   height: 2.5rem;
+  width: 2.5rem;
   border-radius: 2px;
 }
 
