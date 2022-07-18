@@ -34,7 +34,7 @@ I offer decluttering and organization services in the New York City area. If you
 
 I'm happy to help schedule donation pickups, take the trash out, list items to sell online, and curate a shopping list with suggestions for where to buy certain organizational items. I can also hang art, install simple shelving, file paperwork, and digitize documents.
 
-<form name="contact-form" method="POST" data-netlify="true" netlify-honeypot="bot-field">
+<form name="make-space-contact-form" method="POST" data-netlify="true" netlify-honeypot="bot-field">
   <label for="bot-field" class="form__label-hidden">Don’t fill this out if you're human <input id="bot-field" name="bot-field" /></label>
   <label for="subject">
     <input id="subject" name="subject" type="hidden" value="Hire form inquiry from samantha-andrews.com/make-space"/>
