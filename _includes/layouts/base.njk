@@ -15,7 +15,7 @@
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:site" content="@samandrewsmakes" />
     <meta name="twitter:creator" content="@samandrewsmakes" />
-    <meta name="twitter:image" content="{{ renderData.image or image or 'https://res.cloudinary.com/djrxspb6p/image/upload/v1630442463/og-social-image_qakkx4.jpg' }}" />
+    <meta name="twitter:image:src" content="{{ renderData.image or image or 'https://res.cloudinary.com/djrxspb6p/image/upload/v1630442463/og-social-image_qakkx4.jpg' }}" />
     <meta name="twitter:image:alt" property="og:image:alt" content="{{ renderData.title or title or metadata.title }}" />
     <link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
     <link rel="icon" href="/img/favicon.ico" type="image/x-icon">
@@ -27,9 +27,7 @@
   </head>
   <body>
     <header class="header">
-      <h1 class="header__title">
-        <a href="{{ '/' | url }}">Samantha Andrews</a>
-      </h1>
+      <a class="logo" href="{{ '/' | url }}"><img src="https://res.cloudinary.com/djrxspb6p/image/upload/v1658106907/logo_tpishx.png" alt="green, purple, orange, and pink square gradient logo icon"/></a>
 
       {#- Read more about `eleventy-navigation` at https://www.11ty.dev/docs/plugins/navigation/ #}
       <nav>
@@ -51,23 +49,17 @@
       <div class="footer__links">
         <div>
           <p class="footer__link">
-            <a href="{{ metadata.instagram }}">Instagram</a>
-          </p>
-          <p class="footer__link">
             <a href="{{ metadata.twitter }}">Twitter</a>
           </p>
           <p class="footer__link">
-            <a href="{{ metadata.tiktok }}">TikTok</a>
+            <a href="{{ metadata.youtube }}">YouTube</a>
           </p>
         </div>
         <div>
           <p class="footer__link">
-            <a href="{{ metadata.youtube }}">YouTube</a>
-          </p>
-          <p class="footer__link">
             <a href="mailto:{{ metadata.email }}">hello@samantha-andrews.com</a>
           </p>
-          <p class="footer__link">Made with ♥ in Albuquerque, New Mexico</p>
+          <p class="footer__link">Made with ♥ in Brooklyn, NY</p>
         </div>
       </div>
     </footer>

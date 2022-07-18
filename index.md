@@ -4,31 +4,25 @@ layout: layouts/home.njk
 
 <section class="home__hero">
   <div class="intro">
-    <h1>Hi! I'm Samantha Andrews—a <span class="gradient__text">designer</span> and <span class="gradient__text">software</span> <span class="gradient__text">developer</span> making art, websites, zines, and stickers in New Mexico.</h1>
+    <h1>Hi, I'm <span class="gradient__text">Sam</span> ✷ I make art, write software, and declutter & organize spaces in Brooklyn, NY</h1>
     <img src="https://res.cloudinary.com/djrxspb6p/image/upload/v1630433697/headshot_pjvu4t.png" class="me"/>
   </div>
 </section>
 
-<h4>Struggling with burnout? Sign up for <span class="gradient__text">Gradient Mesh</span>—a free monthly newsletter for multi-passionate people who want to build a centered and spacious creative practice and prioritize work that matters.</h4>
+I’m currently exploring what it means to build a meaningful life and sustainable career while working through burnout and perfectionism. Day-by-day I’m building an [artistic practice]({{ metadata.etsy }}), following my curiosity, and finding the best dinner party recipes.
+
+One of my strengths is decluttering and organizing messy spaces to make them more open and inviting. Fill out this [form](/make-space) if you’re interested in hiring me to re-imagine your space (NYC-area only).
+
+The best way to find me is on [Twitter]({{ metadata.twitter }}), [YouTube]({{ metadata.youtube }}), or through my monthly newsletter—Gradient Mesh—where I publish writing and videos for multi-passionate people who want to build a centered and spacious creative practice and prioritize work that matters.
+
+<h2>Sign up for <span class="gradient__text">Gradient Mesh</span> or <a href="https://buttondown.email/samantha-andrews/archive">read the archives</a></h2>
 <iframe
   scrolling="no"
   style="width:100%!important;height:220px;border:3px #e2dafe solid !important"
   src="https://buttondown.email/samantha-andrews?as_embed=true"
 >
 </iframe>
-<br />
-<br />
 
----
+For an archive of past work, checkout my [Polywork timeline]({{ metadata.timeline }}).
 
-My work focuses on closely examining the self and its relationship with technology, collecting and archiving [digital memorabilia]("https://www.are.na/samantha-andrews/screenshots-rom_k7kfyby"), and encouraging myself and others to slow down and make art.
-
-I am compelled by the ways in which we use design and technology to write poetry, deepen our capacity for empathy, and strengthen local communities.
-
-I see life as a practice. I'm currently practicing keeping promises to myself, doing [cartwheels](https://www.instagram.com/reel/CKH1fgZFED2/) (badly), and identifying birds. I try not to take myself too seriously.
-
-Previously, I taught computer programming to girls ages 11-18 with [Girls Who Code](https://girlswhocode.com/) and built geospatial web applications with [Descartes Labs](https://www.descarteslabs.com/).
-
-Now, I work as a frontend software engineer at the [New York Public Library](https://www.nypl.org/).
-
----
+-----

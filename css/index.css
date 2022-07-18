@@ -194,6 +194,8 @@ code {
 label {
   font-family: "Rubik", sans-serif;
   font-weight: 500;
+  margin-bottom: 1rem;
+  display: block;
 }
 
 /* Homepage */
@@ -202,17 +204,21 @@ label {
   flex-direction: column;
 }
 
-.header__title {
-  font-style: italic;
-  font-size: 1em; /* 16px /16 */
+.logo {
+  align-self: flex-start;
 }
 
-.header__title :link:not(:hover) {
+.logo > img {
+  height: 2.5rem;
+  border-radius: 2px;
+}
+
+.logo:link:not(:hover) {
   text-decoration: none;
   border-bottom: none;
 }
 
-.header__title :link:hover {
+.logo:link:hover {
   border-bottom: none;
 }
 
@@ -410,10 +416,6 @@ a[href].project-preview__link:hover {
   margin-bottom: 0;
   resize: none;
   padding: 4px;
-}
-
-.form__input-wrap {
-  margin-bottom: 1em;
 }
 
 /* Buttons */
