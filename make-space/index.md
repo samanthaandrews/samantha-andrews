@@ -3,6 +3,7 @@ layout: layouts/base.njk
 title: Decluttering & Organizing Services
 templateClass: tmpl-contact
 image: https://res.cloudinary.com/djrxspb6p/image/upload/v1657920103/make-space/organized_living_room_k7vhsz.jpg
+description: Simplify your life & make space for what matters. Hire me when you're ready to re-imagine your space.
 eleventyNavigation:
   key: Hire me ☞
   order: 4
