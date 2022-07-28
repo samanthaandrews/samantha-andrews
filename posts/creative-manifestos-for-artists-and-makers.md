@@ -159,6 +159,33 @@ This little prayer came to me in a [Puttylike](https://puttylike.com/) email wri
 > 
 > When I listen to, respect, and prioritize my inner voice, I make things happen.
 
+## An ode to the possibilities of using anything in one's surroundings as a starting point for art by artist Claes Oldenburg
+
+Claes Oldenburg published _I Am For..._, in 1961. He calls it a “slightly satirical ode or paean to the possibilities of using anything in one’s surroundings (mostly urban) as a starting point for art, the art movement that came to be known as New Realism or Pop Art.”
+
+This ode encourages me to pay attention and broaden my artistic horizon. What in my surroundings could be artistic inspiration if I only took a moment to look a little more closely?
+
+This manifesto is quite long, so I'll only post my favorite snippets here. You can read the whole thing on the [Walker Art website](https://walkerart.org/magazine/claes-oldenburg-i-am-for-an-art-1961).
+
+> I am for the art of conversation between the sidewalk and a blind man’s metal stick.
+> I am for the art that grows in a pot, that comes down out of the skies at night, like lightning, that hides in the clouds and growls. I am for art that is flipped on and off with a switch.
+> I am for art that unfolds like a map, that you can squeeze, like your sweetie’s arm, or kiss like a pet dog. Which expands and squeaks like an accordion, which you can spill your dinner on like an old tablecloth.
+> I am for an art that you can hammer with, stitch with, sew with, paste with, file with.
+> I am for an art that tells you the time of day, or where such and such a street is.
+> I am for an art that helps old ladies across the street.
+> I am for the art of the washing machine. I am for the art of a government check. I am for the art of last war’s raincoat.
+> I am for the art that comes up in fogs from sewer holes in winter. I am for the art that splits when you step on a frozen puddle. I am for the worm’s art inside the apple. I am for the art of sweat that develops between crossed legs.
+
+![Claes Oldenburg, Floor Cone (1962) in front of Dwan Gallery, Los Angeles, 1963
+](https://walker-web.imgix.net/cms/19_Oldenburg_Floor_Cone_Dwan_Gallery_1963.jpg?w=740&fit=clip&auto=format,compress&dpr=1.5)
+
+>I am for the art of cheap plaster and enamel. I am for the art of worn marble and smashed slate. I am for the art of rolling cobblestones and sliding sand. I am for the art of slag and black coal. I am for the art of dead birds.
+
+![Claes Oldenburg, Giant BLT Bacon, Lettuce, and Tomato Sandwich, 1963
+](https://walker-web.imgix.net/cms/Oldenburg_BLT.jpg?w=740&fit=clip&auto=format,compress&dpr=1.5)
+
+> I am for US Government Inspected Art, Grade A art, Regular Price art, Yellow Ripe art, Extra Fancy art, Ready-to-Eat art, Best-for-Less art, Ready-to-Cook art, Fully Cleaned art, Spend Less art, Eat Better art, Ham art, pork art, chicken art, tomato art, banana art, apple art, turkey art, cake art, cookie art…
+
 Do you have a mantra, manifesto, or list of principles that inspires you? Send me your ideas on [Twitter]({{ metadata.twitter }}) or via [email](mailto:{{ metadata.email }})!
 
 ![pinterest image with white serif text that says the best creative manifestos for artist and makers](https://res.cloudinary.com/djrxspb6p/image/upload/v1632521786/blog/creative_manifestos/the_best_creative_manifestos_qxro3m.jpg)
