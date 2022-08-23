@@ -71,7 +71,7 @@ I'm happy to help schedule donation pickups, take the trash out, list items to s
     </label>
     <button class="button form__input form__button" type="submit">Submit ☞</button>
     </form>
-    <p class="form__aside-text">I'll reply within 24 hours!</p>
+    <p class="form__aside-text">Expect a response within 48 hours</p>
 
 ### About me
 
