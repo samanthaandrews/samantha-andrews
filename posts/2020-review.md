@@ -47,9 +47,7 @@ This was my first freelance project in a very long time. It felt good to make so
 
 I admit, in the past, I have turned a blind eye to racial and social justice issues. I felt it wasn't my place to get involved. Now I realize just how backward that thinking really was. 2020 opened my eyes to the deeply rooted racial disparities and oppression of BIPOC in America, and as a white person, it is absolutely my business to fix this mess.
 
-I am not going to ask for any praise or share all the work I'm doing related to learning about and dismantling systematic and systemic racism. As a very privileged white person, I am simply trying to do my part to educate myself, to be part of the change, and to make this part of my daily life.
-
-You can read more about my [commitment to social justice](/posts/commitment-to-social-justice-diversity-and-inclusion) if you want!
+As a very privileged white person, I am doing my part to educate myself, to be part of the change, and to integrate abolition, liberation, and community building into the daily fabric of my life.
 
 ## Got my money in order
 
