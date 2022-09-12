@@ -1,7 +1,7 @@
 {
-  "title": "Samantha Andrews | Artist, Software Engineer, Organizer",
+  "title": "Samantha Andrews | Artist & Software Engineer",
   "url": "https://samantha-andrews.com/",
-  "description": "Samantha Andrews is making art without an art degree and encouraging you to do the same",
+  "description": "Samantha Andrews is making art and writing software in Brooklyn, NY",
   "instagram": "https://www.instagram.com/samandrewsmakes",
   "twitter": "https://www.twitter.com/samandrewsmakes",
   "github": "https://github.com/samanthaandrews",
@@ -12,7 +12,7 @@
   "etsy": "https://www.etsy.com/shop/samandrewsmakes",
   "email": "hello@samantha-andrews.com",
   "feed": {
-    "subtitle": "Samantha Andrews is making art without an art degree and encouraging you to do the same",
+    "subtitle": "Samantha Andrews is making art and writing software in Brooklyn, NY",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://samantha-andrews.com/"
