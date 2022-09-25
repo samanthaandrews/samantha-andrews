@@ -13,6 +13,6 @@ I'll be seeing you later this month with a dash of creative inspiration and prac
 
 ## In the meantime, add hello@samantha-andrews.com to your email contacts to ensure you never miss an issue.
 
-You can always stay up to date with my latest artistic experiments on Twitter [@samandrewsmakes]({{ metadata.twitter }}) or [YouTube]({{ metadata.youtube }}).
+You can always stay up to date with my latest artistic experiments on [YouTube]({{ metadata.youtube }}).
 
 ![spongebob squarepants and patrick star dancing with excitement](https://media.giphy.com/media/GWNBoSxSpt7Ik/giphy.gif)

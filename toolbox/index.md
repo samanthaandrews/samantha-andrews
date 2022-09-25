@@ -9,7 +9,7 @@ I use a few different tools to keep me organized and productive as I work on cre
 
 Some of the links on this page are affiliate links and if you use them I get a small commission (at no extra cost to you).
 
-Have a tool or product you think I should know about? Send me an email at [hello@samantha-andrews.com](mailto:{{ metadata.email }}) or tweet me [@samandrewsmakes]({{ metadata.twitter }}).
+Have a tool or product you think I should know about? Send me an email at [hello@samantha-andrews.com](mailto:{{ metadata.email }}).
 
 ## Project management, organization, and business stuff
 

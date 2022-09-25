@@ -11,7 +11,7 @@ layout: layouts/home.njk
 
 I’m currently exploring what it means to build a meaningful life and sustainable career while working through burnout and perfectionism. Day-by-day I’m building an [artistic practice]({{ metadata.etsy }}), following my curiosity, and finding the best dinner party recipes.
 
-The best way to find me is on [Twitter]({{ metadata.twitter }}), [YouTube]({{ metadata.youtube }}), or through my monthly newsletter—Gradient Mesh—where I publish writing and videos for multi-passionate people who want to build a centered and spacious creative practice and prioritize work that matters.
+The best way to find me is on [YouTube]({{ metadata.youtube }}), or through my monthly newsletter—Gradient Mesh—where I publish writing and videos for multi-passionate people who want to build a centered and spacious creative practice and prioritize work that matters.
 
 <h2>Sign up for <span class="gradient__text">Gradient Mesh</span> or <a href="https://buttondown.email/samantha-andrews/archive">read the archives</a></h2>
 <iframe

@@ -186,6 +186,6 @@ This manifesto is quite long, so I'll only post my favorite snippets here. You c
 
 > I am for US Government Inspected Art, Grade A art, Regular Price art, Yellow Ripe art, Extra Fancy art, Ready-to-Eat art, Best-for-Less art, Ready-to-Cook art, Fully Cleaned art, Spend Less art, Eat Better art, Ham art, pork art, chicken art, tomato art, banana art, apple art, turkey art, cake art, cookie art…
 
-Do you have a mantra, manifesto, or list of principles that inspires you? Send me your ideas on [Twitter]({{ metadata.twitter }}) or via [email](mailto:{{ metadata.email }})!
+Do you have a mantra, manifesto, or list of principles that inspires you? Send me your ideas via [email](mailto:{{ metadata.email }})!
 
 ![pinterest image with white serif text that says the best creative manifestos for artist and makers](https://res.cloudinary.com/djrxspb6p/image/upload/v1632521786/blog/creative_manifestos/the_best_creative_manifestos_qxro3m.jpg)
