@@ -30,7 +30,7 @@ Ultimately, I crafted a simple career plan that allows space for serendipity and
 
 ### All of these methodologies have helped me to feel safer in being seen, which has made it easier for me to share my journey through writing, art, and videos
 
-Sometime in September I started writing again. I updated blog posts and wrote new ones. I re-launched and re-branded my newsletter, Gradient Mesh. In November I started experimenting with creating [YouTube videos](https://www.youtube.com/channel/UCbcCvBx9JnqcR7CRaozgg-A), which has been another creative outlet that I'd like to continue in the new year.
+Sometime in September I started writing again. I updated blog posts and wrote new ones. I re-launched and re-branded my newsletter, Gradient Mesh. In November I started experimenting with creating [YouTube videos]({{ metadata.youtube }}), which has been another creative outlet that I'd like to continue in the new year.
 
 ### Being a highly sensitive person
 

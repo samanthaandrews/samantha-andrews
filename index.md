@@ -9,9 +9,9 @@ layout: layouts/home.njk
   </div>
 </section>
 
-I’m currently exploring what it means to build a meaningful life and sustainable career while working through burnout and perfectionism. Day-by-day I’m building an [artistic practice]({{ metadata.etsy }}) through my own DIY art school curriculum.
+I’m currently exploring what it means to build a meaningful life and sustainable career while working through burnout and perfectionism. Day-by-day I’m building an [artistic practice]({{ metadata.youtube }}) through my own DIY art school curriculum.
 
-The best way to find me is on [YouTube]({{ metadata.youtube }}), or through my monthly newsletter—Gradient Mesh—where I publish writing and videos for multi-passionate people who want to build a centered and spacious creative practice and prioritize work that matters.
+The best way to find me is on [YouTube]({{ metadata.youtube }}), [TikTok]({{ metadata.tiktok }}), or through my newsletter—Gradient Mesh—where I publish writing and videos for multi-passionate people who want to build a centered and spacious creative practice and prioritize work that matters.
 
 <h2>Sign up for <span class="gradient__text">Gradient Mesh</span> or <a href="https://buttondown.email/samantha-andrews/archive">read the archives</a></h2>
 <iframe
