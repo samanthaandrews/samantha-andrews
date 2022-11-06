@@ -10,7 +10,7 @@ eleventyNavigation:
 
 <h1><span class="gradient__text">Gradient Mesh</span></h1>
 
-## A newsletter for artists, makers, and busy professionals who want to simplify their lives, pave their own path, and create an artistic practice
+## A newsletter for artists, makers, and busy professionals who want to pave their own path and start making art
 
 I’m Samantha Andrews, an artist and software engineer exploring what it means to build an ꩜ artistic and ✷ multi-passionate career.
 
@@ -18,7 +18,7 @@ Gradient Mesh is my monthly newsletter that arrives in your inbox whenever I pos
 
 Here’s what you can expect:
 
-- Writing about my journey to becoming a full-time multi-passionate artist & maker
+- Writing about my journey through my DIY art school curriculum
 - Advice on how to get organized and better manage your time and energy to prioritize your creative practice
 - Notion templates
 - Thoughtful (and sometimes weird) recommendations

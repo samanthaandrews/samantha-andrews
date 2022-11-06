@@ -9,7 +9,7 @@ layout: layouts/home.njk
   </div>
 </section>
 
-I’m currently exploring what it means to build a meaningful life and sustainable career while working through burnout and perfectionism. Day-by-day I’m building an [artistic practice]({{ metadata.etsy }}), following my curiosity, and finding the best dinner party recipes.
+I’m currently exploring what it means to build a meaningful life and sustainable career while working through burnout and perfectionism. Day-by-day I’m building an [artistic practice]({{ metadata.etsy }}) through my own DIY art school curriculum.
 
 The best way to find me is on [YouTube]({{ metadata.youtube }}), or through my monthly newsletter—Gradient Mesh—where I publish writing and videos for multi-passionate people who want to build a centered and spacious creative practice and prioritize work that matters.
 
