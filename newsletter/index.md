@@ -1,20 +1,20 @@
 ---
 layout: layouts/base.njk
 title: Newsletter
-description: Sign up for my free newsletter Gradient Mesh
+description: Sign up for my free newsletter Soft Practice
 templateClass: tmpl-newsletter
 eleventyNavigation:
   key: Newsletter
   order: 3
 ---
 
-<h1><span class="gradient__text">Gradient Mesh</span></h1>
+<h1><span class="gradient__text">Soft Practice</span></h1>
 
 ## A newsletter for artists, makers, and busy professionals who want to pave their own path and start making art
 
 I’m Samantha Andrews, an artist and software engineer exploring what it means to build an ꩜ artistic and ✷ multi-passionate career.
 
-Gradient Mesh is my newsletter that arrives in your inbox whenever I post a new studio vlog on [YouTube]({{ metadata.youtube }}). This is when I have the most to say about what I'm learning about building an artistic practice. I usually send one or two newsletters each month.
+Soft Practice is my newsletter that arrives in your inbox whenever I post a new studio vlog on [YouTube]({{ metadata.youtube }}). This is when I have the most to say about what I'm learning about building an artistic practice. I usually send one or two newsletters each month.
 
 Here’s what you can expect:
 

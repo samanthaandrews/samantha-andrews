@@ -1,13 +1,13 @@
 ---
 layout: layouts/base.njk
 title: Newsletter Sign-Up Confirmation
-description: Thanks for signing up for Gradient Mesh!
+description: Thanks for signing up for Soft Practice!
 templateClass: tmpl-newsletter-confirmation
 ---
 
 # Thanks for signing up :)
 
-Welcome to Gradient Mesh—I'm so very excited to have you on the list! It's where I share the messy middle of building an artistic and multi-passionate career.
+Welcome to Soft Practice—I'm so very excited to have you on the list! It's where I share the messy middle of building an artistic and multi-passionate career.
 
 I'll be seeing you later this month with a dash of creative inspiration and practical advice for building your own creative practice.
 
