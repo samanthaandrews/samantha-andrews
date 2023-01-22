@@ -66,8 +66,24 @@ I made a video about how my mindset has shifted around goal-setting, and discuss
 
 ### 2022 Goals
 
+_(With December 2022 updates)_
+
 - Make art for 15 minutes every day. I'm calling this The Year of Practice.
+_I made more art this year, but I definitely didn't make art every day._
+<br>
+
 - Share my journey in my newsletter and/or on YouTube.
+_I published two videos this year: (1) [July 2022](https://youtu.be/oaIyxea_akc) and (2) [November 2022](https://www.youtube.com/watch?v=DUsLOhXf02M). I also wrote a couple [email newsletters](https://buttondown.email/samantha-andrews/archive) :)_
+<br>
+
 - Learn more about the art and life of Sister Corita Kent.
+_I read this [book](https://www.amazon.com/Come-Alive-Spirited-Sister-Corita/dp/0954502523/ref=asc_df_0954502523/?tag=hyprod-20&linkCode=df0&hvadid=312166025508&hvpos=&hvnetw=g&hvrand=8055859545555032340&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9004354&hvtargid=pla-469243333174&psc=1) about Sister Corita. Highly recommend._
+
+<br>
 - Move to NYC in March 🏙
+_Done!_
+<br>
+
 - Find a group workout/exercise community in NYC.
+_Done. Started going to Dance Church classes and working out at the YMCA._
+<br>
