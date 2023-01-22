@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: 2022 review
-description: Reflecting on a year of therapy, The Artist's Way, and keeping promises to myself
+description: Moving to NYC, leaving social media, and buying a dyson vacuum
 date: 2023-01-22
 image: https://res.cloudinary.com/djrxspb6p/image/upload/v1674365904/blog/2022_review/the_future_is_better_than_the_old_days_doh1le.jpg
 tags:
