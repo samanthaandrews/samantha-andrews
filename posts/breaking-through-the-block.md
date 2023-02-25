@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Breaking through the block: How healing My inner child led to artistic freedom"
+title: "Breaking through the block: How healing my inner child led to artistic freedom"
 description: A story about creative blocks, trauma, and learning how to feel ok
 date: 2023-02-25
 image: https://res.cloudinary.com/djrxspb6p/image/upload/v1677364429/blog/breaking_through_the_blocks/breaking_through_creative_blocks_x1frxn.jpg
