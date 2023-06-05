@@ -27,7 +27,7 @@ My portfolio of design projects allowed me to transition into a creative softwar
 
 In this article I’ll go through the six steps to plan and execute your own creative project:
 
-1. Create a [one-page creative project plan](https://www.notion.so/One-Page-Creative-Project-Plan-8bd0864e4d4f4f7d9fc450b997b7bdac)
+1. Create a [one-page creative project plan](https://samandrews.notion.site/One-Page-Creative-Project-Plan-8bd0864e4d4f4f7d9fc450b997b7bdac?pvs=4)
 
    1. Set your intentions
    2. Scope it down
@@ -42,7 +42,7 @@ In this article I’ll go through the six steps to plan and execute your own cre
 
 ## Create a one-page creative project plan
 
-Use this free [one-page project plan](https://www.notion.so/One-Page-Creative-Project-Plan-8bd0864e4d4f4f7d9fc450b997b7bdac) to write down all of your project details.
+Use this free [one-page project plan](https://samandrews.notion.site/One-Page-Creative-Project-Plan-8bd0864e4d4f4f7d9fc450b997b7bdac?pvs=4) to write down all of your project details.
 
 To start using this Notion template, go to the top right hand corner and click `Duplicate` to add the page to your Workspace and edit it there.
 
@@ -87,7 +87,7 @@ Aim for quick, small projects that have a high reward for minimal effort. Build 
 
 ### Break up tasks into smaller sub-tasks
 
-Using your [one-page project plan](https://www.notion.so/One-Page-Creative-Project-Plan-8bd0864e4d4f4f7d9fc450b997b7bdac), outline all of the tasks for the ***first*** phase of your creative project. I don't recommend going any further than listing out phase 1 tasks at this point, otherwise the feeling of overwhelm is likely to block progress. Start with phase 1 and once you've gotten some momentum, start planning future phases.
+Using your [one-page project plan](https://samandrews.notion.site/One-Page-Creative-Project-Plan-8bd0864e4d4f4f7d9fc450b997b7bdac?pvs=4), outline all of the tasks for the ***first*** phase of your creative project. I don't recommend going any further than listing out phase 1 tasks at this point, otherwise the feeling of overwhelm is likely to block progress. Start with phase 1 and once you've gotten some momentum, start planning future phases.
 
 Your first phase might involve research and discovery or writing a first draft. Then, break down big tasks into smaller, more actionable items.
 
@@ -105,7 +105,7 @@ Make sure your tasks are small and actionable. You shouldn’t ever feel overwhe
 
 ## Make working on your creative project part of your daily ritual
 
-Using your [one-page project plan](https://www.notion.so/One-Page-Creative-Project-Plan-8bd0864e4d4f4f7d9fc450b997b7bdac) as a guide, schedule time to work on your project. If you work a full-time job like me, you’ll have to get creative about when you’re able to actually get work done. Lately I've been walking to a coffee shop every day and working for about an hour on my creative projects.
+Using your [one-page project plan](https://samandrews.notion.site/One-Page-Creative-Project-Plan-8bd0864e4d4f4f7d9fc450b997b7bdac?pvs=4) as a guide, schedule time to work on your project. If you work a full-time job like me, you’ll have to get creative about when you’re able to actually get work done. Lately I've been walking to a coffee shop every day and working for about an hour on my creative projects.
 
 ### Schedule weekly check-ins and planning sessions
 
@@ -129,6 +129,6 @@ Whatever your roadblocks may be, name them, and create solutions to build your o
 
 🗓️ Plan and 🎉 celebrate the small and big wins.
 
-Starting a creative passion project doesn't have to be complicated. Spend the next few minutes filling out the [one-page project plan](https://www.notion.so/One-Page-Creative-Project-Plan-8bd0864e4d4f4f7d9fc450b997b7bdac). You're on your way to making something uniquely you!
+Starting a creative passion project doesn't have to be complicated. Spend the next few minutes filling out the [one-page project plan](https://samandrews.notion.site/One-Page-Creative-Project-Plan-8bd0864e4d4f4f7d9fc450b997b7bdac?pvs=4). You're on your way to making something uniquely you!
 
 ![light purple image with the following text: 1) create a one-page project plan 2) set your intention 3) make working on your project part of your daily ritual 4) schedule weekly check-ins and planning sessions 5) know your roadblocks 6) celebrate milestones 🎉](https://res.cloudinary.com/djrxspb6p/image/upload/v1630961605/blog/everything_is_a_project/everything_is_a_project_h7tss0.jpg "everything is a project: how to achieve your long-term goals and finish your creative projects")
