@@ -37,9 +37,9 @@ In an effort to include *everything* involved in making this wedding happen, I a
 
 | Item | Cost |
 | ---- | ---- |
-| Nails + tip | $103 |
-| Sam haircut + tip | $130 |
-| AJ haircut + tip | $80 |
+| Nails (incl tip) | $103 |
+| Sam haircut (incl tip) | $130 |
+| AJ haircut (incl tip) | $80 |
 
 ## Thursday
 
@@ -49,7 +49,7 @@ Since some of our guests were arriving this day, the only thing we had planned o
 
 | Item | Cost |
 | ---- | ---- |
-| Dinner at Terre for 16 + tip | $2,000 |
+| Dinner at Terre for 16 (incl tip) | $1,500 |
 
 ## Friday
 
@@ -85,7 +85,7 @@ Last but not least, we booked a sunset cruise with New York Harbor Tours. The ca
 | Wedding bands | $1,120 |
 | 3 SUVs to drive people to dinner | $504 |
 | Vintage yellow cab for me & AJ | $350 |
-| Dinner & dessert + tip | $2,319 |
+| Dinner & dessert (incl tip) | $2,319 |
 | Fujimax film for instant photos | $100 |
 | Drinks for the boat ride | $85 |
 | Boat ride | $2,226 |
@@ -117,7 +117,7 @@ That night we had an impromptu pizza party at Fort Greene Park. The relaxed natu
 
 | Item | Cost |
 | ---- | ---- |
-| Brunch for 13 + tip | $1,609 |
+| Brunch for 13 (incl tip) | $1,609 |
 | Pizza at the park | $166 |
 
 ![polaroid flat lay of wedding guests hanging out at the park](https://res.cloudinary.com/djrxspb6p/image/upload/v1686710422/blog/wedding/wedding_nyc_park-min_bo3avo.jpg)
@@ -128,5 +128,5 @@ Planning a wedding, even a small one, is a lot of work! I’m grateful to AJ for
 
 We spent $16,846 in total, which feels like a lot! But it’s nice to know that this amount was spent across four days instead of just one. And it was totally worth it for all of the memories that we made with our guests.
 
-| Grand total | $16,846 |
+| Grand total | $16,346 |
 | ---- | ---- |
