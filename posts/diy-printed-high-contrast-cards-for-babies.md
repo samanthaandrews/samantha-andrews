@@ -23,9 +23,9 @@ I first learned about introducing high-contrast imagery to babies in the book Th
 
 ### Video and photos of real babies looking at the printed high-contrast cards
 
-<video controls>
+<!-- <video controls>
   <source src="https://res.cloudinary.com/djrxspb6p/video/upload/v1717721668/blog/diy_printed_high_contrast_cards_for_babies/IMG_2274_zkrhfg.mov" type="video/mp4">
-</video>
+</video> -->
 
 ![collage of babies staring at the cards I made](https://res.cloudinary.com/djrxspb6p/image/upload/v1717724295/blog/diy_printed_high_contrast_cards_for_babies/CD69D070-C202-4FBF-A6D5-23C4819F2B55_s4ebzv.jpg)
 
@@ -38,20 +38,20 @@ I first learned about introducing high-contrast imagery to babies in the book Th
 5. Cut and assemble
 6. Laminate (optional)
 
-I used two different printmaking processes to create each set of 15 high-contrast cards, (1) collagraphy, which is a printmaking process in which materials are glued to a surface, inked, and run through a printing press, and (2) monoprinting, where I inked a plate, put materials such as leaves on the inked surface, and ran that through the printing press. The monoprinting method made cards with a mostly black background and the collagraphy results were inverted.
+I used two different printmaking processes to create each set of 15 high-contrast cards, (1) collagraphy, which is a printmaking process in which materials are glued to a surface, inked, and run through a printing press, and (2) monoprinting, where materials such as leaves are placed onto an inked surface and run through a printing press. The monoprinting method made cards with a mostly black background and the collagraphy results were inverted.
 
 ![two printed high-contrast cards laying next to each other](https://res.cloudinary.com/djrxspb6p/image/upload/v1717721618/blog/diy_printed_high_contrast_cards_for_babies/IMG_3119-min_v7ihey.jpg)
 Collagraph printed card on the left, monoprint on the right
 
 ### Step 1: Brainstorm design patterns
 
-I always like to start with a notebook and pen when I’m working on a new project. For this project, it is best to keep the designs clean and simple. I opted for hearts, stars, triangles, and crescent shapes in my designs, alongside some squiggly patterns made with yarn. You may want to go on a nature walk or a trip to the recycling bin to gather materials and inspiration. Leaves, plants, and flowers are always a great place to start.
+I always like to start with a notebook and pen when I’m working on a new project. For this project, it is best to keep the designs clean and simple, since babies will be able to focus more easily on geometric shapes. I opted for hearts, stars, triangles, and crescent shapes in my designs, alongside some squiggly patterns made with yarn. You may want to go on a nature walk or a trip to the recycling bin to gather materials and inspiration. Leaves, plants, and flowers are always a great place to start.
 
 ![notebook with pattern designs in orange marker](https://res.cloudinary.com/djrxspb6p/image/upload/v1717721618/blog/diy_printed_high_contrast_cards_for_babies/IMG_3118-min_xuck1y.jpg)
 
 ### Step 2: Gather materials
 
-I had access to a full printing press for this project, but you could easily replicate this setup at home and make your prints without a press using a method like the one demonstrated in this video.
+I had access to a full printing press for this project, but you could easily replicate this setup at home and make your prints without a press using a method like the one demonstrated in this [video](https://www.youtube.com/watch?v=_gotHPQOvcU).
 
 Below is a list of all the materials you will need.
 
@@ -89,7 +89,7 @@ Make sure you have a clean and clear surface to work on.
 
 Start by rolling black ink onto to your collograph, leaving ink off of the parts that you don’t want to print. If you accidentally get ink on something you don’t want to print, use a damp paper towel to wipe it off. This is the beauty of adding the sealant to the collagraph.
 
-Then, place your white printing paper over the top of your inked collograph and run both through the printing press. If you don’t have access to a printing press for your project, you can do it by hand using a method like the one demonstrated in this video.
+Then, place your white printing paper over the top of your inked collograph and run both through the printing press. If you don’t have access to a printing press for your project, you can do it by hand using a method like the one demonstrated in this [video](https://www.youtube.com/watch?v=_gotHPQOvcU).
 
 Let your prints lay flat for 24 hours while the ink dries.
 
