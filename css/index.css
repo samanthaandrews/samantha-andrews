@@ -52,8 +52,9 @@ h6 {
   font-family: "Rubik", sans-serif;
 }
 
-h2, h4 {
-  font-family: 'Space Grotesk', sans-serif;
+h2,
+h4 {
+  font-family: "Space Grotesk", sans-serif;
 }
 
 h1 {
@@ -65,6 +66,11 @@ p {
   margin-top: 26px;
   margin-bottom: 26px;
 }
+
+/* iframe {
+  width: 100%;
+  height: 100%;
+} */
 
 p,
 .tmpl-post li,
@@ -84,7 +90,8 @@ li:last-child > p {
 
 p,
 li,
-.tmpl-post .tmpl-home, .postlist__link {
+.tmpl-post .tmpl-home,
+.postlist__link {
   line-height: 1.625;
   font-size: 18px;
 }
@@ -109,7 +116,7 @@ a[href]:visited {
 }
 
 a.email-archives__link {
-  border-bottom: 2px solid var(--darkgray)
+  border-bottom: 2px solid var(--darkgray);
 }
 
 .callout {
@@ -219,11 +226,13 @@ label {
   border-bottom: none;
 }
 
-.nav, .footer__links {
+.nav,
+.footer__links {
   list-style: none;
 }
 
-.footer__link, .nav__item {
+.footer__link,
+.nav__item {
   font-style: italic;
   font-size: 16px;
 }
@@ -241,12 +250,14 @@ label {
   margin-right: 0px;
 }
 
-p.footer__link a[href]:not(:hover), .nav__item a[href]:not(:hover) {
+p.footer__link a[href]:not(:hover),
+.nav__item a[href]:not(:hover) {
   text-decoration: none;
   border-bottom: none;
 }
 
-p.footer__link a[href]:hover, .nav__item a[href]:hover {
+p.footer__link a[href]:hover,
+.nav__item a[href]:hover {
   border-bottom: none;
 }
 
@@ -473,19 +484,21 @@ a[href].project-preview__link:hover {
 }
 
 .video-container {
-	position:relative;
-	padding-bottom:56.25%;
-	padding-top:30px;
-	height:0;
-	overflow:hidden;
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-top: 30px;
+  height: 0;
+  overflow: hidden;
 }
 
-.video-container iframe, .video-container object, .video-container embed {
-	position:absolute;
-	top:0;
-	left:0;
-	width:100%;
-	height:100%;
+.video-container iframe,
+.video-container object,
+.video-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
 }
 
 /* Desktop */

@@ -42,4 +42,6 @@ The title _Exclamation 1_ might make you wonder about Exclamation 2, and 3, and 
 
 I also published a video where I talk through the process, which includes updates on art classes I'm taking, things I've been feeling (loneliness, anyone?!), and how I'm tapping into the wisdom of my body.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFDvQ6JDI2A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/vFDvQ6JDI2A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>

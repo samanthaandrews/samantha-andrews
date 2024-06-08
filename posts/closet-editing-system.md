@@ -18,6 +18,7 @@ My inspiration/vision board
 I strive to have a streamlined, capsule wardrobe, but my closet full of colorful, thrifted pieces makes this slightly more difficult. However, being the queen of pattern mixing that I am, I was able to create 30 outfits out of pieces I already own.
 
 Here's my process:
+
 1. Make a vision board for your personal style
 2. Pull out all of your clothes
 3. Sort into 4 piles: (1) Pieces you love & wear all the time, (2) Pieces you no longer like (3) Pieces that you’d wear more if you got them tailored (4) Pieces that you like, but don’t wear as often as you’d like.
@@ -30,4 +31,6 @@ These are all of the outfits I came up with
 
 Video is linked below if you'd like to see the process in action.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f16tkqv5ngQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/f16tkqv5ngQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>

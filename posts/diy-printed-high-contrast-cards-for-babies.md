@@ -17,11 +17,15 @@ I hope that this post inspires you to create your own set of handmade high-contr
 
 ## What are high-contrast cards for babies?
 
-Babies are born without fully developed vision. A newborn can see a distance of about 12 inches, which is enough for them to find the dark nipple of the breast and the pupil of their mother’s eyes. For the first three months of their lives, their eyes are able to more easily focus on objects and imagery with similar high contrast. High contrast imagery helps babies develop their eye muscles, train their vision, and help them practice visual tracking.
+Babies are born without fully developed vision. A newborn can see a distance of about 12 inches, which is enough for them to find the dark nipple of the breast and the pupil of their mother’s eyes. For the first three months of their lives, their eyes are able to more easily focus on objects and imagery with similar high contrast.
 
-I first learned about introducing high-contrast imagery to babies in the book The Montessori Baby, where the authors suggest hanging a black and white mobile above your baby as an enrichment activity. The high-contrast cards are an alternative to the mobile.
+High contrast imagery helps babies develop their eye muscles, train their vision, and help them practice visual tracking.
 
-### Video and photos of real babies looking at the printed high-contrast cards
+I first learned about introducing high-contrast imagery to babies in the book [_The Montessori Baby_](https://www.amazon.com/Montessori-Baby-Parents-Nurturing-Understanding/dp/1523512407), where the authors suggest hanging a black and white mobile above your baby as an enrichment activity. The high-contrast cards are an alternative to the mobile.
+
+### Photos of real babies looking at the printed high-contrast cards
+
+Here are some photos of real babies looking at the cards I made!
 
 <!-- <video controls>
   <source src="https://res.cloudinary.com/djrxspb6p/video/upload/v1717721668/blog/diy_printed_high_contrast_cards_for_babies/IMG_2274_zkrhfg.mov" type="video/mp4">
