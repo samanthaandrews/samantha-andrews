@@ -4,12 +4,12 @@ layout: layouts/home.njk
 
 <section class="home__hero">
   <div class="intro">
-    <h1>Hi, I'm <span class="gradient__text">Sam</span> ✷ I make art and write software in Brooklyn, NY</h1>
+    <h1>Hi, I'm <span class="gradient__text">Sam</span> ✷ I make art, write software, and help people declutter their homes in Brooklyn, NY</h1>
     <img src="https://res.cloudinary.com/djrxspb6p/image/upload/v1630433697/headshot_pjvu4t.png" class="me"/>
   </div>
 </section>
 
-I’m currently exploring what it means to build a meaningful life and sustainable career while working through burnout and perfectionism. Day-by-day I’m building an [artistic practice]({{ metadata.youtube }}) through my own DIY art school curriculum.
+I’m currently exploring what it means to build a meaningful life and [sustainable career](/make-space/) while working through burnout and perfectionism. Day-by-day I’m building an [artistic practice]({{ metadata.youtube }}) through my own DIY art school curriculum.
 
 The best way to find me is on [YouTube]({{ metadata.youtube }}), [Twitter]({{ metadata.twitter }}), or through my newsletter—Soft Practice—where I publish writing and videos for multi-passionate people who want to build a centered and spacious creative practice and prioritize work that matters.
 
@@ -23,4 +23,4 @@ The best way to find me is on [YouTube]({{ metadata.youtube }}), [Twitter]({{ me
 
 For an archive of past work, checkout my [Polywork timeline]({{ metadata.polywork }}).
 
------
+---

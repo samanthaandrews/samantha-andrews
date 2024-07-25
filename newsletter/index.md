@@ -5,7 +5,7 @@ description: Sign up for my free newsletter Soft Practice
 templateClass: tmpl-newsletter
 eleventyNavigation:
   key: Newsletter
-  order: 3
+  order: 2
 ---
 
 <h1><span class="gradient__text">Soft Practice</span></h1>
