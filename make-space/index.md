@@ -31,7 +31,7 @@ I can help with the following:
 - Decluttering and organizing high-traffic family areas, such as the kitchen and living room
 - Making storage space more functional
 - Nursery setup
-- Provide recommendations for baby registry must-haves and nice-to-haves
+- Providing recommendations for baby registry must-haves and nice-to-haves
 - Sourcing secondhand furniture and other baby items
 - Baby proofing your apartment
 
