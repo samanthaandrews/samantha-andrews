@@ -9,7 +9,7 @@ layout: layouts/home.njk
   </div>
 </section>
 
-I’m currently exploring what it means to build a meaningful life and [sustainable career](/make-space/) while working through burnout and perfectionism. Day-by-day I’m building an [artistic practice]({{ metadata.youtube }}) through my own DIY art school curriculum.
+I'm currently exploring what it means to build a meaningful life and sustainable career while working through burnout and perfectionism. Day-by-day I'm building an [artistic practice]({{ metadata.youtube }}) through my own DIY art school curriculum.
 
 The best way to find me is on [YouTube]({{ metadata.youtube }}), [Twitter]({{ metadata.twitter }}), or through my newsletter—Soft Practice—where I publish writing and videos for multi-passionate people who want to build a centered and spacious creative practice and prioritize work that matters.
 
