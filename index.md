@@ -21,6 +21,4 @@ The best way to find me is on [YouTube]({{ metadata.youtube }}), [Twitter]({{ me
 >
 </iframe>
 
-For an archive of past work, checkout my [Polywork timeline]({{ metadata.polywork }}).
-
 ---
