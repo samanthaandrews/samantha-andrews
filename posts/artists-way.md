@@ -316,7 +316,7 @@ This week, I started writing blog posts and making small changes to this website
 
 I make changes to my website like a gardener tends to her garden. Slow, tinkering, and allowing space for delight. My website is where I like to connect with you, so it felt natural to spend more time here as I work through artistic recovery.
 
-I also re-committed myself to sending my weekly newsletter, [Soft Practice](/newsletter), which is my favorite place to share weekly updates about what I’ve learned about growing a creative practice.
+I also re-committed myself to sending my weekly newsletter, [Soft Practice](https://buttondown.com/samantha-andrews), which is my favorite place to share weekly updates about what I've learned about growing a creative practice.
 
 ![Treating myself like a precious object will make me strong](https://res.cloudinary.com/djrxspb6p/image/upload/v1634773038/blog/artists_way/artists_way_15_vtae9j.jpg)
 
