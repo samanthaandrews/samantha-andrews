@@ -1,17 +1,18 @@
 {
-  "title": "Samantha Andrews | Artist & Software Engineer",
+  "title": "Samantha Andrews | Software Engineer & Artist",
   "url": "https://samantha-andrews.com/",
-  "description": "Samantha Andrews is making art and writing software in Brooklyn, NY",
+  "description": "Samantha Andrews is writing software and making art in Brooklyn, NY",
   "github": "https://github.com/samanthaandrews",
-  "linkedin": "https://www.linkedin.com/in/samanthaandrews/",
+  "linkedin": "https://www.linkedin.com/in/samantharaeandrews/",
   "youtube": "https://youtube.com/@SamanthaAndrews",
   "tiktok": "https://www.tiktok.com/@samandrewsmakes",
   "spotify": "https://open.spotify.com/user/samantharaeandrews",
   "etsy": "https://www.etsy.com/shop/samandrewsmakes",
   "twitter": "https://twitter.com/_samand_",
+  "buttondown": "https://buttondown.email/samanthaandrews",
   "email": "hello@samantha-andrews.com",
   "feed": {
-    "subtitle": "Samantha Andrews is making art and writing software in Brooklyn, NY",
+    "subtitle": "Samantha Andrews is writing software and making art in Brooklyn, NY",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://samantha-andrews.com/"
