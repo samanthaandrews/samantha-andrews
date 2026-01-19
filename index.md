@@ -4,12 +4,12 @@ layout: layouts/base.njk
 
 <section class="home__hero">
   <div class="intro">
-    <h1>Hi, I'm <span class="gradient__text">Sam</span></h1>
+    <h1>Hi, I'm <span class="gradient__text">Sam</span> ✷ I'm a software engineer building AI tools while raising two small kids in Brooklyn, NY.</h1>
     <img src="https://res.cloudinary.com/djrxspb6p/image/upload/v1630433697/headshot_pjvu4t.png" class="me"/>
   </div>
 </section>
 
-I'm a software engineer building AI tools while raising two small kids in Brooklyn, NY. I'm interested in using technology to create space for what matters: a loving family, creative work, and a slower pace of life.
+I'm interested in using technology to create space for what matters: a loving family, creative work, and a slower pace of life.
 
 I'm drawn to work that improves how teams function: automating repetitive processes, building better workflows, and creating systems that help people do their best work.
 
