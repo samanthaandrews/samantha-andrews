@@ -26,7 +26,8 @@
     #f5511c 70%,
     #6c7219 100%
   );
-  --radial-gradient: radial-gradient(at top left, #6c7219, transparent 65%),
+  --radial-gradient:
+    radial-gradient(at top left, #6c7219, transparent 65%),
     radial-gradient(at top right, #e04cd6, transparent 65%),
     radial-gradient(at bottom left, #f5511c, transparent 95%),
     radial-gradient(at bottom right, #6c47f9, transparent 75%);
@@ -102,7 +103,8 @@ a img {
 
 a[href] {
   color: var(--darkgray);
-  border-bottom: 3px solid var(--electricpurple);
+  border-bottom: 2px solid transparent;
+  border-image: var(--horizontal-gradient) 1;
   text-decoration: none;
 }
 
@@ -113,10 +115,6 @@ a[href]:active {
 
 a[href]:visited {
   color: var(--darkgray);
-}
-
-a.email-archives__link {
-  border-bottom: 2px solid var(--darkgray);
 }
 
 .callout {
@@ -190,10 +188,10 @@ table th {
 
 pre,
 code {
-  font-family: Consolas, Menlo, Monaco, "Andale Mono WT", "Andale Mono",
-    "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono",
-    "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L",
-    "Courier New", Courier, monospace;
+  font-family:
+    Consolas, Menlo, Monaco, "Andale Mono WT", "Andale Mono", "Lucida Console",
+    "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono",
+    "Liberation Mono", "Nimbus Mono L", "Courier New", Courier, monospace;
   line-height: 1.2;
   color: var(--electricpurple);
 }
@@ -268,6 +266,7 @@ p.footer__link a[href]:hover,
 
 .calloutbox {
   padding: 1em;
+  padding-bottom: 3rem;
   margin: 2rem 0;
   border-radius: 2px;
 }
