@@ -9,11 +9,11 @@ layout: layouts/base.njk
   </div>
 </section>
 
-I'm a software engineer exploring how AI can make life more streamlined so I can spend less time on screens and more time present with my family. I'm interested in using the latest tech to create space for what matters: two small kids, a creative practice, and a slower pace of life.
+I'm a software engineer building AI tools while raising two small kids in Brooklyn, NY. I'm interested in using technology to create space for what matters: a loving family, creative work, and a slower pace of life.
 
 I'm drawn to work that improves how teams function: automating repetitive processes, building better workflows, and creating systems that help people do their best work.
 
-I've spent the past few years at the New York Public Library building accessible e-reading apps and leading engineering teams, and before that designing and building data visualization tools at Descartes Labs.
+I've spent the past few years at the New York Public Library building accessible e-reading apps and leading engineering teams, and before that designing and building data visualization tools for geospatial data at Descartes Labs.
 
 → [See my work](/work)
 
@@ -37,3 +37,6 @@ Beyond software, I maintain a creative practice exploring printmaking, collage, 
 The best way to reach me is [email](mailto:{{ metadata.email }}).
 
 You can also find me on [LinkedIn]({{ metadata.linkedin }}), [Twitter]({{ metadata.twitter }}), or [GitHub]({{ metadata.github }}).
+
+<br>
+<br>
