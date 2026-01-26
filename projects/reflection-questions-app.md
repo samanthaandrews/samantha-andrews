@@ -6,7 +6,7 @@ date: "2020"
 layout: layouts/project.njk
 ---
 
-Check it out at [ReflectionQuestions.app](https://reflectionquestions.app/)!
+Check it out at [ReflectionQuestions app](reflection-questions.netlify.app)!
 
 ![reflection questions app](https://samantha-andrews.s3.us-east-2.amazonaws.com/projects/reflection-questions-app/reflection-questions-preview.jpg)
 
@@ -14,7 +14,7 @@ I experienced the power of thoughtful reflection during my freshman year of coll
 
 I decided to publish my growing list of reflection questions and prompts as a web app and share the power of journaling with the world. Included in this repository are over 400 prompts from Dr. V.B. Price at the University of New Mexico.
 
-I built ReflectionQuestions.app over the course of March and April 2020, finally launching it on [Product Hunt](https://www.producthunt.com/posts/reflectionquestions-app) on May 4.
+I built ReflectionQuestions app over the course of March and April 2020, finally launching it on [Product Hunt](https://www.producthunt.com/posts/reflectionquestions-app) on May 4.
 
 ## My process
 

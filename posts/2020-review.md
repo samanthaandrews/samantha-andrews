@@ -7,6 +7,7 @@ image: https://res.cloudinary.com/djrxspb6p/image/upload/v1630434687/blog/2020_r
 tags:
   - yearly review
 ---
+
 ## Traveled to New Zealand and got engaged!
 
 My partner AJ and I traveled to New Zealand for the entirety of February and we got engaged! While this part of 2020 feels like a lifetime ago, I find myself looking back at the photos and feeling a swell of gratitude. We spent the first week with his family who lives in Auckland and the last three weeks driving a van from the North Island through the bottom of the South Island.
@@ -15,9 +16,9 @@ As a natural homebody, travel isn't easy for me. I often feel there is too much 
 
 ![hiking in new zealand](https://res.cloudinary.com/djrxspb6p/image/upload/v1630434687/blog/2020_review/hiking-in-new-zealand_ymz2ej.jpg)
 
-## ReflectionQuestions.app went live!
+## ReflectionQuestions app went live!
 
-[ReflectionQuestions.app](https://reflectionquestions.app/) is a free journaling prompt generator that I built and launched this year. Using a database of reflection questions that I've collected over the years (about 400 total), I created a simple web app to share them with the rest of the world.
+[ReflectionQuestions app](reflection-questions.netlify.app) is a free journaling prompt generator that I built and launched this year. Using a database of reflection questions that I've collected over the years (about 400 total), I created a simple web app to share them with the rest of the world.
 
 I'm proud of this project. It was a great exercise in scoping, managing, and marketing a personal project. Next time I launch a project like this, I know I'll work harder on the marketing and promotion side of things. It's not natural for me to talk about my work, but I now realize that people like to be involved in the making process. "Making in the open" is something I'm going to be doing more of in the future.
 
@@ -81,43 +82,43 @@ That being said, here are some of the things I hope to accomplish in 2021...
 
 _(With December 2021 updates)_
 
-* Become a morning writing person
-_This did not happen._
-<br>
+- Become a morning writing person
+  _This did not happen._
+  <br>
 
-* Write a poetry zine
-_This also did not happen._
-<br>
+- Write a poetry zine
+  _This also did not happen._
+  <br>
 
-* Become a person who reads (I'd like set a book number goal, but after doing that several years in a row, I need to figure out how to turn this into a system rather than a goal.)
-_I read a few books but still not as many as I'd hoped to._
-<br>
+- Become a person who reads (I'd like set a book number goal, but after doing that several years in a row, I need to figure out how to turn this into a system rather than a goal.)
+  _I read a few books but still not as many as I'd hoped to._
+  <br>
 
-* Make a DIY online store and donate all profits to great causes
-_I opened an Etsy store in November! [Here's the link](https://www.etsy.com/shop/samandrewsmakes) :)_
-<br>
+- Make a DIY online store and donate all profits to great causes
+  _I opened an Etsy store in November! [Here's the link](https://www.etsy.com/shop/samandrewsmakes) :)_
+  <br>
 
-* Go to therapy and actually commit to it this time
-_This was the biggest change I made in 2021. I started therapy in February and have continued with weekly sessions._
-<br>
+- Go to therapy and actually commit to it this time
+  _This was the biggest change I made in 2021. I started therapy in February and have continued with weekly sessions._
+  <br>
 
-* Make my Nana’s Spritz cookie recipe
-_I'm hoping to make this happen this month (December 2021), but my grandma has been sick and it has been hard to find a time that she is feeling up to me coming to visit. Update: [We did!](https://www.youtube.com/watch?v=UQwxcUkuD0M)_
-<br>
+- Make my Nana’s Spritz cookie recipe
+  _I'm hoping to make this happen this month (December 2021), but my grandma has been sick and it has been hard to find a time that she is feeling up to me coming to visit. Update: [We did!](https://www.youtube.com/watch?v=UQwxcUkuD0M)_
+  <br>
 
-* Learn to dive off a diving board
-_This did not happen. I practiced diving one day this summer, but was still too scared to try jumping off the diving board._
-<br>
+- Learn to dive off a diving board
+  _This did not happen. I practiced diving one day this summer, but was still too scared to try jumping off the diving board._
+  <br>
 
-* Find a professional mentor/coach
-_I hired a [career coach](https://www.paradoxtalent.com/) in August, and her help has been life-changing._
-<br>
+- Find a professional mentor/coach
+  _I hired a [career coach](https://www.paradoxtalent.com/) in August, and her help has been life-changing._
+  <br>
 
-* Start doing dance aerobics one day per week
-_I attended a couple virtual dance aerobics classes early in the year, but have since started going to the gym more frequently and attending pole dancing classes, both of which are fun and make me feel strong._
-<br>
+- Start doing dance aerobics one day per week
+  _I attended a couple virtual dance aerobics classes early in the year, but have since started going to the gym more frequently and attending pole dancing classes, both of which are fun and make me feel strong._
+  <br>
 
-* Schedule one date night per month
-_In theory this was a cute idea, but it just doesn't work for my fiance and I. Planning and scheduling even one more activity every month feels overwhelming. Instead, we've started listening to a record on the evening of each month's Full Moon and that has become our version of a date night._
+- Schedule one date night per month
+  _In theory this was a cute idea, but it just doesn't work for my fiance and I. Planning and scheduling even one more activity every month feels overwhelming. Instead, we've started listening to a record on the evening of each month's Full Moon and that has become our version of a date night._
 
 After reviewing this list, I'm hoping to make more achievable goals for 2022! I made a [video](https://www.youtube.com/watch?v=QK1yWN6IDLg) about how I've changed my thinking around goal-setting, and I'll be implementing those changes as I write my update for this year.
