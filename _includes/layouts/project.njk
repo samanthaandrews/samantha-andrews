@@ -5,4 +5,9 @@ templateClass: tmpl-project
 <h1>{{ title }}, {{ date }}</h1>
 <p>{{ description }}</p>
 {{ content | safe }}
-<p class="button"><a href="{{ '/projects' | url }}">← Projects</a></p>
+
+{% if tags and "work" in tags %}
+  <p class="button"><a href="{{ '/work' | url }}">← Work</a></p>
+{% else %}
+  <p class="button"><a href="{{ '/projects' | url }}">← Projects</a></p>
+{% endif %}

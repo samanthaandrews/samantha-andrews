@@ -364,6 +364,19 @@ a[href].project-preview__link:hover {
   margin-bottom: 20px;
 }
 
+/* Work Section Headings */
+.work-section__title {
+  font-family: "Space Grotesk", sans-serif;
+  font-size: 1.5rem;
+  margin-top: 3rem;
+  margin-bottom: 1.5rem;
+  color: var(--darkgray);
+}
+
+.work-section__title:first-of-type {
+  margin-top: 2rem;
+}
+
 /* Toolbox Page */
 .tmpl-toolbox img {
   max-width: 20px;

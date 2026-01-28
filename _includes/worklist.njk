@@ -1,0 +1,64 @@
+{% if worklist and worklist.length > 0 %}
+  {# Group work items by section #}
+  {% set currentProjects = [] %}
+  {% set nyplProjects = [] %}
+  {% set descartesProjects = [] %}
+
+  {% for item in worklist %}
+    {% if item.data.section == "Current Projects" %}
+      {% set currentProjects = (currentProjects.push(item), currentProjects) %}
+    {% elif item.data.section == "Technical Leadership at New York Public Library" %}
+      {% set nyplProjects = (nyplProjects.push(item), nyplProjects) %}
+    {% elif item.data.section == "UX Design & Frontend Engineering at Descartes Labs" %}
+      {% set descartesProjects = (descartesProjects.push(item), descartesProjects) %}
+    {% endif %}
+  {% endfor %}
+
+  {# Render Current Projects section #}
+  {% if currentProjects.length > 0 %}
+    <h2 class="work-section__title">Current Projects</h2>
+    <div class="project-preview">
+      {% for workItem in currentProjects %}
+        <div class="project-preview__item">
+          <a href="{{ workItem.url | url }}" class="project-preview__link">
+            <img class="project-preview__image" src="{{ workItem.data.previewImage }}" alt="{{ workItem.data.title }}">
+            <h2 class="project-preview__title">{{ workItem.data.title }}</h2>
+            <p class="project-preview__description">{{ workItem.data.description }}</p>
+          </a>
+        </div>
+      {% endfor %}
+    </div>
+  {% endif %}
+
+  {# Render NYPL section #}
+  {% if nyplProjects.length > 0 %}
+    <h2 class="work-section__title">Technical Leadership at New York Public Library</h2>
+    <div class="project-preview">
+      {% for workItem in nyplProjects %}
+        <div class="project-preview__item">
+          <a href="{{ workItem.url | url }}" class="project-preview__link">
+            <img class="project-preview__image" src="{{ workItem.data.previewImage }}" alt="{{ workItem.data.title }}">
+            <h2 class="project-preview__title">{{ workItem.data.title }}</h2>
+            <p class="project-preview__description">{{ workItem.data.description }}</p>
+          </a>
+        </div>
+      {% endfor %}
+    </div>
+  {% endif %}
+
+  {# Render Descartes Labs section #}
+  {% if descartesProjects.length > 0 %}
+    <h2 class="work-section__title">UX Design & Frontend Engineering at Descartes Labs</h2>
+    <div class="project-preview">
+      {% for workItem in descartesProjects %}
+        <div class="project-preview__item">
+          <a href="{{ workItem.url | url }}" class="project-preview__link">
+            <img class="project-preview__image" src="{{ workItem.data.previewImage }}" alt="{{ workItem.data.title }}">
+            <h2 class="project-preview__title">{{ workItem.data.title }}</h2>
+            <p class="project-preview__description">{{ workItem.data.description }}</p>
+          </a>
+        </div>
+      {% endfor %}
+    </div>
+  {% endif %}
+{% endif %}

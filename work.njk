@@ -1,0 +1,24 @@
+---
+layout: layouts/base.njk
+permalink: /work/
+eleventyNavigation:
+  key: Work
+  order: 1
+---
+
+<h1>Work</h1>
+
+<p>I'm a software engineer with 7+ years of experience building and shipping products. I've worked in large nonprofits and small start-up environments. As a former visual designer, I enjoy bringing Figma designs to life through scalable, maintainable code and accessible UX.</p>
+
+{% set worklist = collections.work %}
+{% include "worklist.njk" %}
+
+<h2>Earlier Work & Creative Projects (2016-2020)</h2>
+
+<p>Before transitioning fully into professional software engineering, I designed brands and websites, made zines, and taught workshops about design & code.</p>
+
+<ul>
+  <li><a href="https://youtu.be/ldg3Ux_0YeQ">Video - Software engineering basics for designers</a></li>
+  <li><a href="https://youtu.be/led619AwESM">Video - How to make a zine with code</a></li>
+  <li><a href="/projects">View my earlier work</a></li>
+</ul>
