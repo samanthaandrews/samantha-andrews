@@ -13,8 +13,6 @@ layout: layouts/project.njk
 **Scale:** National program serving students across Title 1 schools; 37,000+ checkouts in Q1 2024
 **Team:** Led 3 frontend engineers building TypeScript/React layer; collaborated with 2 mobile engineers (Swift/Kotlin), UX designer, accessibility specialist, and QA
 
-> **Note:** Open eBooks was sunset in 2025 as part of NYPL's strategic repositioning. The apps successfully served students nationwide before the program concluded.
-
 ---
 
 ## The Problem
@@ -68,7 +66,7 @@ This process ensured WCAG 2.1 AA compliance from the start rather than retrofitt
 
 ---
 
-## Project Outcome
+## Impact
 
 Successfully launched iOS and Android apps with WCAG 2.1 AA accessibility compliance for a national program serving students in Title 1 schools across the United States.
 
@@ -81,7 +79,7 @@ Despite this growth trajectory, Open eBooks was strategically sunset in 2025 as 
 
 ---
 
-## Technical Details
+## Tech Stack
 
 **Frontend:** React, TypeScript, Next.js, Chakra UI, Capacitor (hybrid framework)
 

@@ -81,14 +81,12 @@ The biggest challenge was keeping Mapbox GL's internal state synchronized with R
 
 ---
 
-## Tech Stack
-
-React, TypeScript, Redux, Mapbox GL JS
-
----
-
 ## Impact
 
 Became Descartes Labs' primary sales demo tool - the only product accessible to non-technical decision-makers. Enabled interactive demonstrations of platform capabilities during sales calls, helping close deals by making complex satellite imagery processing tangible and visual.
 
 ---
+
+## Tech Stack
+
+React, TypeScript, Redux, Mapbox GL JS
