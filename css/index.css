@@ -558,4 +558,19 @@ a[href].project-preview__link:hover {
     width: 290px;
     height: 225px;
   }
+  /* Work page specific styles - fills space with 2 items */
+  .project-preview--work {
+    gap: 20px;
+  }
+  .project-preview--work .project-preview__item {
+    flex: 1;
+    max-width: none;
+    min-width: 320px;
+  }
+  .project-preview--work .project-preview__image {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 290 / 225;
+    object-fit: cover;
+  }
 }

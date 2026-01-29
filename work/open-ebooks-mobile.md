@@ -1,7 +1,7 @@
 ---
 title: "Open eBooks Hybrid Mobile Apps"
-description: "Building an accessible e-reading experience for students in Title 1 schools"
-previewImage: "https://via.placeholder.com/290x225"
+description: "Built an accessible e-reading experience for students in Title 1 schools"
+previewImage: "https://res.cloudinary.com/djrxspb6p/image/upload/v1769662095/work/open-ebooks-mobile/open_ebooks_portfolio_wlpmvw.jpg"
 date: "2024"
 section: "Technical Leadership at New York Public Library"
 layout: layouts/project.njk
