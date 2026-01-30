@@ -62,13 +62,13 @@ Our accessibility specialist audited the component library for WCAG compliance a
 
 **Expert review:** Accessibility specialist tested complete user flows with assistive technologies, focusing on edge cases and cross-platform consistency
 
-This process ensured WCAG 2.1 AA compliance from the start rather than retrofitting accessibility later.
+This process ensured WCAG 2.2 AA compliance from the start rather than retrofitting accessibility later.
 
 ---
 
 ## Impact
 
-Successfully launched iOS and Android apps with WCAG 2.1 AA accessibility compliance for a national program serving students in Title 1 schools across the United States.
+Successfully launched iOS and Android apps with WCAG 2.2 AA accessibility compliance for a national program serving students in Title 1 schools across the United States.
 
 **Usage impact:**
 
