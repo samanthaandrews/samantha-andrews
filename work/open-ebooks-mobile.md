@@ -13,6 +13,8 @@ layout: layouts/project.njk
 **Scale:** National program serving students across Title 1 schools; 37,000+ checkouts in Q1 2024
 **Team:** Led 3 frontend engineers building TypeScript/React layer; collaborated with 2 mobile engineers (Swift/Kotlin), UX designer, accessibility specialist, and QA
 
+![Open eBooks Hybrid App final interface](https://res.cloudinary.com/djrxspb6p/image/upload/v1769662095/work/open-ebooks-mobile/open_ebooks_portfolio_wlpmvw.jpg)
+
 ---
 
 ## The Problem
@@ -36,7 +38,10 @@ I led the technical architecture for a hybrid app split into two layers:
 
 **Native layer:** The actual reading experience (Swift for iOS, Kotlin for Android), including reader settings, bookmarks, and position tracking
 
-### The Technical Challenge: Bridging Two Worlds
+![C4 Diagram showing data flow between the web-based catalog and the native Reader component](https://res.cloudinary.com/djrxspb6p/image/upload/v1770176629/work/open-ebooks-mobile/open_ebooks_portfolio_2_rqaemm.jpg)
+C4 Component Diagram of the app architecture
+
+### The Technical Challenge: Communicating Between TypeScript and Swift/Kotlin
 
 The most complex aspect was designing a clean API for communication between layers. I created a custom Capacitor plugin that handled multiple publication types (EPUB, audiobooks) while maintaining type safety across the TypeScript/native boundary.
 
