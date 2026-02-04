@@ -1,6 +1,6 @@
 ---
-title: "Viewer: Web App for Viewing and Analyzing Geospatial Data"
-description: "Built an interactive web application for visualizing and analyzing satellite imagery and geospatial datasets"
+title: "Viewer: Interactive Geospatial Data Web App"
+description: "Web-based tool enabling scientists to edit and share satellite imagery visualizations without code, making complex geospatial data accessible through the browser"
 previewImage: "https://res.cloudinary.com/djrxspb6p/image/upload/v1769662083/work/viewer/viewer_portfolio_esq4si.jpg"
 date: "2018"
 section: "UX Design & Frontend Engineering at Descartes Labs"
@@ -11,6 +11,8 @@ layout: layouts/project.njk
 **Company:** Descartes Labs  
 **Timeline:** 2018-2021  
 **Team:** 2-3 frontend engineers, applied scientists, product
+
+![Viewer UI](https://res.cloudinary.com/djrxspb6p/image/upload/v1769662083/work/viewer/viewer_portfolio_esq4si.jpg)
 
 ---
 
