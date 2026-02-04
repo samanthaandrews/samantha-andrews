@@ -43,29 +43,39 @@ The biggest challenge was keeping Mapbox GL's internal state synchronized with R
 
 **Multi-source data loading:** GeoJSON upload, custom URLs, or search Descartes Labs data catalog
 
-**Layer management:** Toggle visibility, adjust opacity, reorder layers, export, share entire maps (initially via URL parameters, evolved as state grew more complex)
+**Layer management:** Toggle visibility, adjust opacity, reorder layers. Editing and exporting layers used a slide-out panel to keep the map visible during configuration.
 
-**RGB band stretching:** Scientists could adjust visualization parameters directly in the UI. This made an API call to reprocess imagery, but enabled real-time exploration without returning to code.
+**Map saving and sharing:** Save map configurations and share them via URL, enabling collaboration and easy demo reproduction
 
-**Layer preview:** View layers before adding them to the map - critical for scientists to verify data looked correct
+**RGB band stretching/Contrast enhancement:** Scientists could adjust visualization parameters directly in the UI. This made an API call to reprocess imagery, but enabled real-time exploration without returning to code.
 
-[Screenshot placeholders: Catalog search, layer controls, band stretching interface]
+**Ternary plot legends:** Triangular diagrams showing how RGB bands are combined in composite imagery, helping users understand multi-band visualizations
+
+![Add layer UI](https://res.cloudinary.com/djrxspb6p/image/upload/v1770175264/work/viewer/viewer_portfolio_3_uqjuca.jpg)
+UI for searching the data catalog and adding a layer
+
+![Edit layer UI](https://res.cloudinary.com/djrxspb6p/image/upload/v1770175265/work/viewer/viewer_portfolio_4_j8efa9.jpg)
+UI for editing a data product layer
+
+![Ternary plot legend](https://res.cloudinary.com/djrxspb6p/image/upload/v1769662083/work/viewer/viewer_portfolio_esq4si.jpg)
+Ternary plot legend
 
 ---
 
 ## Design Process
 
-**Initial wireframes:** I designed layer addition as a modal dialog - a standard pattern for "add new item" workflows.
+**Key insight from user research:** I initially assumed scientists wanted a _viewer_ for already-processed data. User research revealed they wanted to continue _editing_ - tweaking visualization parameters directly in the browser without returning to code. This shifted the design from a simple viewer to an interactive editing tool.
 
-**Problem discovered:** Scientists pointed out the modal covered the map, preventing them from seeing layer previews. Since preview was critical for verifying data, this defeated the purpose.
+This insight drove feature priorities: adding RGB band stretching controls, ternary plot legends for understanding composites, and slide-out panels for layer editing that kept the map visible during configuration.
 
-**Solution:** Redesigned as a slide-out panel from the left layers panel, keeping the map visible.
+![User journey map for our advanced mining exploration client - Figma UI with colorful sticky notes](https://res.cloudinary.com/djrxspb6p/image/upload/v1770175325/work/viewer/viewer_portfolio_6_ms72ou.jpg)
+User journey map for advanced mineral exploration
 
-**Bigger discovery:** I assumed scientists wanted a _viewer_ for already-processed data. User research revealed they wanted to continue _editing_ - tweaking visualization parameters without returning to code. This led to adding "edit and analyze" tools in a right panel.
+![3 Balsamiq wireframes showing export layer UI flow](https://res.cloudinary.com/djrxspb6p/image/upload/v1770175264/work/viewer/viewer_portfolio_5_gmj3ir.jpg)
+Export layer flow wireframe
 
-**Final layout:** Three-panel design inspired by Figma - left for layers, center for map, right for editing tools.
-
-[Screenshot placeholders: Wireframes showing modal → slide-out iteration, final three-panel interface]
+![Viewer map interface](https://res.cloudinary.com/djrxspb6p/image/upload/v1770175267/work/viewer/viewer_portfolio_2_ljioo3.jpg)
+Final interface with RGB band stretching/contrast enhancement
 
 ---
 
@@ -73,9 +83,9 @@ The biggest challenge was keeping Mapbox GL's internal state synchronized with R
 
 **State architecture:** Making Redux the single source of truth eliminated synchronization bugs and enabled map sharing
 
-**User research:** Technical users think in data layers and transformations, not screens. Blocking their view (with a modal) blocked their thinking.
+**User research:** Technical users think in data layers and transformations; they wanted tools that kept the map visible and allowed fluid transitions between viewing and editing
 
-**Design assumptions:** The line between "viewer" and "editor" isn't clear - users wanted to fluidly move between viewing and tweaking data
+**Design assumptions:** The line between "viewer" and "editor" isn't clear. Instead, users wanted to fluidly move between viewing and tweaking data
 
 **Sales impact:** The only non-API product became critical for demos, making the platform's capabilities tangible to non-technical decision-makers
 
