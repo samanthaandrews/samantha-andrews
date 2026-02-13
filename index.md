@@ -36,7 +36,7 @@ Beyond software, I maintain a creative practice exploring printmaking, collage, 
 
 The best way to reach me is [email](mailto:{{ metadata.email }}).
 
-You can also find me on [LinkedIn]({{ metadata.linkedin }}), [Twitter]({{ metadata.twitter }}), or [GitHub]({{ metadata.github }}).
+You can also find me on [Substack]({{ metadata.substack }}).
 
 <br>
 <br>
